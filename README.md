@@ -87,6 +87,6 @@ The following results are derived strictly from the provided dataset and the res
 - Oneil Cruz
 - David Hamilton
 
-REASONING: This query calculates the percent of aggresive plays that were made out of the total amount of base running plays
-each runner made (not including batters). Aggresive plays in this case are plays where runner stole a base, got caught stealing,
+REASONING: This query calculates the percent of aggressive plays that were made out of the total amount of base running plays
+each runner made (not including batters). Aggressive plays in this case are plays where runner stole a base, got caught stealing,
 got picked off, went first to third, or went second to home. Minimum number of running plays was set to 50.
