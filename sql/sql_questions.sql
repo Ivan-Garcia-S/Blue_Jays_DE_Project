@@ -162,10 +162,6 @@ LIMIT 5;
 
 
 -- 3f) Write a query that identifies the most aggressive baserunners and explain your reasoning
---
--- REASONING: This query calculates the percent of aggresive plays that were made out of the total amount of base running plays
--- each runner made (not including batters). Aggresive plays in this case are plays where runner stole a base, got caught stealing,
--- got picked off, went first to third, or went second to home. Set minimum opportunities to 50.
 
 WITH base AS (
   SELECT

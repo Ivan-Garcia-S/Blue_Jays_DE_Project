@@ -8,13 +8,13 @@ The solution is organized into schema definitions, a reproducible ETL pipeline w
 
 ### Where to find table definitions
 
-All database table definitions are located in: sql/create_tables.sql
+All database table definitions are located in: `sql/create_tables.sql`
 
 ## Part 2 – Transform and Load Data (ETL)
 
 ### Where to find the code
 
-The ETL logic for Part 2 is implemented in: scripts/run_etl.py
+The ETL logic for Part 2 is implemented in: `scripts/run_etl.py`
 
 ### How to run the ETL
 
@@ -29,18 +29,19 @@ python scripts/run_etl.py --db-uri "<YOUR_DB_URI>"
 
 ### Where to find the queries
 
-All SQL queries for Part 3 are located in: sql/sql_questions.sql
+All SQL queries for Part 3 are located in: `sql/sql_questions.sql`
 
 ### Answers to the questions in Part 3
+The following results are derived strictly from the provided dataset and the results of my provided queries.
 
-3a) 
+3a) Top 5 teams in regular season wins (2025)
 - Milwaukee Brewers
 - Philadelphia Phillies
 - Toronto Blue Jays
 - New York Yankees
 - Los Angeles Dodgers
 
-3b) 
+3b) Players with 35+ stolen bases (regular season)
 - José Caballero
 - Chandler Simpson
 - José Ramírez
@@ -51,7 +52,7 @@ All SQL queries for Part 3 are located in: sql/sql_questions.sql
 - Trea Turner
 - Pete Crow-Armstrong
 
-3c)
+3c) Players with the most “extra bases taken”
 - Elly De La Cruz
 - George Springer
 - Ernie Clement
@@ -63,18 +64,18 @@ All SQL queries for Part 3 are located in: sql/sql_questions.sql
 - Brice Turang
 - CJ Abrams
 
-3d) 
+3d) Largest comeback win in 2025
 - gamepk: 776919
 - team name: Colorado Rockies
 
-3e)
+3e) Teams with the most come-from-behind wins
 - Toronto Blue Jays
 - Los Angeles Dodgers
 - Seattle Mariners
 - Philadelphia Phillies
 - Kansas City Royals
 
-3f)
+3f) Most aggressive baserunners
 - Tyler Tolbert
 - Kyren Paris
 - Jakob Marsee
@@ -86,4 +87,6 @@ All SQL queries for Part 3 are located in: sql/sql_questions.sql
 - Oneil Cruz
 - David Hamilton
 
-(Reasoning explained in sql file)
+REASONING: This query calculates the percent of aggresive plays that were made out of the total amount of base running plays
+each runner made (not including batters). Aggresive plays in this case are plays where runner stole a base, got caught stealing,
+got picked off, went first to third, or went second to home. Minimum number of running plays was set to 50.
