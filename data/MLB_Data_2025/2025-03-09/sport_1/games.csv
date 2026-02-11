@@ -1,0 +1,18 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+779110,2025-03-09T17:05:00Z,2025-03-09,1,S,F,Final,134,Pittsburgh Pirates,3,116,Detroit Tigers,5,2511,Publix Field at Joker Marchant Stadium,9
+778965,2025-03-09T17:05:00Z,2025-03-09,1,S,F,Final,141,Toronto Blue Jays,13,139,Tampa Bay Rays,9,2534,Charlotte Sports Park,9
+779125,2025-03-09T17:05:00Z,2025-03-09,1,S,F,Final,142,Minnesota Twins,3,110,Baltimore Orioles,4,2508,Ed Smith Stadium,9
+778907,2025-03-09T17:05:00Z,2025-03-09,1,S,F,Final,110,Baltimore Orioles,2,143,Philadelphia Phillies,12,2700,BayCare Ballpark,9
+778762,2025-03-09T17:05:00Z,2025-03-09,1,S,F,Final,144,Atlanta Braves,3,111,Boston Red Sox,7,4309,JetBlue Park,9
+778725,2025-03-09T17:05:00Z,2025-03-09,1,S,F,Final,146,Miami Marlins,10,117,Houston Astros,6,5000,CACTI Park of the Palm Beaches,9
+779072,2025-03-09T17:05:00Z,2025-03-09,1,S,F,Final,147,New York Yankees,5,138,St. Louis Cardinals,6,2520,Roger Dean Chevrolet Stadium,9
+778891,2025-03-09T17:10:00Z,2025-03-09,1,S,F,Final,120,Washington Nationals,6,121,New York Mets,7,2856,Clover Park,9
+789464,2025-03-09T20:05:00Z,2025-03-09,1,S,F,Final,109,Arizona Diamondbacks,7,133,Athletics,5,5355,Las Vegas Ballpark,9
+778851,2025-03-09T20:05:00Z,2025-03-09,1,S,F,Final,133,Athletics,7,119,Los Angeles Dodgers,5,3809,Camelback Ranch,9
+778753,2025-03-09T20:05:00Z,2025-03-09,1,S,F,Final,137,San Francisco Giants,8,112,Chicago Cubs,6,4629,Sloan Park,9
+778988,2025-03-09T20:05:00Z,2025-03-09,1,S,F,Final,135,San Diego Padres,4,137,San Francisco Giants,7,2532,Scottsdale Stadium,9
+778822,2025-03-09T20:05:00Z,2025-03-09,1,S,F,Final,145,Chicago White Sox,0,114,Cleveland Guardians,1,3834,Goodyear Ballpark,9
+778928,2025-03-09T20:05:00Z,2025-03-09,1,S,F,Final,158,Milwaukee Brewers,2,118,Kansas City Royals,5,2603,Surprise Stadium,9
+779158,2025-03-09T20:10:00Z,2025-03-09,1,S,F,Final,113,Cincinnati Reds,1,108,Los Angeles Angels,4,2500,Tempe Diablo Stadium,9
+779010,2025-03-09T20:10:00Z,2025-03-09,1,S,F,Final,115,Colorado Rockies,1,136,Seattle Mariners,8,2530,Peoria Stadium,9
+778790,2025-03-09T20:10:00Z,2025-03-09,1,S,F,Final,140,Texas Rangers,1,109,Arizona Diamondbacks,14,4249,Salt River Fields at Talking Stick,9

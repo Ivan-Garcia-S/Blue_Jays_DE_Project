@@ -1,0 +1,16 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+777663,2025-06-03T22:40:00Z,2025-06-03,1,R,F,Final,117,Houston Astros,3,134,Pittsburgh Pirates,0,31,PNC Park,9
+777666,2025-06-03T22:40:00Z,2025-06-03,1,R,F,Final,115,Colorado Rockies,3,146,Miami Marlins,2,4169,loanDepot park,9
+777659,2025-06-03T22:45:00Z,2025-06-03,1,R,F,Final,112,Chicago Cubs,8,120,Washington Nationals,3,3309,Nationals Park,9
+777664,2025-06-03T23:05:00Z,2025-06-03,1,R,F,Final,114,Cleveland Guardians,2,147,New York Yankees,3,3313,Yankee Stadium,9
+777665,2025-06-03T23:07:00Z,2025-06-03,1,R,F,Final,143,Philadelphia Phillies,8,141,Toronto Blue Jays,3,14,Rogers Centre,9
+777667,2025-06-03T23:10:00Z,2025-06-03,1,R,F,Final,108,Los Angeles Angels,4,111,Boston Red Sox,3,3,Fenway Park,9
+777668,2025-06-03T23:10:00Z,2025-06-03,1,R,F,Final,158,Milwaukee Brewers,2,113,Cincinnati Reds,4,2602,Great American Ball Park,9
+777672,2025-06-03T23:15:00Z,2025-06-03,1,R,F,Final,109,Arizona Diamondbacks,8,144,Atlanta Braves,3,4705,Truist Park,9
+777662,2025-06-03T23:35:00Z,2025-06-03,1,R,F,Final,140,Texas Rangers,1,139,Tampa Bay Rays,5,2523,George M. Steinbrenner Field,9
+777661,2025-06-03T23:40:00Z,2025-06-03,1,R,F,Final,116,Detroit Tigers,1,145,Chicago White Sox,8,4,Rate Field,9
+777660,2025-06-03T23:45:00Z,2025-06-03,1,R,F,Final,118,Kansas City Royals,10,138,St. Louis Cardinals,7,2889,Busch Stadium,9
+777655,2025-06-04T01:40:00Z,2025-06-03,1,R,F,Final,110,Baltimore Orioles,5,136,Seattle Mariners,1,680,T-Mobile Park,9
+777656,2025-06-04T01:45:00Z,2025-06-03,1,R,F,Final,135,San Diego Padres,3,137,San Francisco Giants,2,2395,Oracle Park,9
+777658,2025-06-04T02:05:00Z,2025-06-03,1,R,F,Final,142,Minnesota Twins,10,133,Athletics,3,2529,Sutter Health Park,9
+777657,2025-06-04T02:10:00Z,2025-06-03,1,R,F,Final,121,New York Mets,5,119,Los Angeles Dodgers,6,22,Dodger Stadium,9

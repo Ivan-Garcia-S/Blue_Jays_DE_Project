@@ -1,0 +1,10 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+778560,2025-03-28T20:10:00Z,2025-03-28,1,R,F,Final,115,Colorado Rockies,2,139,Tampa Bay Rays,3,2523,George M. Steinbrenner Field,9
+778549,2025-03-28T23:07:00Z,2025-03-28,1,R,F,Final,110,Baltimore Orioles,2,141,Toronto Blue Jays,8,14,Rogers Centre,9
+778548,2025-03-28T23:10:00Z,2025-03-28,1,R,F,Final,134,Pittsburgh Pirates,4,146,Miami Marlins,3,4169,loanDepot park,9
+778550,2025-03-29T00:05:00Z,2025-03-28,1,R,F,Final,111,Boston Red Sox,1,140,Texas Rangers,4,5325,Globe Life Field,9
+778518,2025-03-29T00:10:00Z,2025-03-28,1,R,F,Final,121,New York Mets,3,117,Houston Astros,1,2392,Daikin Park,9
+778543,2025-03-29T01:40:00Z,2025-03-28,1,R,F,Final,112,Chicago Cubs,1,109,Arizona Diamondbacks,8,15,Chase Field,9
+778541,2025-03-29T01:40:00Z,2025-03-28,1,R,F,Final,133,Athletics,7,136,Seattle Mariners,0,680,T-Mobile Park,9
+778542,2025-03-29T01:40:00Z,2025-03-28,1,R,F,Final,144,Atlanta Braves,3,135,San Diego Padres,4,2680,Petco Park,9
+778544,2025-03-29T02:10:00Z,2025-03-28,1,R,F,Final,116,Detroit Tigers,5,119,Los Angeles Dodgers,8,22,Dodger Stadium,9

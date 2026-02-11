@@ -1,0 +1,16 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+776162,2025-09-27T17:05:00Z,2025-09-27,1,R,F,Final,110,Baltimore Orioles,1,147,New York Yankees,6,3313,Yankee Stadium,9
+776164,2025-09-27T18:20:00Z,2025-09-27,1,R,F,Final,138,St. Louis Cardinals,3,112,Chicago Cubs,7,17,Wrigley Field,9
+776159,2025-09-27T19:07:00Z,2025-09-27,1,R,F,Final,139,Tampa Bay Rays,1,141,Toronto Blue Jays,5,14,Rogers Centre,9
+776146,2025-09-27T20:05:00Z,2025-09-27,1,R,F,Final,115,Colorado Rockies,3,137,San Francisco Giants,4,2395,Oracle Park,9
+776160,2025-09-27T20:05:00Z,2025-09-27,1,R,F,Final,145,Chicago White Sox,5,120,Washington Nationals,6,3309,Nationals Park,9
+776157,2025-09-27T20:10:00Z,2025-09-27,1,R,F,Final,116,Detroit Tigers,2,111,Boston Red Sox,1,3,Fenway Park,9
+776161,2025-09-27T20:10:00Z,2025-09-27,1,R,F,Final,121,New York Mets,5,146,Miami Marlins,0,4169,loanDepot park,9
+776163,2025-09-27T22:05:00Z,2025-09-27,1,R,F,Final,142,Minnesota Twins,5,143,Philadelphia Phillies,0,2681,Citizens Bank Park,9
+776158,2025-09-27T23:15:00Z,2025-09-27,1,R,F,Final,140,Texas Rangers,2,114,Cleveland Guardians,3,5,Progressive Field,9
+776156,2025-09-27T23:15:00Z,2025-09-27,1,R,F,Final,134,Pittsburgh Pirates,3,144,Atlanta Braves,1,4705,Truist Park,9
+776153,2025-09-27T23:15:00Z,2025-09-27,1,R,F,Final,113,Cincinnati Reds,7,158,Milwaukee Brewers,4,32,American Family Field,9
+776152,2025-09-28T00:40:00Z,2025-09-27,1,R,F,Final,109,Arizona Diamondbacks,1,135,San Diego Padres,5,2680,Petco Park,9
+776155,2025-09-28T01:38:00Z,2025-09-27,1,R,F,Final,117,Houston Astros,6,108,Los Angeles Angels,1,1,Angel Stadium,9
+776150,2025-09-28T01:40:00Z,2025-09-27,1,R,F,Final,119,Los Angeles Dodgers,5,136,Seattle Mariners,3,680,T-Mobile Park,9
+776154,2025-09-28T02:05:00Z,2025-09-27,1,R,F,Final,118,Kansas City Royals,4,133,Athletics,2,2529,Sutter Health Park,9

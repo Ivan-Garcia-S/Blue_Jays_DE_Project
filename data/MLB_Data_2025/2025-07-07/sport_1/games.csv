@@ -1,0 +1,11 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+777211,2025-07-07T22:40:00Z,2025-07-07,1,R,F,Final,139,Tampa Bay Rays,1,116,Detroit Tigers,5,2394,Comerica Park,9
+777209,2025-07-07T23:10:00Z,2025-07-07,1,R,F,Final,115,Colorado Rockies,3,111,Boston Red Sox,9,3,Fenway Park,9
+777208,2025-07-07T23:10:00Z,2025-07-07,1,R,F,Final,146,Miami Marlins,5,113,Cincinnati Reds,1,2602,Great American Ball Park,9
+777204,2025-07-07T23:40:00Z,2025-07-07,1,R,F,Final,134,Pittsburgh Pirates,3,118,Kansas City Royals,9,7,Kauffman Stadium,9
+777212,2025-07-07T23:40:00Z,2025-07-07,1,R,F,Final,141,Toronto Blue Jays,8,145,Chicago White Sox,4,4,Rate Field,9
+777201,2025-07-07T23:40:00Z,2025-07-07,1,R,F,Final,119,Los Angeles Dodgers,1,158,Milwaukee Brewers,9,32,American Family Field,9
+777202,2025-07-08T00:10:00Z,2025-07-07,1,R,F,Final,114,Cleveland Guardians,7,117,Houston Astros,5,2392,Daikin Park,9
+777200,2025-07-08T01:38:00Z,2025-07-07,1,R,F,Final,140,Texas Rangers,5,108,Los Angeles Angels,6,1,Angel Stadium,9
+777203,2025-07-08T01:40:00Z,2025-07-07,1,R,F,Final,109,Arizona Diamondbacks,6,135,San Diego Padres,3,2680,Petco Park,9
+777199,2025-07-08T01:45:00Z,2025-07-07,1,R,F,Final,143,Philadelphia Phillies,1,137,San Francisco Giants,3,2395,Oracle Park,9

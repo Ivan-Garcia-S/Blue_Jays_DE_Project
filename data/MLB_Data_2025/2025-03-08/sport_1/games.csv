@@ -1,0 +1,18 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+778724,2025-03-08T17:05:00Z,2025-03-08,1,S,F,Final,138,St. Louis Cardinals,5,120,Washington Nationals,3,5000,CACTI Park of the Palm Beaches,9
+779126,2025-03-08T18:05:00Z,2025-03-08,1,S,F,Final,139,Tampa Bay Rays,6,110,Baltimore Orioles,3,2508,Ed Smith Stadium,9
+778873,2025-03-08T18:05:00Z,2025-03-08,1,S,F,Final,111,Boston Red Sox,8,142,Minnesota Twins,9,2862,Lee Health Sports Complex,9
+778908,2025-03-08T18:05:00Z,2025-03-08,1,S,F,Final,141,Toronto Blue Jays,4,143,Philadelphia Phillies,5,2700,BayCare Ballpark,9
+778697,2025-03-08T18:05:00Z,2025-03-08,1,S,F,Final,134,Pittsburgh Pirates,5,144,Atlanta Braves,6,5380,CoolToday Park,9
+778955,2025-03-08T18:07:00Z,2025-03-08,1,S,F,Final,116,Detroit Tigers,0,141,Toronto Blue Jays,5,2536,TD Ballpark,9
+778827,2025-03-08T20:05:00Z,2025-03-08,1,S,F,Final,109,Arizona Diamondbacks,8,113,Cincinnati Reds,9,3834,Goodyear Ballpark,9
+778751,2025-03-08T20:05:00Z,2025-03-08,1,S,F,Final,136,Seattle Mariners,8,112,Chicago Cubs,9,4629,Sloan Park,9
+778989,2025-03-08T20:05:00Z,2025-03-08,1,S,F,Final,118,Kansas City Royals,3,137,San Francisco Giants,7,2532,Scottsdale Stadium,9
+778930,2025-03-08T20:05:00Z,2025-03-08,1,S,F,Final,118,Kansas City Royals,3,140,Texas Rangers,5,2603,Surprise Stadium,9
+778853,2025-03-08T20:05:00Z,2025-03-08,1,S,F,Final,119,Los Angeles Dodgers,2,145,Chicago White Sox,5,3809,Camelback Ranch,9
+778792,2025-03-08T20:10:00Z,2025-03-08,1,S,F,Final,133,Athletics,8,115,Colorado Rockies,1,4249,Salt River Fields at Talking Stick,9
+779008,2025-03-08T20:10:00Z,2025-03-08,1,S,F,Final,114,Cleveland Guardians,2,135,San Diego Padres,7,2530,Peoria Stadium,9
+779095,2025-03-08T20:10:00Z,2025-03-08,1,S,F,Final,108,Los Angeles Angels,6,158,Milwaukee Brewers,2,2518,American Family Fields of Phoenix,9
+789465,2025-03-08T21:05:00Z,2025-03-08,1,S,F,Final,109,Arizona Diamondbacks,2,133,Athletics,4,5355,Las Vegas Ballpark,9
+778731,2025-03-08T23:05:00Z,2025-03-08,1,S,F,Final,147,New York Yankees,2,117,Houston Astros,5,5000,CACTI Park of the Palm Beaches,9
+779071,2025-03-08T23:40:00Z,2025-03-08,1,S,F,Final,121,New York Mets,7,146,Miami Marlins,3,2520,Roger Dean Chevrolet Stadium,9

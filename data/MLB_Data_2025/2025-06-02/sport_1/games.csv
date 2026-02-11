@@ -1,0 +1,8 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+777673,2025-06-02T22:40:00Z,2025-06-02,1,R,F,Final,115,Colorado Rockies,6,146,Miami Marlins,4,4169,loanDepot park,9
+777670,2025-06-02T23:10:00Z,2025-06-02,1,R,F,Final,108,Los Angeles Angels,7,111,Boston Red Sox,6,3,Fenway Park,9
+777671,2025-06-02T23:10:00Z,2025-06-02,1,R,F,Final,158,Milwaukee Brewers,3,113,Cincinnati Reds,2,2602,Great American Ball Park,9
+777674,2025-06-02T23:40:00Z,2025-06-02,1,R,F,Final,116,Detroit Tigers,13,145,Chicago White Sox,1,4,Rate Field,9
+777676,2025-06-03T01:45:00Z,2025-06-02,1,R,F,Final,135,San Diego Padres,1,137,San Francisco Giants,0,2395,Oracle Park,9
+777669,2025-06-03T02:05:00Z,2025-06-02,1,R,F,Final,142,Minnesota Twins,10,133,Athletics,4,2529,Sutter Health Park,9
+777675,2025-06-03T02:10:00Z,2025-06-02,1,R,F,Final,121,New York Mets,4,119,Los Angeles Dodgers,3,22,Dodger Stadium,9

@@ -1,0 +1,5 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+813071,2025-10-01T17:08:00Z,2025-10-01,1,F,F,Final,116,Detroit Tigers,1,114,Cleveland Guardians,6,5,Progressive Field,9
+813064,2025-10-01T19:08:00Z,2025-10-01,1,F,F,Final,135,San Diego Padres,3,112,Chicago Cubs,0,17,Wrigley Field,9
+813070,2025-10-01T22:08:00Z,2025-10-01,1,F,F,Final,111,Boston Red Sox,3,147,New York Yankees,4,3313,Yankee Stadium,9
+813068,2025-10-02T01:08:00Z,2025-10-01,1,F,F,Final,113,Cincinnati Reds,4,119,Los Angeles Dodgers,8,22,Dodger Stadium,9

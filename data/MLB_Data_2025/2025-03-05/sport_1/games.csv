@@ -1,0 +1,14 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+778735,2025-03-05T18:05:00Z,2025-03-05,1,S,F,Final,138,St. Louis Cardinals,5,117,Houston Astros,6,5000,CACTI Park of the Palm Beaches,9
+778770,2025-03-05T18:05:00Z,2025-03-05,1,S,F,Final,139,Tampa Bay Rays,2,111,Boston Red Sox,4,4309,JetBlue Park,9
+779034,2025-03-05T18:05:00Z,2025-03-05,1,S,F,Final,141,Toronto Blue Jays,6,134,Pittsburgh Pirates,7,2526,LECOM Park,9
+778878,2025-03-05T18:05:00Z,2025-03-05,1,S,F,Final,110,Baltimore Orioles,5,142,Minnesota Twins,2,2862,Lee Health Sports Complex,9
+779113,2025-03-05T18:05:00Z,2025-03-05,1,S,F,Final,143,Philadelphia Phillies,7,116,Detroit Tigers,17,2511,Publix Field at Joker Marchant Stadium,9
+779074,2025-03-05T18:10:00Z,2025-03-05,1,S,F,Final,120,Washington Nationals,8,146,Miami Marlins,7,2520,Roger Dean Chevrolet Stadium,9
+778828,2025-03-05T20:05:00Z,2025-03-05,1,S,F,Final,140,Texas Rangers,5,113,Cincinnati Reds,3,3834,Goodyear Ballpark,9
+778855,2025-03-05T20:05:00Z,2025-03-05,1,S,F,Final,158,Milwaukee Brewers,3,145,Chicago White Sox,2,3809,Camelback Ranch,9
+779155,2025-03-05T20:10:00Z,2025-03-05,1,S,F,Final,119,Los Angeles Dodgers,5,108,Los Angeles Angels,3,2500,Tempe Diablo Stadium,9
+779014,2025-03-05T20:10:00Z,2025-03-05,1,S,F,Final,115,Colorado Rockies,4,135,San Diego Padres,3,2530,Peoria Stadium,9
+778796,2025-03-05T20:10:00Z,2025-03-05,1,S,F,Final,137,San Francisco Giants,11,109,Arizona Diamondbacks,5,4249,Salt River Fields at Talking Stick,9
+779096,2025-03-05T20:10:00Z,2025-03-05,1,S,F,Final,145,Chicago White Sox,8,158,Milwaukee Brewers,2,2518,American Family Fields of Phoenix,9
+778934,2025-03-06T01:05:00Z,2025-03-05,1,S,F,Final,136,Seattle Mariners,6,118,Kansas City Royals,9,2603,Surprise Stadium,9

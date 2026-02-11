@@ -1,0 +1,17 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+777809,2025-05-24T17:05:00Z,2025-05-24,1,R,F,Final,110,Baltimore Orioles,5,111,Boston Red Sox,6,3,Fenway Park,9
+777790,2025-05-24T22:35:00Z,2025-05-24,1,R,F,Final,110,Baltimore Orioles,2,111,Boston Red Sox,1,3,Fenway Park,9
+777788,2025-05-24T18:10:00Z,2025-05-24,1,R,F,Final,118,Kansas City Royals,4,142,Minnesota Twins,5,3312,Target Field,9
+777786,2025-05-24T18:15:00Z,2025-05-24,1,R,F,Final,109,Arizona Diamondbacks,5,138,St. Louis Cardinals,6,2889,Busch Stadium,9
+777793,2025-05-24T20:05:00Z,2025-05-24,1,R,F,Final,137,San Francisco Giants,0,120,Washington Nationals,3,3309,Nationals Park,9
+777794,2025-05-24T20:05:00Z,2025-05-24,1,R,F,Final,158,Milwaukee Brewers,1,134,Pittsburgh Pirates,2,31,PNC Park,9
+777791,2025-05-24T20:10:00Z,2025-05-24,1,R,F,Final,112,Chicago Cubs,4,113,Cincinnati Reds,6,2602,Great American Ball Park,9
+777787,2025-05-24T20:10:00Z,2025-05-24,1,R,F,Final,136,Seattle Mariners,1,117,Houston Astros,2,2392,Daikin Park,9
+777803,2025-05-24T20:10:00Z,2025-05-24,1,R,F,Final,135,San Diego Padres,1,144,Atlanta Braves,7,4705,Truist Park,9
+777792,2025-05-24T20:10:00Z,2025-05-24,1,R,F,Final,140,Texas Rangers,5,145,Chicago White Sox,10,4,Rate Field,9
+777782,2025-05-24T20:10:00Z,2025-05-24,1,R,F,Final,147,New York Yankees,13,115,Colorado Rockies,1,19,Coors Field,9
+777795,2025-05-24T23:05:00Z,2025-05-24,1,R,F,Final,141,Toronto Blue Jays,1,139,Tampa Bay Rays,3,2523,George M. Steinbrenner Field,9
+777796,2025-05-24T23:15:00Z,2025-05-24,1,R,F,Final,114,Cleveland Guardians,7,116,Detroit Tigers,5,2394,Comerica Park,9
+777789,2025-05-24T23:15:00Z,2025-05-24,1,R,F,Final,119,Los Angeles Dodgers,2,121,New York Mets,5,3289,Citi Field,9
+777784,2025-05-25T02:05:00Z,2025-05-24,1,R,F,Final,143,Philadelphia Phillies,9,133,Athletics,6,2529,Sutter Health Park,9
+777781,2025-05-25T02:07:00Z,2025-05-24,1,R,F,Final,146,Miami Marlins,6,108,Los Angeles Angels,2,1,Angel Stadium,9

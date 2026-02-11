@@ -1,0 +1,16 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+776551,2025-08-29T22:40:00Z,2025-08-29,1,R,F,Final,138,St. Louis Cardinals,7,113,Cincinnati Reds,5,2602,Great American Ball Park,9
+776545,2025-08-29T22:45:00Z,2025-08-29,1,R,F,Final,139,Tampa Bay Rays,4,120,Washington Nationals,1,3309,Nationals Park,9
+776552,2025-08-29T22:45:00Z,2025-08-29,1,R,F,Final,144,Atlanta Braves,1,143,Philadelphia Phillies,2,2681,Citizens Bank Park,9
+776546,2025-08-29T23:07:00Z,2025-08-29,1,R,F,Final,158,Milwaukee Brewers,7,141,Toronto Blue Jays,2,14,Rogers Centre,9
+776549,2025-08-29T23:10:00Z,2025-08-29,1,R,F,Final,134,Pittsburgh Pirates,4,111,Boston Red Sox,2,3,Fenway Park,9
+776547,2025-08-29T23:10:00Z,2025-08-29,1,R,F,Final,136,Seattle Mariners,4,114,Cleveland Guardians,5,5,Progressive Field,9
+776548,2025-08-29T23:10:00Z,2025-08-29,1,R,F,Final,146,Miami Marlins,9,121,New York Mets,19,3289,Citi Field,9
+776544,2025-08-29T23:40:00Z,2025-08-29,1,R,F,Final,147,New York Yankees,10,145,Chicago White Sox,2,4,Rate Field,9
+776543,2025-08-30T00:10:00Z,2025-08-29,1,R,F,Final,108,Los Angeles Angels,0,117,Houston Astros,2,2392,Daikin Park,9
+776540,2025-08-30T00:10:00Z,2025-08-29,1,R,F,Final,116,Detroit Tigers,5,118,Kansas City Royals,3,7,Kauffman Stadium,9
+776541,2025-08-30T00:10:00Z,2025-08-29,1,R,F,Final,135,San Diego Padres,4,142,Minnesota Twins,7,3312,Target Field,9
+776542,2025-08-30T00:40:00Z,2025-08-29,1,R,F,Final,112,Chicago Cubs,11,115,Colorado Rockies,7,19,Coors Field,9
+776538,2025-08-30T02:05:00Z,2025-08-29,1,R,F,Final,140,Texas Rangers,5,133,Athletics,2,2529,Sutter Health Park,9
+776534,2025-08-30T02:10:00Z,2025-08-29,1,R,F,Final,109,Arizona Diamondbacks,3,119,Los Angeles Dodgers,0,22,Dodger Stadium,9
+776533,2025-08-30T02:15:00Z,2025-08-29,1,R,F,Final,110,Baltimore Orioles,8,137,San Francisco Giants,15,2395,Oracle Park,9

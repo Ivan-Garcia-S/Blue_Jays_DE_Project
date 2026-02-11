@@ -1,0 +1,16 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+777370,2025-06-25T18:10:00Z,2025-06-25,1,R,F,Final,109,Arizona Diamondbacks,3,145,Chicago White Sox,7,4,Rate Field,9
+777361,2025-06-25T18:10:00Z,2025-06-25,1,R,F,Final,134,Pittsburgh Pirates,2,158,Milwaukee Brewers,4,32,American Family Field,9
+777362,2025-06-25T20:07:00Z,2025-06-25,1,R,F,Final,111,Boston Red Sox,2,108,Los Angeles Angels,5,1,Angel Stadium,9
+777360,2025-06-25T20:10:00Z,2025-06-25,1,R,F,Final,120,Washington Nationals,0,135,San Diego Padres,1,2680,Petco Park,9
+777365,2025-06-25T22:35:00Z,2025-06-25,1,R,F,Final,140,Texas Rangers,7,110,Baltimore Orioles,0,2,Oriole Park at Camden Yards,9
+777371,2025-06-25T22:40:00Z,2025-06-25,1,R,F,Final,133,Athletics,3,116,Detroit Tigers,0,2394,Comerica Park,9
+777368,2025-06-25T22:40:00Z,2025-06-25,1,R,F,Final,141,Toronto Blue Jays,4,114,Cleveland Guardians,5,5,Progressive Field,9
+777369,2025-06-25T23:10:00Z,2025-06-25,1,R,F,Final,144,Atlanta Braves,3,121,New York Mets,7,3289,Citi Field,9
+777367,2025-06-25T23:10:00Z,2025-06-25,1,R,F,Final,147,New York Yankees,7,113,Cincinnati Reds,1,2602,Great American Ball Park,9
+777359,2025-06-25T23:40:00Z,2025-06-25,1,R,F,Final,139,Tampa Bay Rays,3,118,Kansas City Royals,0,7,Kauffman Stadium,9
+777363,2025-06-25T23:40:00Z,2025-06-25,1,R,F,Final,136,Seattle Mariners,0,142,Minnesota Twins,2,3312,Target Field,9
+777357,2025-06-25T23:45:00Z,2025-06-25,1,R,F,Final,112,Chicago Cubs,8,138,St. Louis Cardinals,0,2889,Busch Stadium,9
+777366,2025-06-26T00:10:00Z,2025-06-25,1,R,F,Final,143,Philadelphia Phillies,0,117,Houston Astros,2,2392,Daikin Park,9
+777358,2025-06-26T00:40:00Z,2025-06-25,1,R,F,Final,119,Los Angeles Dodgers,8,115,Colorado Rockies,1,19,Coors Field,9
+777355,2025-06-26T01:45:00Z,2025-06-25,1,R,F,Final,146,Miami Marlins,8,137,San Francisco Giants,5,2395,Oracle Park,9

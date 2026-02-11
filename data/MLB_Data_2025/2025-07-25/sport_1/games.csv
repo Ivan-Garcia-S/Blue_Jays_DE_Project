@@ -1,0 +1,16 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+777008,2025-07-25T20:10:00Z,2025-07-25,1,R,F,Final,146,Miami Marlins,5,158,Milwaukee Brewers,1,32,American Family Field,9
+777014,2025-07-25T22:40:00Z,2025-07-25,1,R,F,Final,109,Arizona Diamondbacks,1,134,Pittsburgh Pirates,0,31,PNC Park,9
+777020,2025-07-25T23:05:00Z,2025-07-25,1,R,F,Final,115,Colorado Rockies,6,110,Baltimore Orioles,5,2,Oriole Park at Camden Yards,9
+777015,2025-07-25T23:05:00Z,2025-07-25,1,R,F,Final,143,Philadelphia Phillies,12,147,New York Yankees,5,3313,Yankee Stadium,9
+777012,2025-07-25T23:10:00Z,2025-07-25,1,R,F,Final,119,Los Angeles Dodgers,5,111,Boston Red Sox,2,3,Fenway Park,9
+777013,2025-07-25T23:10:00Z,2025-07-25,1,R,F,Final,139,Tampa Bay Rays,2,113,Cincinnati Reds,7,2602,Great American Ball Park,9
+777016,2025-07-25T23:10:00Z,2025-07-25,1,R,F,Final,141,Toronto Blue Jays,6,116,Detroit Tigers,2,2394,Comerica Park,9
+777005,2025-07-25T23:15:00Z,2025-07-25,1,R,F,Final,135,San Diego Padres,0,138,St. Louis Cardinals,3,2889,Busch Stadium,9
+777017,2025-07-25T23:40:00Z,2025-07-25,1,R,F,Final,112,Chicago Cubs,5,145,Chicago White Sox,12,4,Rate Field,9
+777009,2025-07-26T00:05:00Z,2025-07-25,1,R,F,Final,144,Atlanta Braves,3,140,Texas Rangers,8,5325,Globe Life Field,9
+777007,2025-07-26T00:10:00Z,2025-07-25,1,R,F,Final,133,Athletics,15,117,Houston Astros,3,2392,Daikin Park,9
+777011,2025-07-26T00:10:00Z,2025-07-25,1,R,F,Final,120,Washington Nationals,0,142,Minnesota Twins,1,3312,Target Field,9
+777006,2025-07-26T01:38:00Z,2025-07-25,1,R,F,Final,136,Seattle Mariners,2,108,Los Angeles Angels,3,1,Angel Stadium,9
+777004,2025-07-26T02:15:00Z,2025-07-25,1,R,F,Final,121,New York Mets,8,137,San Francisco Giants,1,2395,Oracle Park,9
+777010,2025-07-26T00:10:00Z,2025-07-26,1,R,D,Postponed,114,Cleveland Guardians,,118,Kansas City Royals,,7,Kauffman Stadium,9

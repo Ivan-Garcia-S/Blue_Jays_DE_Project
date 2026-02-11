@@ -1,0 +1,16 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+776287,2025-09-17T16:35:00Z,2025-09-17,1,R,F,Final,112,Chicago Cubs,8,134,Pittsburgh Pirates,4,31,PNC Park,9
+776283,2025-09-17T17:15:00Z,2025-09-17,1,R,F,Final,113,Cincinnati Reds,6,138,St. Louis Cardinals,2,2889,Busch Stadium,9
+776285,2025-09-17T18:10:00Z,2025-09-17,1,R,F,Final,110,Baltimore Orioles,3,145,Chicago White Sox,1,4,Rate Field,9
+776279,2025-09-17T19:40:00Z,2025-09-17,1,R,F,Final,137,San Francisco Giants,5,109,Arizona Diamondbacks,1,15,Chase Field,9
+776286,2025-09-17T20:05:00Z,2025-09-17,1,R,F,Final,144,Atlanta Braves,9,120,Washington Nationals,4,3309,Nationals Park,9
+776296,2025-09-17T22:40:00Z,2025-09-17,1,R,F,Final,114,Cleveland Guardians,4,116,Detroit Tigers,0,2394,Comerica Park,9
+776299,2025-09-17T22:45:00Z,2025-09-17,1,R,F,Final,133,Athletics,4,111,Boston Red Sox,5,3,Fenway Park,9
+776290,2025-09-17T23:05:00Z,2025-09-17,1,R,F,Final,141,Toronto Blue Jays,1,139,Tampa Bay Rays,2,2523,George M. Steinbrenner Field,9
+776288,2025-09-17T23:10:00Z,2025-09-17,1,R,F,Final,135,San Diego Padres,7,121,New York Mets,4,3289,Citi Field,9
+776289,2025-09-17T23:40:00Z,2025-09-17,1,R,F,Final,136,Seattle Mariners,5,118,Kansas City Royals,7,7,Kauffman Stadium,9
+776284,2025-09-17T23:40:00Z,2025-09-17,1,R,F,Final,147,New York Yankees,10,142,Minnesota Twins,5,3312,Target Field,9
+776291,2025-09-17T23:40:00Z,2025-09-17,1,R,F,Final,108,Los Angeles Angels,2,158,Milwaukee Brewers,9,32,American Family Field,9
+776292,2025-09-18T00:10:00Z,2025-09-17,1,R,F,Final,140,Texas Rangers,2,117,Houston Astros,5,2392,Daikin Park,9
+776277,2025-09-18T00:40:00Z,2025-09-17,1,R,F,Final,146,Miami Marlins,8,115,Colorado Rockies,4,19,Coors Field,9
+776280,2025-09-18T02:10:00Z,2025-09-17,1,R,F,Final,143,Philadelphia Phillies,0,119,Los Angeles Dodgers,5,22,Dodger Stadium,9

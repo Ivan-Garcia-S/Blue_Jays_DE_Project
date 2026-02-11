@@ -1,0 +1,3 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+813056,2025-10-07T20:08:00Z,2025-10-07,1,D,F,Final,136,Seattle Mariners,8,116,Detroit Tigers,4,2394,Comerica Park,9
+813061,2025-10-08T00:08:00Z,2025-10-07,1,D,F,Final,141,Toronto Blue Jays,6,147,New York Yankees,9,3313,Yankee Stadium,9

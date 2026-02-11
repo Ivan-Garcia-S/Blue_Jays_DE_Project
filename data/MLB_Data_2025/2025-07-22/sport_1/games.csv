@@ -1,0 +1,16 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+777056,2025-07-22T22:40:00Z,2025-07-22,1,R,F,Final,110,Baltimore Orioles,3,114,Cleveland Guardians,6,5,Progressive Field,9
+777044,2025-07-22T22:40:00Z,2025-07-22,1,R,F,Final,116,Detroit Tigers,5,134,Pittsburgh Pirates,8,31,PNC Park,9
+777052,2025-07-22T22:40:00Z,2025-07-22,1,R,F,Final,135,San Diego Padres,3,146,Miami Marlins,4,4169,loanDepot park,9
+777042,2025-07-22T22:45:00Z,2025-07-22,1,R,F,Final,113,Cincinnati Reds,1,120,Washington Nationals,6,3309,Nationals Park,9
+777045,2025-07-22T22:45:00Z,2025-07-22,1,R,F,Final,111,Boston Red Sox,1,143,Philadelphia Phillies,4,2681,Citizens Bank Park,9
+777048,2025-07-22T23:05:00Z,2025-07-22,1,R,F,Final,145,Chicago White Sox,3,139,Tampa Bay Rays,4,2523,George M. Steinbrenner Field,9
+777046,2025-07-22T23:07:00Z,2025-07-22,1,R,F,Final,147,New York Yankees,5,141,Toronto Blue Jays,4,14,Rogers Centre,9
+777054,2025-07-22T23:10:00Z,2025-07-22,1,R,F,Final,108,Los Angeles Angels,2,121,New York Mets,3,3289,Citi Field,9
+777058,2025-07-22T23:15:00Z,2025-07-22,1,R,F,Final,137,San Francisco Giants,9,144,Atlanta Braves,0,4705,Truist Park,9
+777047,2025-07-23T00:05:00Z,2025-07-22,1,R,F,Final,118,Kansas City Royals,0,112,Chicago Cubs,6,17,Wrigley Field,9
+777043,2025-07-23T00:05:00Z,2025-07-22,1,R,F,Final,133,Athletics,2,140,Texas Rangers,6,5325,Globe Life Field,9
+777049,2025-07-23T00:40:00Z,2025-07-22,1,R,F,Final,138,St. Louis Cardinals,4,115,Colorado Rockies,8,19,Coors Field,9
+777040,2025-07-23T01:40:00Z,2025-07-22,1,R,F,Final,117,Houston Astros,3,109,Arizona Diamondbacks,1,15,Chase Field,9
+777035,2025-07-23T01:40:00Z,2025-07-22,1,R,F,Final,158,Milwaukee Brewers,0,136,Seattle Mariners,1,680,T-Mobile Park,9
+777039,2025-07-23T02:10:00Z,2025-07-22,1,R,F,Final,142,Minnesota Twins,10,119,Los Angeles Dodgers,7,22,Dodger Stadium,9

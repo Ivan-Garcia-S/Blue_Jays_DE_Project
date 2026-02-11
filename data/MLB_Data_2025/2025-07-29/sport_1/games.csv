@@ -1,0 +1,17 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+778372,2025-07-29T16:35:00Z,2025-07-29,1,R,F,Final,141,Toronto Blue Jays,4,110,Baltimore Orioles,16,2,Oriole Park at Camden Yards,9
+776962,2025-07-29T22:35:00Z,2025-07-29,1,R,F,Final,141,Toronto Blue Jays,2,110,Baltimore Orioles,3,2,Oriole Park at Camden Yards,9
+776951,2025-07-29T22:40:00Z,2025-07-29,1,R,F,Final,115,Colorado Rockies,4,114,Cleveland Guardians,10,5,Progressive Field,9
+776953,2025-07-29T22:40:00Z,2025-07-29,1,R,F,Final,109,Arizona Diamondbacks,2,116,Detroit Tigers,12,2394,Comerica Park,9
+776949,2025-07-29T23:05:00Z,2025-07-29,1,R,F,Final,139,Tampa Bay Rays,5,147,New York Yankees,7,3313,Yankee Stadium,9
+776963,2025-07-29T23:10:00Z,2025-07-29,1,R,F,Final,119,Los Angeles Dodgers,5,113,Cincinnati Reds,4,2602,Great American Ball Park,9
+776954,2025-07-29T23:40:00Z,2025-07-29,1,R,F,Final,111,Boston Red Sox,8,142,Minnesota Twins,5,3312,Target Field,9
+776955,2025-07-29T23:40:00Z,2025-07-29,1,R,F,Final,144,Atlanta Braves,6,118,Kansas City Royals,9,7,Kauffman Stadium,9
+776952,2025-07-29T23:40:00Z,2025-07-29,1,R,F,Final,143,Philadelphia Phillies,6,145,Chicago White Sox,3,4,Rate Field,9
+776956,2025-07-29T23:40:00Z,2025-07-29,1,R,F,Final,112,Chicago Cubs,3,158,Milwaukee Brewers,9,32,American Family Field,9
+776946,2025-07-29T23:45:00Z,2025-07-29,1,R,F,Final,146,Miami Marlins,5,138,St. Louis Cardinals,0,2889,Busch Stadium,9
+776950,2025-07-30T00:10:00Z,2025-07-29,1,R,F,Final,120,Washington Nationals,4,117,Houston Astros,7,2392,Daikin Park,9
+776945,2025-07-30T01:38:00Z,2025-07-29,1,R,F,Final,140,Texas Rangers,5,108,Los Angeles Angels,8,1,Angel Stadium,9
+776947,2025-07-30T01:40:00Z,2025-07-29,1,R,F,Final,121,New York Mets,1,135,San Diego Padres,7,2680,Petco Park,9
+776943,2025-07-30T01:45:00Z,2025-07-29,1,R,F,Final,134,Pittsburgh Pirates,3,137,San Francisco Giants,1,2395,Oracle Park,9
+776944,2025-07-30T02:05:00Z,2025-07-29,1,R,F,Final,136,Seattle Mariners,1,133,Athletics,6,2529,Sutter Health Park,9

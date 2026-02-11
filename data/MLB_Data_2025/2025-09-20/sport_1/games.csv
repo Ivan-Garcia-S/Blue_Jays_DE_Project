@@ -1,0 +1,17 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+776258,2025-09-20T17:10:00Z,2025-09-20,1,R,F,Final,144,Atlanta Braves,6,116,Detroit Tigers,5,2394,Comerica Park,9
+777839,2025-09-20T18:10:00Z,2025-09-20,1,R,F,Final,114,Cleveland Guardians,6,142,Minnesota Twins,0,3312,Target Field,9
+776243,2025-09-20T23:10:00Z,2025-09-20,1,R,F,Final,114,Cleveland Guardians,8,142,Minnesota Twins,0,3312,Target Field,9
+776252,2025-09-20T20:10:00Z,2025-09-20,1,R,F,Final,120,Washington Nationals,5,121,New York Mets,3,3289,Citi Field,9
+776254,2025-09-20T22:40:00Z,2025-09-20,1,R,F,Final,112,Chicago Cubs,3,113,Cincinnati Reds,6,2602,Great American Ball Park,9
+776249,2025-09-20T22:40:00Z,2025-09-20,1,R,F,Final,133,Athletics,0,134,Pittsburgh Pirates,2,31,PNC Park,9
+776247,2025-09-20T23:05:00Z,2025-09-20,1,R,F,Final,111,Boston Red Sox,6,139,Tampa Bay Rays,3,2523,George M. Steinbrenner Field,9
+776242,2025-09-20T23:05:00Z,2025-09-20,1,R,F,Final,146,Miami Marlins,4,140,Texas Rangers,3,5325,Globe Life Field,9
+776257,2025-09-20T23:05:00Z,2025-09-20,1,R,F,Final,147,New York Yankees,6,110,Baltimore Orioles,1,2,Oriole Park at Camden Yards,9
+776248,2025-09-20T23:10:00Z,2025-09-20,1,R,F,Final,136,Seattle Mariners,6,117,Houston Astros,4,2392,Daikin Park,9
+776245,2025-09-20T23:10:00Z,2025-09-20,1,R,F,Final,141,Toronto Blue Jays,1,118,Kansas City Royals,2,7,Kauffman Stadium,9
+776250,2025-09-20T23:10:00Z,2025-09-20,1,R,F,Final,135,San Diego Padres,7,145,Chicago White Sox,3,4,Rate Field,9
+776244,2025-09-20T23:15:00Z,2025-09-20,1,R,F,Final,158,Milwaukee Brewers,3,138,St. Louis Cardinals,2,2889,Busch Stadium,9
+776241,2025-09-21T00:10:00Z,2025-09-20,1,R,F,Final,108,Los Angeles Angels,3,115,Colorado Rockies,0,19,Coors Field,9
+776246,2025-09-21T00:10:00Z,2025-09-20,1,R,F,Final,143,Philadelphia Phillies,3,109,Arizona Diamondbacks,4,15,Chase Field,9
+776233,2025-09-21T01:10:00Z,2025-09-20,1,R,F,Final,137,San Francisco Giants,5,119,Los Angeles Dodgers,7,22,Dodger Stadium,9

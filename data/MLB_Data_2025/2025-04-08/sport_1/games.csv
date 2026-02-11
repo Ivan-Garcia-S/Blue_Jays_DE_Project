@@ -1,0 +1,16 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+778403,2025-04-08T17:10:00Z,2025-04-08,1,R,F,Final,147,New York Yankees,0,116,Detroit Tigers,5,2394,Comerica Park,9
+778402,2025-04-08T20:10:00Z,2025-04-08,1,R,F,Final,145,Chicago White Sox,0,114,Cleveland Guardians,1,5,Progressive Field,9
+778407,2025-04-08T20:10:00Z,2025-04-08,1,R,F,Final,146,Miami Marlins,5,121,New York Mets,10,3289,Citi Field,9
+778408,2025-04-08T22:40:00Z,2025-04-08,1,R,F,Final,138,St. Louis Cardinals,5,134,Pittsburgh Pirates,3,31,PNC Park,9
+778409,2025-04-08T22:45:00Z,2025-04-08,1,R,F,Final,119,Los Angeles Dodgers,2,120,Washington Nationals,8,3309,Nationals Park,9
+778404,2025-04-08T22:45:00Z,2025-04-08,1,R,F,Final,141,Toronto Blue Jays,6,111,Boston Red Sox,1,3,Fenway Park,9
+778417,2025-04-08T23:05:00Z,2025-04-08,1,R,F,Final,108,Los Angeles Angels,4,139,Tampa Bay Rays,3,2523,George M. Steinbrenner Field,9
+778406,2025-04-08T23:15:00Z,2025-04-08,1,R,F,Final,143,Philadelphia Phillies,5,144,Atlanta Braves,7,4705,Truist Park,9
+778401,2025-04-08T23:40:00Z,2025-04-08,1,R,F,Final,140,Texas Rangers,6,112,Chicago Cubs,10,17,Wrigley Field,9
+778400,2025-04-08T23:40:00Z,2025-04-08,1,R,F,Final,142,Minnesota Twins,1,118,Kansas City Royals,2,7,Kauffman Stadium,9
+778394,2025-04-09T00:40:00Z,2025-04-08,1,R,F,Final,158,Milwaukee Brewers,7,115,Colorado Rockies,1,19,Coors Field,9
+778396,2025-04-09T01:40:00Z,2025-04-08,1,R,F,Final,110,Baltimore Orioles,3,109,Arizona Diamondbacks,4,15,Chase Field,9
+778398,2025-04-09T01:40:00Z,2025-04-08,1,R,F,Final,117,Houston Astros,2,136,Seattle Mariners,1,680,T-Mobile Park,9
+778397,2025-04-09T01:45:00Z,2025-04-08,1,R,F,Final,113,Cincinnati Reds,1,137,San Francisco Giants,0,2395,Oracle Park,9
+778395,2025-04-09T02:05:00Z,2025-04-08,1,R,F,Final,135,San Diego Padres,4,133,Athletics,10,2529,Sutter Health Park,9

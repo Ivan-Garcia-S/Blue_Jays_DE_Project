@@ -1,0 +1,16 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+777847,2025-05-20T22:40:00Z,2025-05-20,1,R,F,Final,113,Cincinnati Reds,0,134,Pittsburgh Pirates,1,31,PNC Park,9
+777850,2025-05-20T22:40:00Z,2025-05-20,1,R,F,Final,112,Chicago Cubs,14,146,Miami Marlins,1,4169,loanDepot park,9
+777851,2025-05-20T22:45:00Z,2025-05-20,1,R,F,Final,121,New York Mets,0,111,Boston Red Sox,2,3,Fenway Park,9
+777841,2025-05-20T22:45:00Z,2025-05-20,1,R,F,Final,144,Atlanta Braves,3,120,Washington Nationals,5,3309,Nationals Park,9
+777848,2025-05-20T23:05:00Z,2025-05-20,1,R,F,Final,117,Houston Astros,2,139,Tampa Bay Rays,3,2523,George M. Steinbrenner Field,9
+777849,2025-05-20T23:05:00Z,2025-05-20,1,R,F,Final,140,Texas Rangers,2,147,New York Yankees,5,3313,Yankee Stadium,9
+777845,2025-05-20T23:07:00Z,2025-05-20,1,R,F,Final,135,San Diego Padres,0,141,Toronto Blue Jays,3,14,Rogers Centre,9
+777846,2025-05-20T23:40:00Z,2025-05-20,1,R,F,Final,136,Seattle Mariners,0,145,Chicago White Sox,1,4,Rate Field,9
+777844,2025-05-20T23:40:00Z,2025-05-20,1,R,F,Final,110,Baltimore Orioles,2,158,Milwaukee Brewers,5,32,American Family Field,9
+777840,2025-05-20T23:45:00Z,2025-05-20,1,R,F,Final,116,Detroit Tigers,5,138,St. Louis Cardinals,4,2889,Busch Stadium,9
+777842,2025-05-21T00:40:00Z,2025-05-20,1,R,F,Final,143,Philadelphia Phillies,7,115,Colorado Rockies,4,19,Coors Field,9
+777836,2025-05-21T01:45:00Z,2025-05-20,1,R,F,Final,118,Kansas City Royals,2,137,San Francisco Giants,3,2395,Oracle Park,9
+777843,2025-05-21T02:05:00Z,2025-05-20,1,R,F,Final,108,Los Angeles Angels,7,133,Athletics,5,2529,Sutter Health Park,9
+777838,2025-05-21T02:10:00Z,2025-05-20,1,R,F,Final,109,Arizona Diamondbacks,3,119,Los Angeles Dodgers,4,22,Dodger Stadium,9
+777839,2025-05-20T23:40:00Z,2025-09-20,1,R,D,Postponed,114,Cleveland Guardians,,142,Minnesota Twins,,3312,Target Field,9

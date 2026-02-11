@@ -1,0 +1,15 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+778506,2025-03-31T18:10:00Z,2025-03-31,1,R,F,Final,142,Minnesota Twins,0,145,Chicago White Sox,9,4,Rate Field,9
+778504,2025-03-31T18:10:00Z,2025-03-31,1,R,F,Final,118,Kansas City Royals,11,158,Milwaukee Brewers,1,32,American Family Field,9
+778512,2025-03-31T18:35:00Z,2025-03-31,1,R,F,Final,111,Boston Red Sox,5,110,Baltimore Orioles,8,2,Oriole Park at Camden Yards,9
+778502,2025-03-31T19:05:00Z,2025-03-31,1,R,F,Final,115,Colorado Rockies,1,143,Philadelphia Phillies,6,2681,Citizens Bank Park,9
+778511,2025-03-31T22:40:00Z,2025-03-31,1,R,F,Final,140,Texas Rangers,3,113,Cincinnati Reds,14,2602,Great American Ball Park,9
+778509,2025-03-31T22:40:00Z,2025-03-31,1,R,F,Final,121,New York Mets,10,146,Miami Marlins,4,4169,loanDepot park,9
+778508,2025-03-31T23:05:00Z,2025-03-31,1,R,F,Final,134,Pittsburgh Pirates,1,139,Tampa Bay Rays,6,2523,George M. Steinbrenner Field,9
+778507,2025-03-31T23:07:00Z,2025-03-31,1,R,F,Final,120,Washington Nationals,2,141,Toronto Blue Jays,5,14,Rogers Centre,9
+778503,2025-03-31T23:45:00Z,2025-03-31,1,R,F,Final,108,Los Angeles Angels,5,138,St. Louis Cardinals,4,2889,Busch Stadium,9
+778505,2025-04-01T00:10:00Z,2025-03-31,1,R,F,Final,137,San Francisco Giants,7,117,Houston Astros,2,2392,Daikin Park,9
+778499,2025-04-01T01:40:00Z,2025-03-31,1,R,F,Final,114,Cleveland Guardians,2,135,San Diego Padres,7,2680,Petco Park,9
+778496,2025-04-01T01:40:00Z,2025-03-31,1,R,F,Final,116,Detroit Tigers,9,136,Seattle Mariners,6,680,T-Mobile Park,9
+778501,2025-04-01T02:05:00Z,2025-03-31,1,R,F,Final,112,Chicago Cubs,18,133,Athletics,3,2529,Sutter Health Park,9
+778500,2025-04-01T02:10:00Z,2025-03-31,1,R,F,Final,144,Atlanta Braves,1,119,Los Angeles Dodgers,6,22,Dodger Stadium,9

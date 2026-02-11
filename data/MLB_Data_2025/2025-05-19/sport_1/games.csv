@@ -1,0 +1,13 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+777859,2025-05-19T22:40:00Z,2025-05-19,1,R,F,Final,113,Cincinnati Reds,7,134,Pittsburgh Pirates,1,31,PNC Park,9
+777863,2025-05-19T22:40:00Z,2025-05-19,1,R,F,Final,112,Chicago Cubs,7,146,Miami Marlins,8,4169,loanDepot park,9
+777856,2025-05-19T22:45:00Z,2025-05-19,1,R,F,Final,121,New York Mets,1,111,Boston Red Sox,3,3,Fenway Park,9
+777858,2025-05-19T23:05:00Z,2025-05-19,1,R,F,Final,117,Houston Astros,4,139,Tampa Bay Rays,3,2523,George M. Steinbrenner Field,9
+777861,2025-05-19T23:40:00Z,2025-05-19,1,R,F,Final,114,Cleveland Guardians,5,142,Minnesota Twins,6,3312,Target Field,9
+777857,2025-05-19T23:40:00Z,2025-05-19,1,R,F,Final,136,Seattle Mariners,5,145,Chicago White Sox,1,4,Rate Field,9
+777860,2025-05-19T23:40:00Z,2025-05-19,1,R,F,Final,110,Baltimore Orioles,4,158,Milwaukee Brewers,5,32,American Family Field,9
+777862,2025-05-19T23:45:00Z,2025-05-19,1,R,F,Final,116,Detroit Tigers,4,138,St. Louis Cardinals,11,2889,Busch Stadium,9
+777852,2025-05-20T00:40:00Z,2025-05-19,1,R,F,Final,143,Philadelphia Phillies,9,115,Colorado Rockies,3,19,Coors Field,9
+777855,2025-05-20T01:45:00Z,2025-05-19,1,R,F,Final,118,Kansas City Royals,3,137,San Francisco Giants,1,2395,Oracle Park,9
+777853,2025-05-20T02:05:00Z,2025-05-19,1,R,F,Final,108,Los Angeles Angels,4,133,Athletics,3,2529,Sutter Health Park,9
+777854,2025-05-20T02:10:00Z,2025-05-19,1,R,F,Final,109,Arizona Diamondbacks,9,119,Los Angeles Dodgers,5,22,Dodger Stadium,9

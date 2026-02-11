@@ -1,0 +1,4 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+776927,2025-07-31T17:05:00Z,2025-07-31,1,R,F,Final,139,Tampa Bay Rays,4,147,New York Yankees,7,3313,Yankee Stadium,9
+776928,2025-07-31T23:10:00Z,2025-07-31,1,R,F,Final,144,Atlanta Braves,12,113,Cincinnati Reds,11,2602,Great American Ball Park,9
+776923,2025-08-01T01:40:00Z,2025-07-31,1,R,F,Final,140,Texas Rangers,0,136,Seattle Mariners,6,680,T-Mobile Park,9

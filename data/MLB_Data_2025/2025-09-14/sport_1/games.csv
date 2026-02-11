@@ -1,0 +1,16 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+776320,2025-09-14T15:35:00Z,2025-09-14,1,R,F,Final,134,Pittsburgh Pirates,3,120,Washington Nationals,4,3309,Nationals Park,9
+776334,2025-09-14T17:35:00Z,2025-09-14,1,R,F,Final,118,Kansas City Royals,10,143,Philadelphia Phillies,3,2681,Citizens Bank Park,9
+776329,2025-09-14T17:35:00Z,2025-09-14,1,R,F,Final,117,Houston Astros,3,144,Atlanta Braves,8,4705,Truist Park,9
+776322,2025-09-14T17:37:00Z,2025-09-14,1,R,F,Final,110,Baltimore Orioles,2,141,Toronto Blue Jays,11,14,Rogers Centre,9
+776335,2025-09-14T17:40:00Z,2025-09-14,1,R,F,Final,140,Texas Rangers,2,121,New York Mets,5,3289,Citi Field,9
+776331,2025-09-14T17:40:00Z,2025-09-14,1,R,F,Final,145,Chicago White Sox,2,114,Cleveland Guardians,3,5,Progressive Field,9
+776332,2025-09-14T17:40:00Z,2025-09-14,1,R,F,Final,116,Detroit Tigers,2,146,Miami Marlins,0,4169,loanDepot park,9
+776324,2025-09-14T18:10:00Z,2025-09-14,1,R,F,Final,109,Arizona Diamondbacks,6,142,Minnesota Twins,4,3312,Target Field,9
+776326,2025-09-14T18:10:00Z,2025-09-14,1,R,F,Final,138,St. Louis Cardinals,3,158,Milwaukee Brewers,2,32,American Family Field,9
+776321,2025-09-14T18:20:00Z,2025-09-14,1,R,F,Final,139,Tampa Bay Rays,3,112,Chicago Cubs,4,17,Wrigley Field,9
+776327,2025-09-14T20:05:00Z,2025-09-14,1,R,F,Final,113,Cincinnati Reds,4,133,Athletics,7,2529,Sutter Health Park,9
+776325,2025-09-14T20:05:00Z,2025-09-14,1,R,F,Final,119,Los Angeles Dodgers,10,137,San Francisco Giants,2,2395,Oracle Park,9
+776323,2025-09-14T20:10:00Z,2025-09-14,1,R,F,Final,115,Colorado Rockies,6,135,San Diego Padres,9,2680,Petco Park,9
+776317,2025-09-14T20:10:00Z,2025-09-14,1,R,F,Final,108,Los Angeles Angels,2,136,Seattle Mariners,11,680,T-Mobile Park,9
+776330,2025-09-14T23:10:00Z,2025-09-14,1,R,F,Final,147,New York Yankees,4,111,Boston Red Sox,6,3,Fenway Park,9

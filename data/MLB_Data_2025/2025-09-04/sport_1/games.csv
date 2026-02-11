@@ -1,0 +1,7 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+776459,2025-09-04T20:10:00Z,2025-09-04,1,R,F,Final,143,Philadelphia Phillies,2,158,Milwaukee Brewers,0,32,American Family Field,9
+776461,2025-09-04T22:40:00Z,2025-09-04,1,R,F,Final,119,Los Angeles Dodgers,3,134,Pittsburgh Pirates,5,31,PNC Park,9
+776458,2025-09-04T23:35:00Z,2025-09-04,1,R,F,Final,114,Cleveland Guardians,2,139,Tampa Bay Rays,4,2523,George M. Steinbrenner Field,9
+776463,2025-09-04T23:40:00Z,2025-09-04,1,R,F,Final,108,Los Angeles Angels,3,118,Kansas City Royals,4,7,Kauffman Stadium,9
+776462,2025-09-04T23:40:00Z,2025-09-04,1,R,F,Final,145,Chicago White Sox,11,142,Minnesota Twins,8,3312,Target Field,9
+776464,2025-09-04T23:40:00Z,2025-09-04,1,R,F,Final,147,New York Yankees,8,117,Houston Astros,4,2392,Daikin Park,9

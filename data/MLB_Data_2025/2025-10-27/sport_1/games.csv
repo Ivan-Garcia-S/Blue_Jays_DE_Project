@@ -1,0 +1,2 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+813032,2025-10-28T00:00:00Z,2025-10-27,1,W,F,Final,141,Toronto Blue Jays,5,119,Los Angeles Dodgers,6,22,Dodger Stadium,9

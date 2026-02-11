@@ -1,0 +1,16 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+778087,2025-05-02T22:10:00Z,2025-05-02,1,R,F,Final,120,Washington Nationals,1,113,Cincinnati Reds,6,2602,Great American Ball Park,9
+778090,2025-05-02T22:40:00Z,2025-05-02,1,R,F,Final,135,San Diego Padres,9,134,Pittsburgh Pirates,4,31,PNC Park,9
+778086,2025-05-02T22:45:00Z,2025-05-02,1,R,F,Final,109,Arizona Diamondbacks,2,143,Philadelphia Phillies,3,2681,Citizens Bank Park,9
+778093,2025-05-02T23:05:00Z,2025-05-02,1,R,F,Final,118,Kansas City Royals,0,110,Baltimore Orioles,3,2,Oriole Park at Camden Yards,9
+778088,2025-05-02T23:05:00Z,2025-05-02,1,R,F,Final,139,Tampa Bay Rays,0,147,New York Yankees,3,3313,Yankee Stadium,9
+778081,2025-05-02T23:07:00Z,2025-05-02,1,R,F,Final,114,Cleveland Guardians,3,141,Toronto Blue Jays,5,14,Rogers Centre,9
+778089,2025-05-02T23:10:00Z,2025-05-02,1,R,F,Final,142,Minnesota Twins,1,111,Boston Red Sox,6,3,Fenway Park,9
+778091,2025-05-02T23:10:00Z,2025-05-02,1,R,F,Final,133,Athletics,6,146,Miami Marlins,1,4169,loanDepot park,9
+778092,2025-05-02T23:15:00Z,2025-05-02,1,R,F,Final,119,Los Angeles Dodgers,2,144,Atlanta Braves,1,4705,Truist Park,9
+778079,2025-05-02T23:40:00Z,2025-05-02,1,R,F,Final,117,Houston Astros,3,145,Chicago White Sox,7,4,Rate Field,9
+778083,2025-05-03T00:05:00Z,2025-05-02,1,R,F,Final,136,Seattle Mariners,13,140,Texas Rangers,1,5325,Globe Life Field,9
+778080,2025-05-03T00:10:00Z,2025-05-02,1,R,F,Final,112,Chicago Cubs,10,158,Milwaukee Brewers,0,32,American Family Field,9
+778084,2025-05-03T00:15:00Z,2025-05-02,1,R,F,Final,121,New York Mets,9,138,St. Louis Cardinals,3,2889,Busch Stadium,9
+778085,2025-05-03T01:38:00Z,2025-05-02,1,R,F,Final,116,Detroit Tigers,9,108,Los Angeles Angels,1,1,Angel Stadium,9
+778082,2025-05-03T02:15:00Z,2025-05-02,1,R,F,Final,115,Colorado Rockies,0,137,San Francisco Giants,4,2395,Oracle Park,9

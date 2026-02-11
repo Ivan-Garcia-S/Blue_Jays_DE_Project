@@ -1,0 +1,16 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+777968,2025-05-11T16:05:00Z,2025-05-11,1,R,F,Final,112,Chicago Cubs,2,121,New York Mets,6,3289,Citi Field,9
+777962,2025-05-11T17:35:00Z,2025-05-11,1,R,F,Final,138,St. Louis Cardinals,6,120,Washington Nationals,1,3309,Nationals Park,9
+777967,2025-05-11T17:35:00Z,2025-05-11,1,R,F,Final,144,Atlanta Braves,3,134,Pittsburgh Pirates,4,31,PNC Park,9
+777969,2025-05-11T17:40:00Z,2025-05-11,1,R,F,Final,140,Texas Rangers,6,116,Detroit Tigers,1,2394,Comerica Park,9
+777964,2025-05-11T17:40:00Z,2025-05-11,1,R,F,Final,158,Milwaukee Brewers,4,139,Tampa Bay Rays,2,2523,George M. Steinbrenner Field,9
+777963,2025-05-11T18:10:00Z,2025-05-11,1,R,F,Final,113,Cincinnati Reds,0,117,Houston Astros,6,2392,Daikin Park,9
+777965,2025-05-11T18:10:00Z,2025-05-11,1,R,F,Final,111,Boston Red Sox,3,118,Kansas City Royals,1,7,Kauffman Stadium,9
+777956,2025-05-11T18:10:00Z,2025-05-11,1,R,F,Final,137,San Francisco Giants,6,142,Minnesota Twins,7,3312,Target Field,9
+777966,2025-05-11T18:10:00Z,2025-05-11,1,R,F,Final,146,Miami Marlins,2,145,Chicago White Sox,4,4,Rate Field,9
+777955,2025-05-11T19:10:00Z,2025-05-11,1,R,F,Final,135,San Diego Padres,3,115,Colorado Rockies,9,19,Coors Field,9
+777957,2025-05-11T20:05:00Z,2025-05-11,1,R,F,Final,147,New York Yankees,12,133,Athletics,2,2529,Sutter Health Park,9
+777961,2025-05-11T20:07:00Z,2025-05-11,1,R,F,Final,110,Baltimore Orioles,7,108,Los Angeles Angels,3,1,Angel Stadium,9
+777954,2025-05-11T20:10:00Z,2025-05-11,1,R,F,Final,119,Los Angeles Dodgers,8,109,Arizona Diamondbacks,1,15,Chase Field,9
+777958,2025-05-11T20:10:00Z,2025-05-11,1,R,F,Final,141,Toronto Blue Jays,9,136,Seattle Mariners,1,680,T-Mobile Park,9
+777971,2025-05-11T23:10:00Z,2025-05-11,1,R,F,Final,143,Philadelphia Phillies,3,114,Cleveland Guardians,0,5,Progressive Field,9

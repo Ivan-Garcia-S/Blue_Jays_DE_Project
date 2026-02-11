@@ -1,0 +1,16 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+777678,2025-06-01T17:05:00Z,2025-06-01,1,R,F,Final,138,St. Louis Cardinals,1,140,Texas Rangers,8,5325,Globe Life Field,9
+777692,2025-06-01T17:35:00Z,2025-06-01,1,R,F,Final,111,Boston Red Sox,3,144,Atlanta Braves,1,4705,Truist Park,9
+777684,2025-06-01T17:35:00Z,2025-06-01,1,R,F,Final,145,Chicago White Sox,2,110,Baltimore Orioles,3,2,Oriole Park at Camden Yards,9
+777688,2025-06-01T17:35:00Z,2025-06-01,1,R,F,Final,158,Milwaukee Brewers,5,143,Philadelphia Phillies,2,2681,Citizens Bank Park,9
+777685,2025-06-01T17:37:00Z,2025-06-01,1,R,F,Final,133,Athletics,4,141,Toronto Blue Jays,8,14,Rogers Centre,9
+777683,2025-06-01T17:40:00Z,2025-06-01,1,R,F,Final,108,Los Angeles Angels,2,114,Cleveland Guardians,4,5,Progressive Field,9
+777686,2025-06-01T17:40:00Z,2025-06-01,1,R,F,Final,115,Colorado Rockies,3,121,New York Mets,5,3289,Citi Field,9
+777689,2025-06-01T17:40:00Z,2025-06-01,1,R,F,Final,137,San Francisco Giants,4,146,Miami Marlins,2,4169,loanDepot park,9
+777677,2025-06-01T18:10:00Z,2025-06-01,1,R,F,Final,116,Detroit Tigers,1,118,Kansas City Royals,0,7,Kauffman Stadium,9
+777690,2025-06-01T18:10:00Z,2025-06-01,1,R,F,Final,139,Tampa Bay Rays,0,117,Houston Astros,1,2392,Daikin Park,9
+777687,2025-06-01T18:20:00Z,2025-06-01,1,R,F,Final,113,Cincinnati Reds,3,112,Chicago Cubs,7,17,Wrigley Field,9
+777679,2025-06-01T20:10:00Z,2025-06-01,1,R,F,Final,120,Washington Nationals,1,109,Arizona Diamondbacks,3,15,Chase Field,9
+777680,2025-06-01T20:10:00Z,2025-06-01,1,R,F,Final,142,Minnesota Twins,1,136,Seattle Mariners,2,680,T-Mobile Park,9
+777681,2025-06-01T21:10:00Z,2025-06-01,1,R,F,Final,134,Pittsburgh Pirates,4,135,San Diego Padres,6,2680,Petco Park,9
+777682,2025-06-01T23:10:00Z,2025-06-01,1,R,F,Final,147,New York Yankees,7,119,Los Angeles Dodgers,3,22,Dodger Stadium,9

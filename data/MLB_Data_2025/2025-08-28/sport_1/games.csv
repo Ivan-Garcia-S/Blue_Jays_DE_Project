@@ -1,0 +1,9 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+776564,2025-08-28T17:05:00Z,2025-08-28,1,R,F,Final,111,Boston Red Sox,3,110,Baltimore Orioles,2,2,Oriole Park at Camden Yards,9
+776555,2025-08-28T18:10:00Z,2025-08-28,1,R,F,Final,115,Colorado Rockies,3,117,Houston Astros,4,2392,Daikin Park,9
+776553,2025-08-28T18:10:00Z,2025-08-28,1,R,F,Final,109,Arizona Diamondbacks,6,158,Milwaukee Brewers,4,32,American Family Field,9
+776554,2025-08-28T18:15:00Z,2025-08-28,1,R,F,Final,134,Pittsburgh Pirates,1,138,St. Louis Cardinals,4,2889,Busch Stadium,9
+776550,2025-08-28T19:45:00Z,2025-08-28,1,R,F,Final,112,Chicago Cubs,3,137,San Francisco Giants,4,2395,Oracle Park,9
+776560,2025-08-28T22:45:00Z,2025-08-28,1,R,F,Final,144,Atlanta Braves,4,143,Philadelphia Phillies,19,2681,Citizens Bank Park,9
+776558,2025-08-28T23:10:00Z,2025-08-28,1,R,F,Final,146,Miami Marlins,7,121,New York Mets,4,3289,Citi Field,9
+776556,2025-08-28T23:40:00Z,2025-08-28,1,R,F,Final,147,New York Yankees,10,145,Chicago White Sox,4,4,Rate Field,9

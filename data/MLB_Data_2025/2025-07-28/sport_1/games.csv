@@ -1,0 +1,16 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+776966,2025-07-28T22:35:00Z,2025-07-28,1,R,F,Final,141,Toronto Blue Jays,4,110,Baltimore Orioles,11,2,Oriole Park at Camden Yards,9
+776968,2025-07-28T22:40:00Z,2025-07-28,1,R,F,Final,115,Colorado Rockies,8,114,Cleveland Guardians,6,5,Progressive Field,9
+776973,2025-07-28T22:40:00Z,2025-07-28,1,R,F,Final,109,Arizona Diamondbacks,1,116,Detroit Tigers,5,2394,Comerica Park,9
+776970,2025-07-28T23:05:00Z,2025-07-28,1,R,F,Final,139,Tampa Bay Rays,4,147,New York Yankees,2,3313,Yankee Stadium,9
+776967,2025-07-28T23:10:00Z,2025-07-28,1,R,F,Final,119,Los Angeles Dodgers,5,113,Cincinnati Reds,2,2602,Great American Ball Park,9
+776961,2025-07-28T23:40:00Z,2025-07-28,1,R,F,Final,111,Boston Red Sox,4,142,Minnesota Twins,5,3312,Target Field,9
+776971,2025-07-28T23:40:00Z,2025-07-28,1,R,F,Final,144,Atlanta Braves,10,118,Kansas City Royals,7,7,Kauffman Stadium,9
+776972,2025-07-28T23:40:00Z,2025-07-28,1,R,F,Final,143,Philadelphia Phillies,2,145,Chicago White Sox,6,4,Rate Field,9
+776965,2025-07-28T23:40:00Z,2025-07-28,1,R,F,Final,112,Chicago Cubs,4,158,Milwaukee Brewers,8,32,American Family Field,9
+776960,2025-07-28T23:45:00Z,2025-07-28,1,R,F,Final,146,Miami Marlins,1,138,St. Louis Cardinals,7,2889,Busch Stadium,9
+776969,2025-07-29T00:10:00Z,2025-07-28,1,R,F,Final,120,Washington Nationals,2,117,Houston Astros,1,2392,Daikin Park,9
+776958,2025-07-29T01:38:00Z,2025-07-28,1,R,F,Final,140,Texas Rangers,4,108,Los Angeles Angels,6,1,Angel Stadium,9
+776959,2025-07-29T01:40:00Z,2025-07-28,1,R,F,Final,121,New York Mets,6,135,San Diego Padres,7,2680,Petco Park,9
+776964,2025-07-29T01:45:00Z,2025-07-28,1,R,F,Final,134,Pittsburgh Pirates,6,137,San Francisco Giants,5,2395,Oracle Park,9
+776957,2025-07-29T02:05:00Z,2025-07-28,1,R,F,Final,136,Seattle Mariners,3,133,Athletics,1,2529,Sutter Health Park,9

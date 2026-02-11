@@ -1,0 +1,17 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+779115,2025-02-27T18:05:00Z,2025-02-27,1,S,F,Final,111,Boston Red Sox,6,116,Detroit Tigers,5,2511,Publix Field at Joker Marchant Stadium,9
+778972,2025-02-27T18:05:00Z,2025-02-27,1,S,F,Final: Tied,116,Detroit Tigers,7,139,Tampa Bay Rays,7,2534,Charlotte Sports Park,9
+779132,2025-02-27T18:05:00Z,2025-02-27,1,S,F,Final,141,Toronto Blue Jays,8,110,Baltimore Orioles,11,2508,Ed Smith Stadium,9
+778883,2025-02-27T18:05:00Z,2025-02-27,1,S,F,Final,134,Pittsburgh Pirates,12,142,Minnesota Twins,1,2862,Lee Health Sports Complex,9
+779081,2025-02-27T18:05:00Z,2025-02-27,1,S,F,Final,146,Miami Marlins,4,138,St. Louis Cardinals,8,2520,Roger Dean Chevrolet Stadium,9
+778914,2025-02-27T18:05:00Z,2025-02-27,1,S,F,Final: Tied,147,New York Yankees,7,143,Philadelphia Phillies,7,2700,BayCare Ballpark,9
+778896,2025-02-27T18:10:00Z,2025-02-27,1,S,F,Final,117,Houston Astros,0,121,New York Mets,5,2856,Clover Park,9
+778759,2025-02-27T20:05:00Z,2025-02-27,1,S,F,Final: Tied,108,Los Angeles Angels,4,112,Chicago Cubs,4,4629,Sloan Park,9
+778836,2025-02-27T20:05:00Z,2025-02-27,1,S,F,Final: Tied,109,Arizona Diamondbacks,3,113,Cincinnati Reds,3,3834,Goodyear Ballpark,9
+779145,2025-02-27T20:05:00Z,2025-02-27,1,S,F,Final,135,San Diego Padres,4,133,Athletics,6,2507,Hohokam Stadium,9
+778938,2025-02-27T20:05:00Z,2025-02-27,1,S,F,Final,136,Seattle Mariners,0,140,Texas Rangers,8,2603,Surprise Stadium,9
+778862,2025-02-27T20:05:00Z,2025-02-27,1,S,F,Final,114,Cleveland Guardians,2,145,Chicago White Sox,4,3809,Camelback Ranch,9
+778804,2025-02-27T20:10:00Z,2025-02-27,1,S,F,Final,119,Los Angeles Dodgers,0,115,Colorado Rockies,2,4249,Salt River Fields at Talking Stick,9
+779022,2025-02-27T20:10:00Z,2025-02-27,1,S,F,Final,137,San Francisco Giants,6,136,Seattle Mariners,4,2530,Peoria Stadium,9
+779098,2025-02-27T20:10:00Z,2025-02-27,1,S,F,Final,118,Kansas City Royals,5,158,Milwaukee Brewers,12,2518,American Family Fields of Phoenix,9
+778736,2025-02-27T23:05:00Z,2025-02-27,1,S,F,Final,144,Atlanta Braves,4,120,Washington Nationals,3,5000,CACTI Park of the Palm Beaches,9

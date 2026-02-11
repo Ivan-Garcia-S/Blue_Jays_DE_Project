@@ -1,0 +1,19 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+790402,2025-03-16T03:00:00Z,2025-03-16,1,E,F,Final,119,Los Angeles Dodgers,0,341,Hanshin Tigers,3,2397,Tokyo Dome,9
+790401,2025-03-16T10:00:00Z,2025-03-16,1,E,F,Final,112,Chicago Cubs,4,241,Tokyo Yomiuri Giants,2,2397,Tokyo Dome,9
+779106,2025-03-16T17:05:00Z,2025-03-16,1,S,F,Final,110,Baltimore Orioles,7,116,Detroit Tigers,1,2511,Publix Field at Joker Marchant Stadium,9
+778720,2025-03-16T17:05:00Z,2025-03-16,1,S,F,Final,139,Tampa Bay Rays,11,120,Washington Nationals,5,5000,CACTI Park of the Palm Beaches,9
+778871,2025-03-16T17:05:00Z,2025-03-16,1,S,F,Final,111,Boston Red Sox,6,142,Minnesota Twins,5,2862,Lee Health Sports Complex,9
+779121,2025-03-16T17:05:00Z,2025-03-16,1,S,F,Final,143,Philadelphia Phillies,12,110,Baltimore Orioles,1,2508,Ed Smith Stadium,9
+779047,2025-03-16T17:05:00Z,2025-03-16,1,S,F,Final,134,Pittsburgh Pirates,4,147,New York Yankees,3,2523,George M. Steinbrenner Field,9
+778966,2025-03-16T17:05:00Z,2025-03-16,1,S,F,Final,147,New York Yankees,7,139,Tampa Bay Rays,5,2534,Charlotte Sports Park,9
+778946,2025-03-16T17:07:00Z,2025-03-16,1,S,F,Final,144,Atlanta Braves,2,141,Toronto Blue Jays,6,2536,TD Ballpark,9
+778888,2025-03-16T17:10:00Z,2025-03-16,1,S,F,Final,117,Houston Astros,5,121,New York Mets,0,2856,Clover Park,9
+779065,2025-03-16T17:10:00Z,2025-03-16,1,S,F,Final,138,St. Louis Cardinals,5,146,Miami Marlins,11,2520,Roger Dean Chevrolet Stadium,9
+778816,2025-03-16T20:05:00Z,2025-03-16,1,S,F,Final,136,Seattle Mariners,8,113,Cincinnati Reds,3,3834,Goodyear Ballpark,9
+778981,2025-03-16T20:05:00Z,2025-03-16,1,S,F,Final,133,Athletics,3,137,San Francisco Giants,7,2532,Scottsdale Stadium,9
+778922,2025-03-16T20:05:00Z,2025-03-16,1,S,F,Final,145,Chicago White Sox,7,140,Texas Rangers,6,2603,Surprise Stadium,9
+778785,2025-03-16T20:10:00Z,2025-03-16,1,S,F,Final,118,Kansas City Royals,10,115,Colorado Rockies,2,4249,Salt River Fields at Talking Stick,9
+779149,2025-03-16T20:10:00Z,2025-03-16,1,S,F,Final,135,San Diego Padres,4,108,Los Angeles Angels,2,2500,Tempe Diablo Stadium,9
+779003,2025-03-16T20:10:00Z,2025-03-16,1,S,F,Final,109,Arizona Diamondbacks,5,135,San Diego Padres,4,2530,Peoria Stadium,9
+779092,2025-03-16T20:10:00Z,2025-03-16,1,S,F,Final,114,Cleveland Guardians,2,158,Milwaukee Brewers,8,2518,American Family Fields of Phoenix,9

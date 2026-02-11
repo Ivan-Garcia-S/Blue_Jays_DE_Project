@@ -1,0 +1,6 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+777019,2025-07-24T17:10:00Z,2025-07-24,1,R,F,Final,110,Baltimore Orioles,4,114,Cleveland Guardians,3,5,Progressive Field,9
+777021,2025-07-24T22:40:00Z,2025-07-24,1,R,F,Final,141,Toronto Blue Jays,11,116,Detroit Tigers,4,2394,Comerica Park,9
+777023,2025-07-24T23:45:00Z,2025-07-24,1,R,F,Final,135,San Diego Padres,7,138,St. Louis Cardinals,9,2889,Busch Stadium,9
+777025,2025-07-25T00:10:00Z,2025-07-24,1,R,F,Final,133,Athletics,5,117,Houston Astros,2,2392,Daikin Park,9
+777018,2025-07-25T01:38:00Z,2025-07-24,1,R,F,Final,136,Seattle Mariners,4,108,Los Angeles Angels,2,1,Angel Stadium,9

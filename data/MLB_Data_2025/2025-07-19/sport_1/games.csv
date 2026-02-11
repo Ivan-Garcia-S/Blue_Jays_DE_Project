@@ -1,0 +1,16 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+777094,2025-07-19T19:07:00Z,2025-07-19,1,R,F,Final,137,San Francisco Giants,3,141,Toronto Blue Jays,6,14,Rogers Centre,9
+777092,2025-07-19T20:10:00Z,2025-07-19,1,R,F,Final,113,Cincinnati Reds,5,121,New York Mets,2,3289,Citi Field,9
+777093,2025-07-19T20:10:00Z,2025-07-19,1,R,F,Final,118,Kansas City Royals,1,146,Miami Marlins,3,4169,loanDepot park,9
+777089,2025-07-19T22:05:00Z,2025-07-19,1,R,F,Final,108,Los Angeles Angels,5,143,Philadelphia Phillies,9,2681,Citizens Bank Park,9
+777090,2025-07-19T22:40:00Z,2025-07-19,1,R,F,Final,145,Chicago White Sox,10,134,Pittsburgh Pirates,4,31,PNC Park,9
+777091,2025-07-19T22:45:00Z,2025-07-19,1,R,F,Final,135,San Diego Padres,2,120,Washington Nationals,4,3309,Nationals Park,9
+777095,2025-07-19T23:05:00Z,2025-07-19,1,R,F,Final,110,Baltimore Orioles,3,139,Tampa Bay Rays,4,2523,George M. Steinbrenner Field,9
+777088,2025-07-19T23:05:00Z,2025-07-19,1,R,F,Final,116,Detroit Tigers,1,140,Texas Rangers,4,5325,Globe Life Field,9
+777104,2025-07-19T23:10:00Z,2025-07-19,1,R,F,Final,133,Athletics,8,114,Cleveland Guardians,2,5,Progressive Field,9
+777096,2025-07-19T23:15:00Z,2025-07-19,1,R,F,Final,111,Boston Red Sox,0,112,Chicago Cubs,6,17,Wrigley Field,9
+777081,2025-07-19T23:15:00Z,2025-07-19,1,R,F,Final,138,St. Louis Cardinals,1,109,Arizona Diamondbacks,10,15,Chase Field,9
+777097,2025-07-19T23:15:00Z,2025-07-19,1,R,F,Final,147,New York Yankees,12,144,Atlanta Braves,9,4705,Truist Park,9
+777080,2025-07-20T00:10:00Z,2025-07-19,1,R,F,Final,142,Minnesota Twins,6,115,Colorado Rockies,10,19,Coors Field,9
+777085,2025-07-20T01:10:00Z,2025-07-19,1,R,F,Final,158,Milwaukee Brewers,8,119,Los Angeles Dodgers,7,22,Dodger Stadium,9
+777086,2025-07-20T01:40:00Z,2025-07-19,1,R,F,Final,117,Houston Astros,6,136,Seattle Mariners,7,680,T-Mobile Park,9

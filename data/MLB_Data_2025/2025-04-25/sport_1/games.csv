@@ -1,0 +1,16 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+778182,2025-04-25T18:20:00Z,2025-04-25,1,R,F,Final,143,Philadelphia Phillies,0,112,Chicago Cubs,4,17,Wrigley Field,9
+778183,2025-04-25T22:45:00Z,2025-04-25,1,R,F,Final,121,New York Mets,4,120,Washington Nationals,5,3309,Nationals Park,9
+778185,2025-04-25T23:05:00Z,2025-04-25,1,R,F,Final,141,Toronto Blue Jays,4,147,New York Yankees,2,3313,Yankee Stadium,9
+778187,2025-04-25T23:40:00Z,2025-04-25,1,R,F,Final,117,Houston Astros,0,118,Kansas City Royals,2,7,Kauffman Stadium,9
+778186,2025-04-25T23:40:00Z,2025-04-25,1,R,F,Final,108,Los Angeles Angels,4,142,Minnesota Twins,11,3312,Target Field,9
+778184,2025-04-26T00:15:00Z,2025-04-25,1,R,F,Final,158,Milwaukee Brewers,2,138,St. Louis Cardinals,3,2889,Busch Stadium,9
+778181,2025-04-26T00:40:00Z,2025-04-25,1,R,F,Final,113,Cincinnati Reds,8,115,Colorado Rockies,7,19,Coors Field,9
+778172,2025-04-26T01:40:00Z,2025-04-25,1,R,F,Final,139,Tampa Bay Rays,1,135,San Diego Padres,0,2680,Petco Park,9
+778177,2025-04-26T01:40:00Z,2025-04-25,1,R,F,Final,144,Atlanta Braves,8,109,Arizona Diamondbacks,2,15,Chase Field,9
+778175,2025-04-26T01:40:00Z,2025-04-25,1,R,F,Final,146,Miami Marlins,8,136,Seattle Mariners,4,680,T-Mobile Park,9
+778178,2025-04-26T02:05:00Z,2025-04-25,1,R,F,Final,145,Chicago White Sox,5,133,Athletics,6,2529,Sutter Health Park,9
+778176,2025-04-26T02:10:00Z,2025-04-25,1,R,F,Final,134,Pittsburgh Pirates,3,119,Los Angeles Dodgers,0,22,Dodger Stadium,9
+778171,2025-04-26T02:15:00Z,2025-04-25,1,R,F,Final,140,Texas Rangers,2,137,San Francisco Giants,0,2395,Oracle Park,9
+778180,2025-04-25T22:40:00Z,2025-04-26,1,R,D,Postponed,110,Baltimore Orioles,,116,Detroit Tigers,,2394,Comerica Park,9
+778179,2025-04-25T23:10:00Z,2025-04-26,1,R,D,Postponed,111,Boston Red Sox,,114,Cleveland Guardians,,5,Progressive Field,9

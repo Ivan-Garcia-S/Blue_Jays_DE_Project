@@ -1,0 +1,16 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+778344,2025-04-13T17:35:00Z,2025-04-13,1,R,F,Final,141,Toronto Blue Jays,7,110,Baltimore Orioles,6,2,Oriole Park at Camden Yards,9
+778339,2025-04-13T17:35:00Z,2025-04-13,1,R,F,Final,137,San Francisco Giants,5,147,New York Yankees,4,3313,Yankee Stadium,9
+778342,2025-04-13T17:40:00Z,2025-04-13,1,R,F,Final,118,Kansas City Royals,4,114,Cleveland Guardians,2,5,Progressive Field,9
+778343,2025-04-13T17:40:00Z,2025-04-13,1,R,F,Final,134,Pittsburgh Pirates,0,113,Cincinnati Reds,4,2602,Great American Ball Park,9
+778340,2025-04-13T17:40:00Z,2025-04-13,1,R,F,Final,144,Atlanta Braves,3,139,Tampa Bay Rays,8,2523,George M. Steinbrenner Field,9
+778337,2025-04-13T17:40:00Z,2025-04-13,1,R,F,Final,120,Washington Nationals,4,146,Miami Marlins,11,4169,loanDepot park,9
+778329,2025-04-13T18:10:00Z,2025-04-13,1,R,F,Final,108,Los Angeles Angels,3,117,Houston Astros,7,2392,Daikin Park,9
+778335,2025-04-13T18:10:00Z,2025-04-13,1,R,F,Final,116,Detroit Tigers,1,142,Minnesota Twins,5,3312,Target Field,9
+778338,2025-04-13T18:10:00Z,2025-04-13,1,R,F,Final,111,Boston Red Sox,3,145,Chicago White Sox,1,4,Rate Field,9
+778336,2025-04-13T18:15:00Z,2025-04-13,1,R,F,Final,143,Philadelphia Phillies,0,138,St. Louis Cardinals,7,2889,Busch Stadium,9
+778333,2025-04-13T20:05:00Z,2025-04-13,1,R,F,Final,121,New York Mets,8,133,Athletics,0,2529,Sutter Health Park,9
+778330,2025-04-13T20:10:00Z,2025-04-13,1,R,F,Final,115,Colorado Rockies,0,135,San Diego Padres,6,2680,Petco Park,9
+778334,2025-04-13T20:10:00Z,2025-04-13,1,R,F,Final,140,Texas Rangers,1,136,Seattle Mariners,3,680,T-Mobile Park,9
+778332,2025-04-13T20:10:00Z,2025-04-13,1,R,F,Final,158,Milwaukee Brewers,2,109,Arizona Diamondbacks,5,15,Chase Field,9
+778331,2025-04-13T23:10:00Z,2025-04-13,1,R,F,Final,112,Chicago Cubs,4,119,Los Angeles Dodgers,2,22,Dodger Stadium,9

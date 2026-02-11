@@ -1,0 +1,16 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+776436,2025-09-06T17:05:00Z,2025-09-06,1,R,F,Final,141,Toronto Blue Jays,1,147,New York Yankees,3,3313,Yankee Stadium,9
+776440,2025-09-06T18:20:00Z,2025-09-06,1,R,F,Final,120,Washington Nationals,2,112,Chicago Cubs,1,17,Wrigley Field,9
+776433,2025-09-06T20:10:00Z,2025-09-06,1,R,F,Final,143,Philadelphia Phillies,4,146,Miami Marlins,2,4169,loanDepot park,9
+776435,2025-09-06T22:10:00Z,2025-09-06,1,R,F,Final,145,Chicago White Sox,0,116,Detroit Tigers,6,2394,Comerica Park,9
+776439,2025-09-06T22:40:00Z,2025-09-06,1,R,F,Final,121,New York Mets,3,113,Cincinnati Reds,6,2602,Great American Ball Park,9
+776441,2025-09-06T22:40:00Z,2025-09-06,1,R,F,Final,158,Milwaukee Brewers,4,134,Pittsburgh Pirates,1,31,PNC Park,9
+776443,2025-09-06T23:05:00Z,2025-09-06,1,R,F,Final,119,Los Angeles Dodgers,3,110,Baltimore Orioles,4,2,Oriole Park at Camden Yards,9
+776438,2025-09-06T23:05:00Z,2025-09-06,1,R,F,Final,114,Cleveland Guardians,3,139,Tampa Bay Rays,2,2523,George M. Steinbrenner Field,9
+776437,2025-09-06T23:15:00Z,2025-09-06,1,R,F,Final,137,San Francisco Giants,2,138,St. Louis Cardinals,3,2889,Busch Stadium,9
+776432,2025-09-06T23:15:00Z,2025-09-06,1,R,F,Final,117,Houston Astros,11,140,Texas Rangers,0,5325,Globe Life Field,9
+776434,2025-09-06T23:15:00Z,2025-09-06,1,R,F,Final,142,Minnesota Twins,2,118,Kansas City Royals,11,7,Kauffman Stadium,9
+776447,2025-09-06T23:15:00Z,2025-09-06,1,R,F,Final,136,Seattle Mariners,10,144,Atlanta Braves,2,4705,Truist Park,9
+776424,2025-09-07T00:10:00Z,2025-09-06,1,R,F,Final,111,Boston Red Sox,1,109,Arizona Diamondbacks,5,15,Chase Field,9
+776431,2025-09-07T00:10:00Z,2025-09-06,1,R,F,Final,135,San Diego Padres,10,115,Colorado Rockies,8,19,Coors Field,9
+776430,2025-09-07T01:38:00Z,2025-09-06,1,R,F,Final,133,Athletics,17,108,Los Angeles Angels,4,1,Angel Stadium,9

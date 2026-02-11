@@ -1,0 +1,16 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+777406,2025-06-22T15:35:00Z,2025-06-22,1,R,F,Final,110,Baltimore Orioles,2,147,New York Yankees,4,3313,Yankee Stadium,9
+777409,2025-06-22T16:10:00Z,2025-06-22,1,R,F,Final,116,Detroit Tigers,9,139,Tampa Bay Rays,3,2523,George M. Steinbrenner Field,9
+777404,2025-06-22T17:35:00Z,2025-06-22,1,R,F,Final,140,Texas Rangers,3,134,Pittsburgh Pirates,8,31,PNC Park,9
+777408,2025-06-22T17:37:00Z,2025-06-22,1,R,F,Final,145,Chicago White Sox,4,141,Toronto Blue Jays,2,14,Rogers Centre,9
+777402,2025-06-22T17:40:00Z,2025-06-22,1,R,F,Final,144,Atlanta Braves,3,146,Miami Marlins,5,4169,loanDepot park,9
+777401,2025-06-22T18:10:00Z,2025-06-22,1,R,F,Final,158,Milwaukee Brewers,9,142,Minnesota Twins,8,3312,Target Field,9
+777407,2025-06-22T18:15:00Z,2025-06-22,1,R,F,Final,113,Cincinnati Reds,4,138,St. Louis Cardinals,1,2889,Busch Stadium,9
+777403,2025-06-22T18:20:00Z,2025-06-22,1,R,F,Final,136,Seattle Mariners,14,112,Chicago Cubs,6,17,Wrigley Field,9
+777399,2025-06-22T19:10:00Z,2025-06-22,1,R,F,Final,109,Arizona Diamondbacks,2,115,Colorado Rockies,4,19,Coors Field,9
+777400,2025-06-22T20:05:00Z,2025-06-22,1,R,F,Final,114,Cleveland Guardians,3,133,Athletics,0,2529,Sutter Health Park,9
+777395,2025-06-22T20:05:00Z,2025-06-22,1,R,F,Final,111,Boston Red Sox,5,137,San Francisco Giants,9,2395,Oracle Park,9
+777397,2025-06-22T20:07:00Z,2025-06-22,1,R,F,Final,117,Houston Astros,8,108,Los Angeles Angels,7,1,Angel Stadium,9
+777398,2025-06-22T20:10:00Z,2025-06-22,1,R,F,Final,120,Washington Nationals,7,119,Los Angeles Dodgers,13,22,Dodger Stadium,9
+777396,2025-06-22T20:10:00Z,2025-06-22,1,R,F,Final,118,Kansas City Royals,2,135,San Diego Padres,3,2680,Petco Park,9
+777405,2025-06-22T23:10:00Z,2025-06-22,1,R,F,Final,121,New York Mets,1,143,Philadelphia Phillies,7,2681,Citizens Bank Park,9

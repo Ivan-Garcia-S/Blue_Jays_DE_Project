@@ -1,0 +1,2 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+813054,2025-10-11T00:08:00Z,2025-10-10,1,D,F,Final,116,Detroit Tigers,2,136,Seattle Mariners,3,680,T-Mobile Park,9

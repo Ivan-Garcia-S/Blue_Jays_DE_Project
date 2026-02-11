@@ -1,0 +1,16 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+776167,2025-09-26T18:20:00Z,2025-09-26,1,R,F,Final,138,St. Louis Cardinals,1,112,Chicago Cubs,12,17,Wrigley Field,9
+776176,2025-09-26T22:45:00Z,2025-09-26,1,R,F,Final,142,Minnesota Twins,1,143,Philadelphia Phillies,3,2681,Citizens Bank Park,9
+776165,2025-09-26T22:45:00Z,2025-09-26,1,R,F,Final,145,Chicago White Sox,10,120,Washington Nationals,9,3309,Nationals Park,9
+776174,2025-09-26T23:05:00Z,2025-09-26,1,R,F,Final,110,Baltimore Orioles,4,147,New York Yankees,8,3313,Yankee Stadium,9
+776177,2025-09-26T23:07:00Z,2025-09-26,1,R,F,Final,139,Tampa Bay Rays,2,141,Toronto Blue Jays,4,14,Rogers Centre,9
+776181,2025-09-26T23:10:00Z,2025-09-26,1,R,F,Final,116,Detroit Tigers,3,111,Boston Red Sox,4,3,Fenway Park,9
+776175,2025-09-26T23:10:00Z,2025-09-26,1,R,F,Final,140,Texas Rangers,7,114,Cleveland Guardians,3,5,Progressive Field,9
+776173,2025-09-26T23:10:00Z,2025-09-26,1,R,F,Final,121,New York Mets,2,146,Miami Marlins,6,4169,loanDepot park,9
+776180,2025-09-26T23:15:00Z,2025-09-26,1,R,F,Final,134,Pittsburgh Pirates,9,144,Atlanta Braves,3,4705,Truist Park,9
+776171,2025-09-27T00:10:00Z,2025-09-26,1,R,F,Final,113,Cincinnati Reds,3,158,Milwaukee Brewers,1,32,American Family Field,9
+776169,2025-09-27T01:38:00Z,2025-09-26,1,R,F,Final,117,Houston Astros,3,108,Los Angeles Angels,4,1,Angel Stadium,9
+776170,2025-09-27T01:40:00Z,2025-09-26,1,R,F,Final,109,Arizona Diamondbacks,4,135,San Diego Padres,7,2680,Petco Park,9
+776168,2025-09-27T01:40:00Z,2025-09-26,1,R,F,Final,119,Los Angeles Dodgers,3,136,Seattle Mariners,2,680,T-Mobile Park,9
+776172,2025-09-27T02:05:00Z,2025-09-26,1,R,F,Final,118,Kansas City Royals,3,133,Athletics,4,2529,Sutter Health Park,9
+776166,2025-09-27T02:15:00Z,2025-09-26,1,R,F,Final,115,Colorado Rockies,3,137,San Francisco Giants,6,2395,Oracle Park,9

@@ -1,0 +1,12 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+776792,2025-08-11T22:10:00Z,2025-08-11,1,R,F,Final,143,Philadelphia Phillies,4,113,Cincinnati Reds,1,2602,Great American Ball Park,9
+776790,2025-08-11T23:05:00Z,2025-08-11,1,R,F,Final,142,Minnesota Twins,2,147,New York Yankees,6,3313,Yankee Stadium,9
+776784,2025-08-11T23:40:00Z,2025-08-11,1,R,F,Final,120,Washington Nationals,4,118,Kansas City Royals,7,7,Kauffman Stadium,9
+776781,2025-08-11T23:40:00Z,2025-08-11,1,R,F,Final,116,Detroit Tigers,2,145,Chicago White Sox,1,4,Rate Field,9
+776786,2025-08-11T23:40:00Z,2025-08-11,1,R,F,Final,134,Pittsburgh Pirates,1,158,Milwaukee Brewers,7,32,American Family Field,9
+776783,2025-08-11T23:45:00Z,2025-08-11,1,R,F,Final,115,Colorado Rockies,2,138,St. Louis Cardinals,3,2889,Busch Stadium,9
+776785,2025-08-12T00:05:00Z,2025-08-11,1,R,F,Final,109,Arizona Diamondbacks,6,140,Texas Rangers,7,5325,Globe Life Field,9
+776782,2025-08-12T00:10:00Z,2025-08-11,1,R,F,Final,111,Boston Red Sox,6,117,Houston Astros,7,2392,Daikin Park,9
+776779,2025-08-12T01:38:00Z,2025-08-11,1,R,F,Final,119,Los Angeles Dodgers,4,108,Los Angeles Angels,7,1,Angel Stadium,9
+776780,2025-08-12T01:45:00Z,2025-08-11,1,R,F,Final,135,San Diego Padres,4,137,San Francisco Giants,1,2395,Oracle Park,9
+776787,2025-08-12T02:05:00Z,2025-08-11,1,R,F,Final,139,Tampa Bay Rays,7,133,Athletics,4,2529,Sutter Health Park,9

@@ -1,0 +1,16 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+777514,2025-06-14T17:05:00Z,2025-06-14,1,R,F,Final,146,Miami Marlins,4,120,Washington Nationals,3,3309,Nationals Park,9
+777517,2025-06-14T17:10:00Z,2025-06-14,1,R,F,Final,113,Cincinnati Reds,11,116,Detroit Tigers,1,2394,Comerica Park,9
+777513,2025-06-14T18:20:00Z,2025-06-14,1,R,F,Final,134,Pittsburgh Pirates,1,112,Chicago Cubs,2,17,Wrigley Field,9
+777519,2025-06-14T20:05:00Z,2025-06-14,1,R,F,Final,108,Los Angeles Angels,5,110,Baltimore Orioles,6,2,Oriole Park at Camden Yards,9
+777509,2025-06-14T20:05:00Z,2025-06-14,1,R,F,Final,141,Toronto Blue Jays,2,143,Philadelphia Phillies,3,2681,Citizens Bank Park,9
+777508,2025-06-14T20:05:00Z,2025-06-14,1,R,F,Final,145,Chicago White Sox,4,140,Texas Rangers,5,5325,Globe Life Field,9
+777511,2025-06-14T20:10:00Z,2025-06-14,1,R,F,Final,133,Athletics,4,118,Kansas City Royals,0,7,Kauffman Stadium,9
+777518,2025-06-14T20:10:00Z,2025-06-14,1,R,F,Final,139,Tampa Bay Rays,8,121,New York Mets,4,3289,Citi Field,9
+777510,2025-06-14T20:10:00Z,2025-06-14,1,R,F,Final,142,Minnesota Twins,2,117,Houston Astros,3,2392,Daikin Park,9
+777523,2025-06-14T20:10:00Z,2025-06-14,1,R,F,Final,115,Colorado Rockies,1,144,Atlanta Braves,4,4705,Truist Park,9
+777512,2025-06-14T20:10:00Z,2025-06-14,1,R,F,Final,138,St. Louis Cardinals,8,158,Milwaukee Brewers,5,32,American Family Field,9
+777515,2025-06-14T23:15:00Z,2025-06-14,1,R,F,Final,135,San Diego Padres,7,109,Arizona Diamondbacks,8,15,Chase Field,9
+777516,2025-06-14T23:15:00Z,2025-06-14,1,R,F,Final,147,New York Yankees,3,111,Boston Red Sox,4,3,Fenway Park,9
+777507,2025-06-15T01:40:00Z,2025-06-14,1,R,F,Final,114,Cleveland Guardians,3,136,Seattle Mariners,4,680,T-Mobile Park,9
+777506,2025-06-15T02:10:00Z,2025-06-14,1,R,F,Final,137,San Francisco Giants,5,119,Los Angeles Dodgers,11,22,Dodger Stadium,9

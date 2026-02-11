@@ -1,0 +1,17 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+779129,2025-03-01T18:05:00Z,2025-03-01,1,S,F,Final,134,Pittsburgh Pirates,5,110,Baltimore Orioles,2,2508,Ed Smith Stadium,9
+779079,2025-03-01T18:05:00Z,2025-03-01,1,S,F,Final,120,Washington Nationals,2,138,St. Louis Cardinals,3,2520,Roger Dean Chevrolet Stadium,9
+778970,2025-03-01T18:05:00Z,2025-03-01,1,S,F,Final,121,New York Mets,10,139,Tampa Bay Rays,1,2534,Charlotte Sports Park,9
+778774,2025-03-01T18:05:00Z,2025-03-01,1,S,F,Final,142,Minnesota Twins,4,111,Boston Red Sox,8,4309,JetBlue Park,9
+779111,2025-03-01T18:05:00Z,2025-03-01,1,S,F,Final,143,Philadelphia Phillies,0,116,Detroit Tigers,1,2511,Publix Field at Joker Marchant Stadium,9
+778704,2025-03-01T18:05:00Z,2025-03-01,1,S,F,Final: Tied,141,Toronto Blue Jays,1,144,Atlanta Braves,1,5380,CoolToday Park,9
+779051,2025-03-01T18:05:00Z,2025-03-01,1,S,F,Final,117,Houston Astros,3,147,New York Yankees,9,2523,George M. Steinbrenner Field,9
+778756,2025-03-01T20:05:00Z,2025-03-01,1,S,F,Final,114,Cleveland Guardians,4,112,Chicago Cubs,7,4629,Sloan Park,9
+778831,2025-03-01T20:05:00Z,2025-03-01,1,S,F,Final,135,San Diego Padres,3,113,Cincinnati Reds,7,3834,Goodyear Ballpark,9
+778858,2025-03-01T20:05:00Z,2025-03-01,1,S,F,Final,137,San Francisco Giants,5,119,Los Angeles Dodgers,6,3809,Camelback Ranch,9
+778801,2025-03-01T20:10:00Z,2025-03-01,1,S,F,Final,115,Colorado Rockies,4,109,Arizona Diamondbacks,8,4249,Salt River Fields at Talking Stick,9
+779157,2025-03-01T20:10:00Z,2025-03-01,1,S,F,Final,133,Athletics,0,108,Los Angeles Angels,5,2500,Tempe Diablo Stadium,9
+779018,2025-03-01T20:10:00Z,2025-03-01,1,S,F,Final,145,Chicago White Sox,18,136,Seattle Mariners,9,2530,Peoria Stadium,9
+779099,2025-03-01T20:10:00Z,2025-03-01,1,S,F,Final,140,Texas Rangers,4,158,Milwaukee Brewers,9,2518,American Family Fields of Phoenix,9
+778730,2025-03-01T23:05:00Z,2025-03-01,1,S,F,Final,146,Miami Marlins,0,120,Washington Nationals,7,5000,CACTI Park of the Palm Beaches,9
+778936,2025-03-02T01:05:00Z,2025-03-01,1,S,F,Final,112,Chicago Cubs,11,118,Kansas City Royals,1,2603,Surprise Stadium,9

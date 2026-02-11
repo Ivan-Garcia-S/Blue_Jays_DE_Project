@@ -1,0 +1,17 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+778877,2025-03-10T17:05:00Z,2025-03-10,1,S,F,Final,143,Philadelphia Phillies,4,142,Minnesota Twins,1,2862,Lee Health Sports Complex,9
+778702,2025-03-10T17:05:00Z,2025-03-10,1,S,F,Final,139,Tampa Bay Rays,4,144,Atlanta Braves,3,5380,CoolToday Park,9
+779049,2025-03-10T17:05:00Z,2025-03-10,1,S,F,Final,116,Detroit Tigers,2,147,New York Yankees,10,2523,George M. Steinbrenner Field,9
+778956,2025-03-10T17:07:00Z,2025-03-10,1,S,F,Final,117,Houston Astros,3,141,Toronto Blue Jays,8,2536,TD Ballpark,9
+779067,2025-03-10T17:10:00Z,2025-03-10,1,S,F,Final: Tied,120,Washington Nationals,9,146,Miami Marlins,9,2520,Roger Dean Chevrolet Stadium,9
+778821,2025-03-10T20:05:00Z,2025-03-10,1,S,F,Final,112,Chicago Cubs,7,114,Cleveland Guardians,4,3834,Goodyear Ballpark,9
+778931,2025-03-10T20:05:00Z,2025-03-10,1,S,F,Final,114,Cleveland Guardians,5,118,Kansas City Royals,2,2603,Surprise Stadium,9
+778850,2025-03-10T20:05:00Z,2025-03-10,1,S,F,Final,109,Arizona Diamondbacks,2,119,Los Angeles Dodgers,6,3809,Camelback Ranch,9
+779137,2025-03-10T20:05:00Z,2025-03-10,1,S,F,Final,145,Chicago White Sox,10,133,Athletics,3,2507,Hohokam Stadium,9
+779153,2025-03-10T20:10:00Z,2025-03-10,1,S,F,Final,115,Colorado Rockies,3,108,Los Angeles Angels,12,2500,Tempe Diablo Stadium,9
+779009,2025-03-10T20:10:00Z,2025-03-10,1,S,F,Final,113,Cincinnati Reds,9,135,San Diego Padres,3,2530,Peoria Stadium,9
+778791,2025-03-10T20:10:00Z,2025-03-10,1,S,F,Final,137,San Francisco Giants,8,115,Colorado Rockies,2,4249,Salt River Fields at Talking Stick,9
+779093,2025-03-10T20:10:00Z,2025-03-10,1,S,F,Final,136,Seattle Mariners,5,158,Milwaukee Brewers,7,2518,American Family Fields of Phoenix,9
+779031,2025-03-10T22:05:00Z,2025-03-10,1,S,F,Final,110,Baltimore Orioles,6,134,Pittsburgh Pirates,3,2526,LECOM Park,9
+778726,2025-03-10T22:05:00Z,2025-03-10,1,S,F,Final,146,Miami Marlins,10,120,Washington Nationals,5,5000,CACTI Park of the Palm Beaches,9
+778892,2025-03-10T22:10:00Z,2025-03-10,1,S,F,Final,138,St. Louis Cardinals,0,121,New York Mets,8,2856,Clover Park,9

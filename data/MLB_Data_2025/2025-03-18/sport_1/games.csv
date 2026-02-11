@@ -1,0 +1,13 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+778563,2025-03-18T10:10:00Z,2025-03-18,1,R,F,Final,119,Los Angeles Dodgers,4,112,Chicago Cubs,1,2397,Tokyo Dome,9
+778870,2025-03-18T17:05:00Z,2025-03-18,1,S,F,Final,116,Detroit Tigers,6,142,Minnesota Twins,5,2862,Lee Health Sports Complex,9
+779025,2025-03-18T17:05:00Z,2025-03-18,1,S,F,Final,143,Philadelphia Phillies,2,134,Pittsburgh Pirates,3,2526,LECOM Park,9
+779062,2025-03-18T17:05:00Z,2025-03-18,1,S,F,Final: Tied,146,Miami Marlins,4,138,St. Louis Cardinals,4,2520,Roger Dean Chevrolet Stadium,9
+779043,2025-03-18T17:05:00Z,2025-03-18,1,S,F,Final: Tied,111,Boston Red Sox,4,147,New York Yankees,4,2523,George M. Steinbrenner Field,9
+778812,2025-03-18T20:05:00Z,2025-03-18,1,S,F,Final,108,Los Angeles Angels,0,113,Cincinnati Reds,1,3834,Goodyear Ballpark,9
+779001,2025-03-18T20:10:00Z,2025-03-18,1,S,F,Final,158,Milwaukee Brewers,3,136,Seattle Mariners,9,2530,Peoria Stadium,9
+778716,2025-03-18T22:05:00Z,2025-03-18,1,S,F,Final,120,Washington Nationals,4,117,Houston Astros,3,5000,CACTI Park of the Palm Beaches,9
+779119,2025-03-18T22:05:00Z,2025-03-18,1,S,F,Final,141,Toronto Blue Jays,2,110,Baltimore Orioles,8,2508,Ed Smith Stadium,9
+778979,2025-03-19T01:05:00Z,2025-03-18,1,S,F,Final,135,San Diego Padres,3,137,San Francisco Giants,4,2532,Scottsdale Stadium,9
+778921,2025-03-19T01:05:00Z,2025-03-18,1,S,F,Final,114,Cleveland Guardians,3,140,Texas Rangers,7,2603,Surprise Stadium,9
+778783,2025-03-19T01:40:00Z,2025-03-18,1,S,F,Final,137,San Francisco Giants,1,115,Colorado Rockies,3,4249,Salt River Fields at Talking Stick,9

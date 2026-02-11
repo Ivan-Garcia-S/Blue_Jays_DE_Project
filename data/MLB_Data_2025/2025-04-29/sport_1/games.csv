@@ -1,0 +1,16 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+778129,2025-04-29T22:10:00Z,2025-04-29,1,R,F,Final,142,Minnesota Twins,1,114,Cleveland Guardians,2,5,Progressive Field,9
+778133,2025-04-29T22:35:00Z,2025-04-29,1,R,F,Final,147,New York Yankees,15,110,Baltimore Orioles,3,2,Oriole Park at Camden Yards,9
+778135,2025-04-29T22:40:00Z,2025-04-29,1,R,F,Final,112,Chicago Cubs,9,134,Pittsburgh Pirates,0,31,PNC Park,9
+778131,2025-04-29T22:45:00Z,2025-04-29,1,R,F,Final,120,Washington Nationals,6,143,Philadelphia Phillies,7,2681,Citizens Bank Park,9
+778128,2025-04-29T23:05:00Z,2025-04-29,1,R,F,Final,118,Kansas City Royals,3,139,Tampa Bay Rays,1,2523,George M. Steinbrenner Field,9
+778127,2025-04-29T23:07:00Z,2025-04-29,1,R,F,Final,111,Boston Red Sox,10,141,Toronto Blue Jays,2,14,Rogers Centre,9
+778130,2025-04-29T23:10:00Z,2025-04-29,1,R,F,Final,109,Arizona Diamondbacks,3,121,New York Mets,8,3289,Citi Field,9
+778125,2025-04-29T23:40:00Z,2025-04-29,1,R,F,Final,158,Milwaukee Brewers,7,145,Chicago White Sox,2,4,Rate Field,9
+778122,2025-04-30T00:05:00Z,2025-04-29,1,R,F,Final,133,Athletics,2,140,Texas Rangers,15,5325,Globe Life Field,9
+778124,2025-04-30T00:10:00Z,2025-04-29,1,R,F,Final,116,Detroit Tigers,4,117,Houston Astros,6,2392,Daikin Park,9
+778120,2025-04-30T00:40:00Z,2025-04-29,1,R,F,Final,144,Atlanta Braves,8,115,Colorado Rockies,2,19,Coors Field,9
+778121,2025-04-30T01:40:00Z,2025-04-29,1,R,F,Final,108,Los Angeles Angels,3,136,Seattle Mariners,5,680,T-Mobile Park,9
+778126,2025-04-30T01:40:00Z,2025-04-29,1,R,F,Final,137,San Francisco Giants,4,135,San Diego Padres,7,2680,Petco Park,9
+778123,2025-04-30T02:10:00Z,2025-04-29,1,R,F,Final,146,Miami Marlins,2,119,Los Angeles Dodgers,15,22,Dodger Stadium,9
+778134,2025-04-29T22:40:00Z,2025-04-30,1,R,D,Postponed,138,St. Louis Cardinals,,113,Cincinnati Reds,,2602,Great American Ball Park,9

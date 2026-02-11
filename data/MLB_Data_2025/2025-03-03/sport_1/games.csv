@@ -1,0 +1,13 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+779128,2025-03-03T18:05:00Z,2025-03-03,1,S,F,Final: Tied,111,Boston Red Sox,6,110,Baltimore Orioles,6,2508,Ed Smith Stadium,9
+779112,2025-03-03T18:05:00Z,2025-03-03,1,S,F,Final,141,Toronto Blue Jays,13,116,Detroit Tigers,3,2511,Publix Field at Joker Marchant Stadium,9
+778973,2025-03-03T18:05:00Z,2025-03-03,1,S,F,Final,144,Atlanta Braves,4,139,Tampa Bay Rays,5,2534,Charlotte Sports Park,9
+779076,2025-03-03T18:10:00Z,2025-03-03,1,S,F,Final,117,Houston Astros,5,146,Miami Marlins,3,2520,Roger Dean Chevrolet Stadium,9
+778940,2025-03-03T20:05:00Z,2025-03-03,1,S,F,Final,140,Texas Rangers,3,118,Kansas City Royals,6,2603,Surprise Stadium,9
+778859,2025-03-03T20:05:00Z,2025-03-03,1,S,F,Final,133,Athletics,5,145,Chicago White Sox,4,3809,Camelback Ranch,9
+778802,2025-03-03T20:10:00Z,2025-03-03,1,S,F,Final,112,Chicago Cubs,2,109,Arizona Diamondbacks,10,4249,Salt River Fields at Talking Stick,9
+779156,2025-03-03T20:10:00Z,2025-03-03,1,S,F,Final,115,Colorado Rockies,8,108,Los Angeles Angels,4,2500,Tempe Diablo Stadium,9
+779012,2025-03-03T20:10:00Z,2025-03-03,1,S,F,Final,114,Cleveland Guardians,2,136,Seattle Mariners,7,2530,Peoria Stadium,9
+778895,2025-03-03T23:10:00Z,2025-03-03,1,S,F,Final: Tied,146,Miami Marlins,1,121,New York Mets,1,2856,Clover Park,9
+779050,2025-03-03T23:35:00Z,2025-03-03,1,S,F,Final,134,Pittsburgh Pirates,3,147,New York Yankees,12,2523,George M. Steinbrenner Field,9
+778829,2025-03-04T01:05:00Z,2025-03-03,1,S,F,Final,158,Milwaukee Brewers,4,113,Cincinnati Reds,5,3834,Goodyear Ballpark,9

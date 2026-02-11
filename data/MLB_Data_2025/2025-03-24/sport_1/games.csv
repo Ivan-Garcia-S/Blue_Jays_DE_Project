@@ -1,0 +1,16 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+778899,2025-03-24T16:35:00Z,2025-03-24,1,S,F,Final,139,Tampa Bay Rays,6,143,Philadelphia Phillies,8,2700,BayCare Ballpark,9
+787944,2025-03-24T17:05:00Z,2025-03-24,1,S,F,Final,134,Pittsburgh Pirates,1,142,Minnesota Twins,5,2862,Lee Health Sports Complex,9
+787945,2025-03-24T17:10:00Z,2025-03-24,1,S,F,Final: Tied,147,New York Yankees,6,121,New York Mets,6,2856,Clover Park,9
+789304,2025-03-24T19:05:00Z,2025-03-24,1,S,F,Final,133,Athletics,5,145,Chicago White Sox,8,3809,Camelback Ranch,9
+778992,2025-03-24T19:10:00Z,2025-03-24,1,S,F,Final: Tied,136,Seattle Mariners,7,135,San Diego Padres,7,2530,Peoria Stadium,9
+778781,2025-03-24T19:10:00Z,2025-03-24,1,S,F,Final,158,Milwaukee Brewers,4,115,Colorado Rockies,2,4249,Salt River Fields at Talking Stick,9
+778744,2025-03-24T20:05:00Z,2025-03-24,1,S,F,Final,144,Atlanta Braves,13,112,Chicago Cubs,4,4629,Sloan Park,9
+791797,2025-03-24T23:15:00Z,2025-03-24,1,E,F,Final,138,St. Louis Cardinals,3,235,Memphis Redbirds,2,2542,AutoZone Park,9
+778712,2025-03-25T00:05:00Z,2025-03-24,1,S,F,Final,118,Kansas City Royals,3,140,Texas Rangers,6,5325,Globe Life Field,9
+787927,2025-03-25T00:10:00Z,2025-03-24,1,E,F,Final,5434,Sugar Land Space Cowboys,4,117,Houston Astros,8,2392,Daikin Park,9
+787999,2025-03-25T01:07:00Z,2025-03-24,1,S,F,Final,119,Los Angeles Dodgers,4,108,Los Angeles Angels,5,1,Angel Stadium,9
+794238,2025-03-25T01:10:00Z,2025-03-24,1,E,F,Final,111,Boston Red Sox,10,562,Sultanes de Monterrey,1,2701,Walmart Park,9
+787930,2025-03-25T01:40:00Z,2025-03-24,1,S,F,Final,114,Cleveland Guardians,4,109,Arizona Diamondbacks,3,15,Chase Field,9
+789324,2025-03-25T01:45:00Z,2025-03-24,1,S,F,Final,116,Detroit Tigers,4,137,San Francisco Giants,6,2395,Oracle Park,9
+806207,2025-03-24T17:05:00Z,2025-03-24,1,S,C,Cancelled,110,Baltimore Orioles,,120,Washington Nationals,,3309,Nationals Park,9

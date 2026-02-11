@@ -1,0 +1,2 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+813038,2025-10-20T00:03:00Z,2025-10-19,1,L,F,Final,136,Seattle Mariners,2,141,Toronto Blue Jays,6,14,Rogers Centre,9

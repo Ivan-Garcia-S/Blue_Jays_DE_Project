@@ -1,0 +1,10 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+777394,2025-06-23T22:35:00Z,2025-06-23,1,R,F,Final,140,Texas Rangers,0,110,Baltimore Orioles,6,2,Oriole Park at Camden Yards,9
+777389,2025-06-23T23:10:00Z,2025-06-23,1,R,F,Final,144,Atlanta Braves,3,121,New York Mets,2,3289,Citi Field,9
+777390,2025-06-23T23:10:00Z,2025-06-23,1,R,F,Final,147,New York Yankees,1,113,Cincinnati Reds,6,2602,Great American Ball Park,9
+777388,2025-06-23T23:40:00Z,2025-06-23,1,R,F,Final,136,Seattle Mariners,11,142,Minnesota Twins,2,3312,Target Field,9
+777393,2025-06-23T23:40:00Z,2025-06-23,1,R,F,Final,109,Arizona Diamondbacks,10,145,Chicago White Sox,0,4,Rate Field,9
+777391,2025-06-23T23:40:00Z,2025-06-23,1,R,F,Final,134,Pittsburgh Pirates,5,158,Milwaukee Brewers,4,32,American Family Field,9
+777392,2025-06-23T23:45:00Z,2025-06-23,1,R,F,Final,112,Chicago Cubs,2,138,St. Louis Cardinals,8,2889,Busch Stadium,9
+777381,2025-06-24T01:38:00Z,2025-06-23,1,R,F,Final,111,Boston Red Sox,5,108,Los Angeles Angels,9,1,Angel Stadium,9
+777382,2025-06-24T01:40:00Z,2025-06-23,1,R,F,Final,120,Washington Nationals,10,135,San Diego Padres,6,2680,Petco Park,9

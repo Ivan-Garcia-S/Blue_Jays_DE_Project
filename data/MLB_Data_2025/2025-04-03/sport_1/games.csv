@@ -1,0 +1,6 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+778470,2025-04-03T17:05:00Z,2025-04-03,1,R,F,Final,111,Boston Red Sox,8,110,Baltimore Orioles,4,2,Oriole Park at Camden Yards,9
+778467,2025-04-03T17:05:00Z,2025-04-03,1,R,F,Final,115,Colorado Rockies,1,143,Philadelphia Phillies,3,2681,Citizens Bank Park,9
+778462,2025-04-03T20:10:00Z,2025-04-03,1,R,F,Final,117,Houston Astros,5,142,Minnesota Twins,2,3312,Target Field,9
+778466,2025-04-03T23:05:00Z,2025-04-03,1,R,F,Final,109,Arizona Diamondbacks,7,147,New York Yankees,9,3313,Yankee Stadium,9
+778468,2025-04-03T23:40:00Z,2025-04-03,1,R,F,Final,113,Cincinnati Reds,0,158,Milwaukee Brewers,1,32,American Family Field,9

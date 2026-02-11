@@ -1,0 +1,11 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+778291,2025-04-17T16:10:00Z,2025-04-17,1,R,F,Final,109,Arizona Diamondbacks,6,146,Miami Marlins,4,4169,loanDepot park,9
+778280,2025-04-17T16:35:00Z,2025-04-17,1,R,F,Final,120,Washington Nationals,0,134,Pittsburgh Pirates,1,31,PNC Park,9
+778285,2025-04-17T16:40:00Z,2025-04-17,1,R,F,Final,136,Seattle Mariners,11,113,Cincinnati Reds,7,2602,Great American Ball Park,9
+778283,2025-04-17T18:10:00Z,2025-04-17,1,R,F,Final,133,Athletics,8,145,Chicago White Sox,0,4,Rate Field,9
+778279,2025-04-17T20:05:00Z,2025-04-17,1,R,F,Final,137,San Francisco Giants,4,143,Philadelphia Phillies,6,2681,Citizens Bank Park,9
+778292,2025-04-17T22:35:00Z,2025-04-17,1,R,F,Final,114,Cleveland Guardians,2,110,Baltimore Orioles,6,2,Oriole Park at Camden Yards,9
+778286,2025-04-17T22:40:00Z,2025-04-17,1,R,F,Final,118,Kansas City Royals,1,116,Detroit Tigers,6,2394,Comerica Park,9
+778282,2025-04-17T23:05:00Z,2025-04-17,1,R,F,Final,147,New York Yankees,6,139,Tampa Bay Rays,3,2523,George M. Steinbrenner Field,9
+778278,2025-04-17T23:10:00Z,2025-04-17,1,R,F,Final,138,St. Louis Cardinals,1,121,New York Mets,4,3289,Citi Field,9
+778281,2025-04-18T00:05:00Z,2025-04-17,1,R,F,Final,108,Los Angeles Angels,3,140,Texas Rangers,5,5325,Globe Life Field,9

@@ -1,0 +1,7 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+779055,2025-02-21T18:05:00Z,2025-02-21,1,S,F,Final,139,Tampa Bay Rays,0,147,New York Yankees,4,2523,George M. Steinbrenner Field,9
+778780,2025-02-21T18:05:00Z,2025-02-21,1,E,F,Final,343,Northeastern Huskies,2,111,Boston Red Sox,5,4309,JetBlue Park,7
+778760,2025-02-21T20:05:00Z,2025-02-21,1,S,F,Final,119,Los Angeles Dodgers,3,112,Chicago Cubs,7,4629,Sloan Park,9
+778949,2025-02-21T20:05:00Z,2025-02-21,1,S,F,Final,140,Texas Rangers,2,118,Kansas City Royals,5,2603,Surprise Stadium,9
+787940,2025-02-21T20:10:00Z,2025-02-21,1,S,F,Final,115,Colorado Rockies,12,109,Arizona Diamondbacks,8,4249,Salt River Fields at Talking Stick,9
+788017,2025-02-21T20:10:00Z,2025-02-21,1,S,F,Final,136,Seattle Mariners,2,135,San Diego Padres,5,2530,Peoria Stadium,9

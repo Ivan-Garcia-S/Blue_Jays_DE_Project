@@ -1,0 +1,14 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+777640,2025-06-05T16:15:00Z,2025-06-05,1,R,F,Final,109,Arizona Diamondbacks,11,144,Atlanta Braves,10,4705,Truist Park,9
+777642,2025-06-05T17:45:00Z,2025-06-05,1,R,F,Final,118,Kansas City Royals,5,138,St. Louis Cardinals,6,2889,Busch Stadium,9
+777635,2025-06-05T23:45:00Z,2025-06-05,1,R,F,Final,118,Kansas City Royals,7,138,St. Louis Cardinals,5,2889,Busch Stadium,9
+777634,2025-06-05T18:10:00Z,2025-06-05,1,R,F,Final,116,Detroit Tigers,2,145,Chicago White Sox,3,4,Rate Field,9
+777637,2025-06-05T19:07:00Z,2025-06-05,1,R,F,Final,143,Philadelphia Phillies,1,141,Toronto Blue Jays,9,14,Rogers Centre,9
+777636,2025-06-05T19:35:00Z,2025-06-05,1,R,F,Final,142,Minnesota Twins,3,133,Athletics,14,2529,Sutter Health Park,9
+777628,2025-06-05T19:40:00Z,2025-06-05,1,R,F,Final,110,Baltimore Orioles,4,136,Seattle Mariners,3,680,T-Mobile Park,9
+777633,2025-06-05T19:45:00Z,2025-06-05,1,R,F,Final,135,San Diego Padres,2,137,San Francisco Giants,3,2395,Oracle Park,9
+777631,2025-06-05T20:10:00Z,2025-06-05,1,R,F,Final,121,New York Mets,5,119,Los Angeles Dodgers,6,22,Dodger Stadium,9
+777630,2025-06-05T22:40:00Z,2025-06-05,1,R,F,Final,117,Houston Astros,8,134,Pittsburgh Pirates,2,31,PNC Park,9
+777632,2025-06-05T22:45:00Z,2025-06-05,1,R,F,Final,112,Chicago Cubs,7,120,Washington Nationals,1,3309,Nationals Park,9
+777644,2025-06-05T23:05:00Z,2025-06-05,1,R,F,Final,114,Cleveland Guardians,0,147,New York Yankees,4,3313,Yankee Stadium,9
+777629,2025-06-05T23:35:00Z,2025-06-05,1,R,F,Final,140,Texas Rangers,3,139,Tampa Bay Rays,4,2523,George M. Steinbrenner Field,9

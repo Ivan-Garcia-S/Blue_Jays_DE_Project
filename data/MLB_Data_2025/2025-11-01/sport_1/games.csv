@@ -1,0 +1,2 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+813024,2025-11-02T00:00:00Z,2025-11-01,1,W,F,Final,119,Los Angeles Dodgers,5,141,Toronto Blue Jays,4,14,Rogers Centre,9

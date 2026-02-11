@@ -1,0 +1,16 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+777341,2025-06-27T22:40:00Z,2025-06-27,1,R,F,Final,121,New York Mets,1,134,Pittsburgh Pirates,9,31,PNC Park,9
+777343,2025-06-27T23:05:00Z,2025-06-27,1,R,F,Final,139,Tampa Bay Rays,8,110,Baltimore Orioles,22,2,Oriole Park at Camden Yards,9
+777337,2025-06-27T23:05:00Z,2025-06-27,1,R,F,Final,133,Athletics,0,147,New York Yankees,3,3313,Yankee Stadium,9
+777346,2025-06-27T23:10:00Z,2025-06-27,1,R,F,Final,135,San Diego Padres,1,113,Cincinnati Reds,8,2602,Great American Ball Park,9
+777349,2025-06-27T23:10:00Z,2025-06-27,1,R,F,Final,138,St. Louis Cardinals,5,114,Cleveland Guardians,0,5,Progressive Field,9
+777345,2025-06-27T23:10:00Z,2025-06-27,1,R,F,Final,141,Toronto Blue Jays,9,111,Boston Red Sox,0,3,Fenway Park,9
+777334,2025-06-27T23:10:00Z,2025-06-27,1,R,F,Final,142,Minnesota Twins,4,116,Detroit Tigers,1,2394,Comerica Park,9
+777342,2025-06-27T23:15:00Z,2025-06-27,1,R,F,Final,143,Philadelphia Phillies,13,144,Atlanta Braves,0,4705,Truist Park,9
+777338,2025-06-27T23:40:00Z,2025-06-27,1,R,F,Final,137,San Francisco Giants,3,145,Chicago White Sox,1,4,Rate Field,9
+777340,2025-06-28T00:05:00Z,2025-06-27,1,R,F,Final,136,Seattle Mariners,7,140,Texas Rangers,6,5325,Globe Life Field,9
+777336,2025-06-28T00:10:00Z,2025-06-27,1,R,F,Final,112,Chicago Cubs,4,117,Houston Astros,7,2392,Daikin Park,9
+777335,2025-06-28T00:10:00Z,2025-06-27,1,R,F,Final,119,Los Angeles Dodgers,5,118,Kansas City Royals,4,7,Kauffman Stadium,9
+777339,2025-06-28T00:10:00Z,2025-06-27,1,R,F,Final,115,Colorado Rockies,6,158,Milwaukee Brewers,10,32,American Family Field,9
+777331,2025-06-28T01:38:00Z,2025-06-27,1,R,F,Final,120,Washington Nationals,15,108,Los Angeles Angels,9,1,Angel Stadium,9
+777332,2025-06-28T01:40:00Z,2025-06-27,1,R,F,Final,146,Miami Marlins,9,109,Arizona Diamondbacks,8,15,Chase Field,9

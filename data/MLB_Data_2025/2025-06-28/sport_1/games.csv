@@ -1,0 +1,16 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+777326,2025-06-28T17:05:00Z,2025-06-28,1,R,F,Final,133,Athletics,7,147,New York Yankees,0,3313,Yankee Stadium,9
+777324,2025-06-28T17:10:00Z,2025-06-28,1,R,F,Final,142,Minnesota Twins,5,116,Detroit Tigers,10,2394,Comerica Park,9
+777325,2025-06-28T20:05:00Z,2025-06-28,1,R,F,Final,121,New York Mets,2,134,Pittsburgh Pirates,9,31,PNC Park,9
+777330,2025-06-28T20:05:00Z,2025-06-28,1,R,F,Final,139,Tampa Bay Rays,11,110,Baltimore Orioles,3,2,Oriole Park at Camden Yards,9
+777322,2025-06-28T20:05:00Z,2025-06-28,1,R,F,Final,136,Seattle Mariners,2,140,Texas Rangers,3,5325,Globe Life Field,9
+777319,2025-06-28T20:10:00Z,2025-06-28,1,R,F,Final,119,Los Angeles Dodgers,5,118,Kansas City Royals,9,7,Kauffman Stadium,9
+777328,2025-06-28T20:10:00Z,2025-06-28,1,R,F,Final,135,San Diego Padres,6,113,Cincinnati Reds,4,2602,Great American Ball Park,9
+777329,2025-06-28T20:10:00Z,2025-06-28,1,R,F,Final,138,St. Louis Cardinals,9,114,Cleveland Guardians,6,5,Progressive Field,9
+777323,2025-06-28T20:10:00Z,2025-06-28,1,R,F,Final,141,Toronto Blue Jays,1,111,Boston Red Sox,15,3,Fenway Park,9
+777327,2025-06-28T20:10:00Z,2025-06-28,1,R,F,Final,137,San Francisco Giants,0,145,Chicago White Sox,1,4,Rate Field,9
+777318,2025-06-28T20:10:00Z,2025-06-28,1,R,F,Final,146,Miami Marlins,8,109,Arizona Diamondbacks,7,15,Chase Field,9
+777321,2025-06-28T20:10:00Z,2025-06-28,1,R,F,Final,115,Colorado Rockies,0,158,Milwaukee Brewers,5,32,American Family Field,9
+777320,2025-06-28T23:15:00Z,2025-06-28,1,R,F,Final,112,Chicago Cubs,12,117,Houston Astros,3,2392,Daikin Park,9
+777333,2025-06-28T23:15:00Z,2025-06-28,1,R,F,Final,143,Philadelphia Phillies,1,144,Atlanta Braves,6,4705,Truist Park,9
+777315,2025-06-29T01:38:00Z,2025-06-28,1,R,F,Final,120,Washington Nationals,2,108,Los Angeles Angels,8,1,Angel Stadium,9

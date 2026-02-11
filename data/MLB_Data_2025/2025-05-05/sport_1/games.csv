@@ -1,0 +1,11 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+778047,2025-05-05T22:40:00Z,2025-05-05,1,R,F,Final,119,Los Angeles Dodgers,7,146,Miami Marlins,4,4169,loanDepot park,9
+778045,2025-05-05T23:05:00Z,2025-05-05,1,R,F,Final,135,San Diego Padres,4,147,New York Yankees,3,3313,Yankee Stadium,9
+778049,2025-05-05T23:15:00Z,2025-05-05,1,R,F,Final,113,Cincinnati Reds,0,144,Atlanta Braves,4,4705,Truist Park,9
+778044,2025-05-05T23:40:00Z,2025-05-05,1,R,F,Final,137,San Francisco Giants,2,112,Chicago Cubs,9,17,Wrigley Field,9
+778043,2025-05-05T23:40:00Z,2025-05-05,1,R,F,Final,145,Chicago White Sox,0,118,Kansas City Royals,3,7,Kauffman Stadium,9
+778042,2025-05-05T23:40:00Z,2025-05-05,1,R,F,Final,117,Houston Astros,1,158,Milwaukee Brewers,5,32,American Family Field,9
+778036,2025-05-05T23:45:00Z,2025-05-05,1,R,F,Final,134,Pittsburgh Pirates,3,138,St. Louis Cardinals,6,2889,Busch Stadium,9
+778039,2025-05-06T01:40:00Z,2025-05-05,1,R,F,Final,121,New York Mets,5,109,Arizona Diamondbacks,4,15,Chase Field,9
+778038,2025-05-06T02:05:00Z,2025-05-05,1,R,F,Final,136,Seattle Mariners,6,133,Athletics,7,2529,Sutter Health Park,9
+778046,2025-05-05T22:45:00Z,2025-05-06,1,R,D,Postponed,114,Cleveland Guardians,,120,Washington Nationals,,3309,Nationals Park,9

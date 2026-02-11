@@ -1,0 +1,16 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+777436,2025-06-20T18:20:00Z,2025-06-20,1,R,F,Final,136,Seattle Mariners,9,112,Chicago Cubs,4,17,Wrigley Field,9
+777432,2025-06-20T22:40:00Z,2025-06-20,1,R,F,Final,140,Texas Rangers,6,134,Pittsburgh Pirates,2,31,PNC Park,9
+777431,2025-06-20T23:05:00Z,2025-06-20,1,R,F,Final,116,Detroit Tigers,8,139,Tampa Bay Rays,14,2523,George M. Steinbrenner Field,9
+777438,2025-06-20T23:05:00Z,2025-06-20,1,R,F,Final,110,Baltimore Orioles,5,147,New York Yankees,3,3313,Yankee Stadium,9
+777435,2025-06-20T23:07:00Z,2025-06-20,1,R,F,Final,145,Chicago White Sox,7,141,Toronto Blue Jays,1,14,Rogers Centre,9
+777439,2025-06-20T23:10:00Z,2025-06-20,1,R,F,Final,144,Atlanta Braves,2,146,Miami Marlins,6,4169,loanDepot park,9
+777433,2025-06-20T23:15:00Z,2025-06-20,1,R,F,Final,113,Cincinnati Reds,1,138,St. Louis Cardinals,6,2889,Busch Stadium,9
+777437,2025-06-20T23:15:00Z,2025-06-20,1,R,F,Final,121,New York Mets,2,143,Philadelphia Phillies,10,2681,Citizens Bank Park,9
+777434,2025-06-21T00:10:00Z,2025-06-20,1,R,F,Final,158,Milwaukee Brewers,17,142,Minnesota Twins,6,3312,Target Field,9
+777430,2025-06-21T00:40:00Z,2025-06-20,1,R,F,Final,109,Arizona Diamondbacks,14,115,Colorado Rockies,8,19,Coors Field,9
+777428,2025-06-21T01:38:00Z,2025-06-20,1,R,F,Final,117,Houston Astros,3,108,Los Angeles Angels,2,1,Angel Stadium,9
+777426,2025-06-21T01:40:00Z,2025-06-20,1,R,F,Final,118,Kansas City Royals,6,135,San Diego Padres,5,2680,Petco Park,9
+777429,2025-06-21T02:05:00Z,2025-06-20,1,R,F,Final,114,Cleveland Guardians,1,133,Athletics,5,2529,Sutter Health Park,9
+777427,2025-06-21T02:10:00Z,2025-06-20,1,R,F,Final,120,Washington Nationals,5,119,Los Angeles Dodgers,6,22,Dodger Stadium,9
+777425,2025-06-21T02:15:00Z,2025-06-20,1,R,F,Final,111,Boston Red Sox,7,137,San Francisco Giants,5,2395,Oracle Park,9

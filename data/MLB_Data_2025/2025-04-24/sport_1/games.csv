@@ -1,0 +1,10 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+778189,2025-04-24T17:10:00Z,2025-04-24,1,R,F,Completed Early: Rain,145,Chicago White Sox,3,142,Minnesota Twins,0,3312,Target Field,9
+778196,2025-04-24T17:35:00Z,2025-04-24,1,R,F,Final,136,Seattle Mariners,4,111,Boston Red Sox,3,3,Fenway Park,9
+778190,2025-04-24T18:10:00Z,2025-04-24,1,R,F,Final,115,Colorado Rockies,4,118,Kansas City Royals,7,7,Kauffman Stadium,9
+778195,2025-04-24T18:15:00Z,2025-04-24,1,R,F,Final,115,Colorado Rockies,2,118,Kansas City Royals,6,7,Kauffman Stadium,9
+778194,2025-04-24T19:45:00Z,2025-04-24,1,R,F,Final,158,Milwaukee Brewers,5,137,San Francisco Giants,6,2395,Oracle Park,9
+778193,2025-04-24T22:45:00Z,2025-04-24,1,R,F,Final,110,Baltimore Orioles,2,120,Washington Nationals,1,3309,Nationals Park,9
+778191,2025-04-25T01:29:00Z,2025-04-24,1,R,F,Final,134,Pittsburgh Pirates,3,108,Los Angeles Angels,4,1,Angel Stadium,9
+778188,2025-04-25T01:40:00Z,2025-04-24,1,R,F,Final,139,Tampa Bay Rays,7,109,Arizona Diamondbacks,4,15,Chase Field,9
+778192,2025-04-25T02:05:00Z,2025-04-24,1,R,F,Final,140,Texas Rangers,3,133,Athletics,4,2529,Sutter Health Park,9

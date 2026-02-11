@@ -1,0 +1,17 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+778701,2025-03-14T17:05:00Z,2025-03-14,1,S,F,Final,120,Washington Nationals,5,144,Atlanta Braves,3,5380,CoolToday Park,9
+779139,2025-03-14T20:05:00Z,2025-03-14,1,S,F,Final,108,Los Angeles Angels,1,133,Athletics,12,2507,Hohokam Stadium,9
+778818,2025-03-14T20:05:00Z,2025-03-14,1,S,F,Final,136,Seattle Mariners,7,114,Cleveland Guardians,8,3834,Goodyear Ballpark,9
+778845,2025-03-14T20:05:00Z,2025-03-14,1,S,F,Final,113,Cincinnati Reds,3,145,Chicago White Sox,7,3809,Camelback Ranch,9
+778784,2025-03-14T20:10:00Z,2025-03-14,1,S,F,Final,113,Cincinnati Reds,1,109,Arizona Diamondbacks,2,4249,Salt River Fields at Talking Stick,9
+779152,2025-03-14T20:10:00Z,2025-03-14,1,S,F,Final,118,Kansas City Royals,9,108,Los Angeles Angels,8,2500,Tempe Diablo Stadium,9
+779066,2025-03-14T20:10:00Z,2025-03-14,1,S,F,Final,111,Boston Red Sox,9,146,Miami Marlins,4,2520,Roger Dean Chevrolet Stadium,9
+779090,2025-03-14T20:10:00Z,2025-03-14,1,S,F,Final,137,San Francisco Giants,5,158,Milwaukee Brewers,11,2518,American Family Fields of Phoenix,9
+779029,2025-03-14T22:05:00Z,2025-03-14,1,S,F,Final,116,Detroit Tigers,8,134,Pittsburgh Pirates,8,2526,LECOM Park,9
+778717,2025-03-14T22:05:00Z,2025-03-14,1,S,F,Final,141,Toronto Blue Jays,5,117,Houston Astros,6,5000,CACTI Park of the Palm Beaches,9
+779124,2025-03-14T22:05:00Z,2025-03-14,1,S,F,Final,142,Minnesota Twins,0,110,Baltimore Orioles,10,2508,Ed Smith Stadium,9
+778876,2025-03-14T22:05:00Z,2025-03-14,1,S,F,Final,139,Tampa Bay Rays,6,142,Minnesota Twins,13,2862,Lee Health Sports Complex,9
+778890,2025-03-14T22:10:00Z,2025-03-14,1,S,F,Final: Tied,138,St. Louis Cardinals,3,121,New York Mets,3,2856,Clover Park,9
+779044,2025-03-14T22:35:00Z,2025-03-14,1,S,F,Final,143,Philadelphia Phillies,5,147,New York Yankees,6,2523,George M. Steinbrenner Field,9
+778924,2025-03-15T01:05:00Z,2025-03-14,1,S,F,Final,115,Colorado Rockies,0,140,Texas Rangers,5,2603,Surprise Stadium,9
+779004,2025-03-15T01:40:00Z,2025-03-14,1,S,F,Final,140,Texas Rangers,8,135,San Diego Padres,9,2530,Peoria Stadium,9

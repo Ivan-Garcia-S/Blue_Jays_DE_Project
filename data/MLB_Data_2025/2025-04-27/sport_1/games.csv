@@ -1,0 +1,17 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+778153,2025-04-27T17:35:00Z,2025-04-27,1,R,F,Final,121,New York Mets,7,120,Washington Nationals,8,3309,Nationals Park,9
+778156,2025-04-27T17:35:00Z,2025-04-27,1,R,F,Final,141,Toronto Blue Jays,2,147,New York Yankees,11,3313,Yankee Stadium,9
+778170,2025-04-27T17:40:00Z,2025-04-27,1,R,F,Final,141,Toronto Blue Jays,1,147,New York Yankees,5,3313,Yankee Stadium,9
+778157,2025-04-27T17:40:00Z,2025-04-27,1,R,F,Final,111,Boston Red Sox,13,114,Cleveland Guardians,3,5,Progressive Field,9
+778155,2025-04-27T17:40:00Z,2025-04-27,1,R,F,Final,110,Baltimore Orioles,0,116,Detroit Tigers,7,2394,Comerica Park,9
+778144,2025-04-27T17:40:00Z,2025-04-27,1,R,F,Final,108,Los Angeles Angels,0,142,Minnesota Twins,5,3312,Target Field,9
+778152,2025-04-27T18:10:00Z,2025-04-27,1,R,F,Final,117,Houston Astros,7,118,Kansas City Royals,3,7,Kauffman Stadium,9
+778150,2025-04-27T18:15:00Z,2025-04-27,1,R,F,Final,158,Milwaukee Brewers,7,138,St. Louis Cardinals,1,2889,Busch Stadium,9
+778148,2025-04-27T19:10:00Z,2025-04-27,1,R,F,Final,113,Cincinnati Reds,8,115,Colorado Rockies,1,19,Coors Field,9
+778151,2025-04-27T20:05:00Z,2025-04-27,1,R,F,Final,140,Texas Rangers,2,137,San Francisco Giants,3,2395,Oracle Park,9
+778149,2025-04-27T20:05:00Z,2025-04-27,1,R,F,Final,145,Chicago White Sox,2,133,Athletics,3,2529,Sutter Health Park,9
+778145,2025-04-27T20:10:00Z,2025-04-27,1,R,F,Final,134,Pittsburgh Pirates,2,119,Los Angeles Dodgers,9,22,Dodger Stadium,9
+778146,2025-04-27T20:10:00Z,2025-04-27,1,R,F,Final,139,Tampa Bay Rays,4,135,San Diego Padres,2,2680,Petco Park,9
+778147,2025-04-27T20:10:00Z,2025-04-27,1,R,F,Final,144,Atlanta Braves,4,109,Arizona Diamondbacks,6,15,Chase Field,9
+778136,2025-04-27T20:10:00Z,2025-04-27,1,R,F,Final,146,Miami Marlins,6,136,Seattle Mariners,7,680,T-Mobile Park,9
+778158,2025-04-27T23:10:00Z,2025-04-27,1,R,F,Final,143,Philadelphia Phillies,3,112,Chicago Cubs,1,17,Wrigley Field,9

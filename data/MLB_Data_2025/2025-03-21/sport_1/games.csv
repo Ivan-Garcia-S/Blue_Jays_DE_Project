@@ -1,0 +1,19 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+779059,2025-03-21T17:05:00Z,2025-03-21,1,S,F,Final,117,Houston Astros,5,138,St. Louis Cardinals,3,2520,Roger Dean Chevrolet Stadium,9
+778901,2025-03-21T17:05:00Z,2025-03-21,1,S,F,Final,142,Minnesota Twins,3,143,Philadelphia Phillies,6,2700,BayCare Ballpark,9
+778961,2025-03-21T17:05:00Z,2025-03-21,1,S,F,Final,144,Atlanta Braves,7,139,Tampa Bay Rays,3,2534,Charlotte Sports Park,9
+778947,2025-03-21T17:07:00Z,2025-03-21,1,S,F,Final,143,Philadelphia Phillies,7,141,Toronto Blue Jays,11,2536,TD Ballpark,9
+778885,2025-03-21T17:10:00Z,2025-03-21,1,S,F,Final,138,St. Louis Cardinals,2,121,New York Mets,3,2856,Clover Park,9
+779148,2025-03-21T19:10:00Z,2025-03-21,1,S,F,Final: Tied,140,Texas Rangers,3,108,Los Angeles Angels,3,2500,Tempe Diablo Stadium,9
+779131,2025-03-21T20:05:00Z,2025-03-21,1,S,F,Final,118,Kansas City Royals,1,133,Athletics,10,2507,Hohokam Stadium,9
+778747,2025-03-21T20:05:00Z,2025-03-21,1,S,F,Final,135,San Diego Padres,5,112,Chicago Cubs,1,4629,Sloan Park,9
+778919,2025-03-21T20:05:00Z,2025-03-21,1,S,F,Final,136,Seattle Mariners,7,118,Kansas City Royals,8,2603,Surprise Stadium,9
+778980,2025-03-21T20:05:00Z,2025-03-21,1,S,F,Final,114,Cleveland Guardians,4,137,San Francisco Giants,5,2532,Scottsdale Stadium,9
+778811,2025-03-21T20:05:00Z,2025-03-21,1,S,F,Final,145,Chicago White Sox,8,113,Cincinnati Reds,5,3834,Goodyear Ballpark,9
+778777,2025-03-21T20:10:00Z,2025-03-21,1,S,F,Final,108,Los Angeles Angels,3,115,Colorado Rockies,4,4249,Salt River Fields at Talking Stick,9
+778995,2025-03-21T20:10:00Z,2025-03-21,1,S,F,Final,113,Cincinnati Reds,5,136,Seattle Mariners,3,2530,Peoria Stadium,9
+779118,2025-03-21T22:05:00Z,2025-03-21,1,S,F,Final,116,Detroit Tigers,9,110,Baltimore Orioles,1,2508,Ed Smith Stadium,9
+778763,2025-03-21T22:05:00Z,2025-03-21,1,S,F,Final,134,Pittsburgh Pirates,1,111,Boston Red Sox,2,4309,JetBlue Park,9
+778714,2025-03-21T22:05:00Z,2025-03-21,1,S,F,Final,146,Miami Marlins,6,120,Washington Nationals,0,5000,CACTI Park of the Palm Beaches,9
+779101,2025-03-21T22:05:00Z,2025-03-21,1,S,F,Final,147,New York Yankees,4,116,Detroit Tigers,0,2511,Publix Field at Joker Marchant Stadium,9
+779089,2025-03-22T01:10:00Z,2025-03-21,1,S,F,Final,109,Arizona Diamondbacks,16,158,Milwaukee Brewers,9,2518,American Family Fields of Phoenix,9

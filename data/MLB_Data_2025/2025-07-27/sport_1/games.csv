@@ -1,0 +1,16 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+776986,2025-07-27T17:35:00Z,2025-07-27,1,R,F,Final,115,Colorado Rockies,1,110,Baltimore Orioles,5,2,Oriole Park at Camden Yards,9
+776983,2025-07-27T17:35:00Z,2025-07-27,1,R,F,Final,119,Los Angeles Dodgers,3,111,Boston Red Sox,4,3,Fenway Park,9
+776984,2025-07-27T17:35:00Z,2025-07-27,1,R,F,Final,109,Arizona Diamondbacks,0,134,Pittsburgh Pirates,6,31,PNC Park,9
+776988,2025-07-27T17:35:00Z,2025-07-27,1,R,F,Final,143,Philadelphia Phillies,3,147,New York Yankees,4,3313,Yankee Stadium,9
+776982,2025-07-27T17:40:00Z,2025-07-27,1,R,F,Final,139,Tampa Bay Rays,1,113,Cincinnati Reds,2,2602,Great American Ball Park,9
+776987,2025-07-27T17:40:00Z,2025-07-27,1,R,F,Final,141,Toronto Blue Jays,4,116,Detroit Tigers,10,2394,Comerica Park,9
+776975,2025-07-27T18:10:00Z,2025-07-27,1,R,F,Final,114,Cleveland Guardians,1,118,Kansas City Royals,4,7,Kauffman Stadium,9
+776976,2025-07-27T18:10:00Z,2025-07-27,1,R,F,Final,133,Athletics,7,117,Houston Astros,1,2392,Daikin Park,9
+776979,2025-07-27T18:10:00Z,2025-07-27,1,R,F,Final,120,Washington Nationals,7,142,Minnesota Twins,2,3312,Target Field,9
+776989,2025-07-27T18:10:00Z,2025-07-27,1,R,F,Final,112,Chicago Cubs,5,145,Chicago White Sox,4,4,Rate Field,9
+776978,2025-07-27T18:10:00Z,2025-07-27,1,R,F,Final,146,Miami Marlins,2,158,Milwaukee Brewers,3,32,American Family Field,9
+776980,2025-07-27T18:15:00Z,2025-07-27,1,R,F,Final,135,San Diego Padres,9,138,St. Louis Cardinals,2,2889,Busch Stadium,9
+776981,2025-07-27T18:35:00Z,2025-07-27,1,R,F,Final,144,Atlanta Braves,1,140,Texas Rangers,8,5325,Globe Life Field,9
+776977,2025-07-27T20:07:00Z,2025-07-27,1,R,F,Final,136,Seattle Mariners,1,108,Los Angeles Angels,4,1,Angel Stadium,9
+776974,2025-07-27T23:10:00Z,2025-07-27,1,R,F,Final,121,New York Mets,5,137,San Francisco Giants,3,2395,Oracle Park,9

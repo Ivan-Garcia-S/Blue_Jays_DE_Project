@@ -1,0 +1,5 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+813055,2025-10-08T19:08:00Z,2025-10-08,1,D,F,Final,136,Seattle Mariners,3,116,Detroit Tigers,9,2394,Comerica Park,9
+813049,2025-10-08T21:08:00Z,2025-10-08,1,D,F,Final,158,Milwaukee Brewers,3,112,Chicago Cubs,4,17,Wrigley Field,9
+813060,2025-10-08T23:08:00Z,2025-10-08,1,D,F,Final,141,Toronto Blue Jays,5,147,New York Yankees,2,3313,Yankee Stadium,9
+813041,2025-10-09T01:08:00Z,2025-10-08,1,D,F,Final,143,Philadelphia Phillies,8,119,Los Angeles Dodgers,2,22,Dodger Stadium,9

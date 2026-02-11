@@ -1,0 +1,16 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+776719,2025-08-16T18:20:00Z,2025-08-16,1,R,F,Final,134,Pittsburgh Pirates,1,112,Chicago Cubs,3,17,Wrigley Field,9
+776723,2025-08-16T19:07:00Z,2025-08-16,1,R,F,Final,140,Texas Rangers,2,141,Toronto Blue Jays,14,14,Rogers Centre,9
+776725,2025-08-16T20:05:00Z,2025-08-16,1,R,F,Final,143,Philadelphia Phillies,0,120,Washington Nationals,2,3309,Nationals Park,9
+776726,2025-08-16T20:10:00Z,2025-08-16,1,R,F,Final,136,Seattle Mariners,1,121,New York Mets,3,3289,Citi Field,9
+776724,2025-08-16T20:10:00Z,2025-08-16,1,R,F,Final,146,Miami Marlins,5,111,Boston Red Sox,7,3,Fenway Park,9
+776721,2025-08-16T22:40:00Z,2025-08-16,1,R,F,Final,158,Milwaukee Brewers,6,113,Cincinnati Reds,5,2602,Great American Ball Park,9
+776722,2025-08-16T23:10:00Z,2025-08-16,1,R,F,Final,110,Baltimore Orioles,4,117,Houston Astros,5,2392,Daikin Park,9
+776720,2025-08-16T23:10:00Z,2025-08-16,1,R,F,Final,144,Atlanta Braves,10,114,Cleveland Guardians,1,5,Progressive Field,9
+776712,2025-08-16T23:10:00Z,2025-08-16,1,R,F,Final,145,Chicago White Sox,2,118,Kansas City Royals,6,7,Kauffman Stadium,9
+776716,2025-08-16T23:15:00Z,2025-08-16,1,R,F,Final,116,Detroit Tigers,8,142,Minnesota Twins,5,3312,Target Field,9
+776713,2025-08-16T23:15:00Z,2025-08-16,1,R,F,Final,147,New York Yankees,12,138,St. Louis Cardinals,8,2889,Busch Stadium,9
+776715,2025-08-17T00:10:00Z,2025-08-16,1,R,F,Final,109,Arizona Diamondbacks,7,115,Colorado Rockies,10,19,Coors Field,9
+776711,2025-08-17T01:05:00Z,2025-08-16,1,R,F,Final,139,Tampa Bay Rays,2,137,San Francisco Giants,1,2395,Oracle Park,9
+776717,2025-08-17T01:10:00Z,2025-08-16,1,R,F,Final,135,San Diego Padres,0,119,Los Angeles Dodgers,6,22,Dodger Stadium,9
+776718,2025-08-17T02:05:00Z,2025-08-16,1,R,F,Final,108,Los Angeles Angels,2,133,Athletics,7,2529,Sutter Health Park,9

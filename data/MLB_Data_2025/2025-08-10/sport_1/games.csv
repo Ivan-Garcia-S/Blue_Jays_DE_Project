@@ -1,0 +1,16 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+776796,2025-08-10T17:05:00Z,2025-08-10,1,R,F,Final,118,Kansas City Royals,3,142,Minnesota Twins,5,3312,Target Field,9
+776804,2025-08-10T17:35:00Z,2025-08-10,1,R,F,Final,133,Athletics,3,110,Baltimore Orioles,2,2,Oriole Park at Camden Yards,9
+776801,2025-08-10T17:35:00Z,2025-08-10,1,R,F,Final,113,Cincinnati Reds,14,134,Pittsburgh Pirates,8,31,PNC Park,9
+776803,2025-08-10T17:35:00Z,2025-08-10,1,R,F,Final,146,Miami Marlins,1,144,Atlanta Braves,7,4705,Truist Park,9
+776797,2025-08-10T17:35:00Z,2025-08-10,1,R,F,Final,117,Houston Astros,7,147,New York Yankees,1,3313,Yankee Stadium,9
+776806,2025-08-10T17:40:00Z,2025-08-10,1,R,F,Final,108,Los Angeles Angels,5,116,Detroit Tigers,9,2394,Comerica Park,9
+776798,2025-08-10T18:10:00Z,2025-08-10,1,R,F,Final,114,Cleveland Guardians,4,145,Chicago White Sox,6,4,Rate Field,9
+776799,2025-08-10T18:10:00Z,2025-08-10,1,R,F,Final,121,New York Mets,6,158,Milwaukee Brewers,7,32,American Family Field,9
+776800,2025-08-10T18:35:00Z,2025-08-10,1,R,F,Final,143,Philadelphia Phillies,4,140,Texas Rangers,2,5325,Globe Life Field,9
+776793,2025-08-10T20:05:00Z,2025-08-10,1,R,F,Final,120,Washington Nationals,8,137,San Francisco Giants,0,2395,Oracle Park,9
+776794,2025-08-10T20:10:00Z,2025-08-10,1,R,F,Final,115,Colorado Rockies,6,109,Arizona Diamondbacks,13,15,Chase Field,9
+776789,2025-08-10T20:10:00Z,2025-08-10,1,R,F,Final,111,Boston Red Sox,2,135,San Diego Padres,6,2680,Petco Park,9
+776791,2025-08-10T20:10:00Z,2025-08-10,1,R,F,Final,139,Tampa Bay Rays,3,136,Seattle Mariners,6,680,T-Mobile Park,9
+776788,2025-08-10T20:10:00Z,2025-08-10,1,R,F,Final,141,Toronto Blue Jays,5,119,Los Angeles Dodgers,4,22,Dodger Stadium,9
+776795,2025-08-10T23:10:00Z,2025-08-10,1,R,F,Final,112,Chicago Cubs,2,138,St. Louis Cardinals,3,2889,Busch Stadium,9

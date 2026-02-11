@@ -1,0 +1,7 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+778382,2025-04-10T17:10:00Z,2025-04-10,1,R,F,Final,108,Los Angeles Angels,11,139,Tampa Bay Rays,1,2523,George M. Steinbrenner Field,9
+778378,2025-04-10T17:10:00Z,2025-04-10,1,R,F,Final,145,Chicago White Sox,1,114,Cleveland Guardians,6,5,Progressive Field,9
+778373,2025-04-10T18:10:00Z,2025-04-10,1,R,F,Final,142,Minnesota Twins,2,118,Kansas City Royals,3,7,Kauffman Stadium,9
+778371,2025-04-10T19:10:00Z,2025-04-10,1,R,F,Final,158,Milwaukee Brewers,2,115,Colorado Rockies,7,19,Coors Field,9
+778377,2025-04-10T20:10:00Z,2025-04-10,1,R,F,Final,141,Toronto Blue Jays,3,111,Boston Red Sox,4,3,Fenway Park,9
+778384,2025-04-10T23:15:00Z,2025-04-10,1,R,F,Final,143,Philadelphia Phillies,2,144,Atlanta Braves,4,4705,Truist Park,9

@@ -1,0 +1,16 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+777625,2025-06-06T17:10:00Z,2025-06-06,1,R,F,Final,146,Miami Marlins,3,139,Tampa Bay Rays,4,2523,George M. Steinbrenner Field,9
+777621,2025-06-06T22:40:00Z,2025-06-06,1,R,F,Final,143,Philadelphia Phillies,4,134,Pittsburgh Pirates,5,31,PNC Park,9
+777624,2025-06-06T22:45:00Z,2025-06-06,1,R,F,Final,140,Texas Rangers,0,120,Washington Nationals,2,3309,Nationals Park,9
+777627,2025-06-06T23:05:00Z,2025-06-06,1,R,F,Final,111,Boston Red Sox,6,147,New York Yankees,9,3313,Yankee Stadium,9
+777623,2025-06-06T23:10:00Z,2025-06-06,1,R,F,Final,109,Arizona Diamondbacks,3,113,Cincinnati Reds,4,2602,Great American Ball Park,9
+777626,2025-06-06T23:10:00Z,2025-06-06,1,R,F,Final,112,Chicago Cubs,1,116,Detroit Tigers,3,2394,Comerica Park,9
+777622,2025-06-06T23:10:00Z,2025-06-06,1,R,F,Final,117,Houston Astros,4,114,Cleveland Guardians,2,5,Progressive Field,9
+777618,2025-06-06T23:40:00Z,2025-06-06,1,R,F,Final,118,Kansas City Royals,2,145,Chicago White Sox,7,4,Rate Field,9
+777615,2025-06-07T00:10:00Z,2025-06-06,1,R,F,Final,141,Toronto Blue Jays,6,142,Minnesota Twins,4,3312,Target Field,9
+777617,2025-06-07T00:10:00Z,2025-06-06,1,R,F,Final,135,San Diego Padres,2,158,Milwaukee Brewers,0,32,American Family Field,9
+777620,2025-06-07T00:15:00Z,2025-06-06,1,R,F,Final,119,Los Angeles Dodgers,0,138,St. Louis Cardinals,5,2889,Busch Stadium,9
+777616,2025-06-07T00:40:00Z,2025-06-06,1,R,F,Final,121,New York Mets,4,115,Colorado Rockies,2,19,Coors Field,9
+777614,2025-06-07T01:38:00Z,2025-06-06,1,R,F,Final,136,Seattle Mariners,4,108,Los Angeles Angels,5,1,Angel Stadium,9
+777613,2025-06-07T02:05:00Z,2025-06-06,1,R,F,Final,110,Baltimore Orioles,4,133,Athletics,5,2529,Sutter Health Park,9
+777619,2025-06-07T02:15:00Z,2025-06-06,1,R,F,Final,144,Atlanta Braves,4,137,San Francisco Giants,5,2395,Oracle Park,9

@@ -1,0 +1,12 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+778694,2025-03-20T17:05:00Z,2025-03-20,1,S,F,Final,143,Philadelphia Phillies,0,144,Atlanta Braves,7,5380,CoolToday Park,9
+778950,2025-03-20T17:07:00Z,2025-03-20,1,S,F,Final,139,Tampa Bay Rays,1,141,Toronto Blue Jays,4,2536,TD Ballpark,9
+779060,2025-03-20T17:10:00Z,2025-03-20,1,S,F,Final,117,Houston Astros,11,146,Miami Marlins,0,2520,Roger Dean Chevrolet Stadium,9
+778814,2025-03-20T20:05:00Z,2025-03-20,1,S,F,Final,118,Kansas City Royals,11,113,Cincinnati Reds,8,3834,Goodyear Ballpark,9
+778839,2025-03-20T20:05:00Z,2025-03-20,1,S,F,Final,108,Los Angeles Angels,1,145,Chicago White Sox,2,3809,Camelback Ranch,9
+778775,2025-03-20T20:10:00Z,2025-03-20,1,S,F,Final,133,Athletics,3,109,Arizona Diamondbacks,11,4249,Salt River Fields at Talking Stick,9
+778713,2025-03-20T22:05:00Z,2025-03-20,1,S,F,Final,121,New York Mets,10,120,Washington Nationals,3,5000,CACTI Park of the Palm Beaches,9
+778872,2025-03-20T22:05:00Z,2025-03-20,1,S,F,Final,111,Boston Red Sox,1,142,Minnesota Twins,2,2862,Lee Health Sports Complex,9
+779120,2025-03-20T22:05:00Z,2025-03-20,1,S,F,Final,147,New York Yankees,9,110,Baltimore Orioles,7,2508,Ed Smith Stadium,9
+778918,2025-03-21T01:05:00Z,2025-03-20,1,S,F,Final,115,Colorado Rockies,7,140,Texas Rangers,4,2603,Surprise Stadium,9
+778998,2025-03-21T01:40:00Z,2025-03-20,1,S,F,Final,140,Texas Rangers,3,135,San Diego Padres,5,2530,Peoria Stadium,9

@@ -1,0 +1,2 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+813046,2025-10-12T00:08:00Z,2025-10-11,1,D,F,Final,112,Chicago Cubs,1,158,Milwaukee Brewers,3,32,American Family Field,9

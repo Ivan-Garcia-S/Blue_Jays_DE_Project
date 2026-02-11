@@ -1,0 +1,10 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+777351,2025-06-26T17:10:00Z,2025-06-26,1,R,F,Final,133,Athletics,0,116,Detroit Tigers,8,2394,Comerica Park,9
+777354,2025-06-26T17:10:00Z,2025-06-26,1,R,F,Final,141,Toronto Blue Jays,6,114,Cleveland Guardians,0,5,Progressive Field,9
+777356,2025-06-26T17:10:00Z,2025-06-26,1,R,F,Final,136,Seattle Mariners,1,142,Minnesota Twins,10,3312,Target Field,9
+777353,2025-06-26T18:10:00Z,2025-06-26,1,R,F,Final,139,Tampa Bay Rays,4,118,Kansas City Royals,0,7,Kauffman Stadium,9
+777350,2025-06-26T18:10:00Z,2025-06-26,1,R,F,Final,143,Philadelphia Phillies,1,117,Houston Astros,2,2392,Daikin Park,9
+777348,2025-06-26T18:15:00Z,2025-06-26,1,R,F,Final,112,Chicago Cubs,3,138,St. Louis Cardinals,0,2889,Busch Stadium,9
+777344,2025-06-26T19:10:00Z,2025-06-26,1,R,F,Final,119,Los Angeles Dodgers,3,115,Colorado Rockies,1,19,Coors Field,9
+777347,2025-06-26T19:45:00Z,2025-06-26,1,R,F,Final,146,Miami Marlins,12,137,San Francisco Giants,5,2395,Oracle Park,9
+777352,2025-06-26T23:10:00Z,2025-06-26,1,R,F,Final,144,Atlanta Braves,0,121,New York Mets,4,3289,Citi Field,9

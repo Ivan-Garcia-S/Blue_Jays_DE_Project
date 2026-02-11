@@ -1,0 +1,10 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+776653,2025-08-21T17:10:00Z,2025-08-21,1,R,F,Final,133,Athletics,8,142,Minnesota Twins,3,3312,Target Field,9
+776657,2025-08-21T18:10:00Z,2025-08-21,1,R,F,Final,140,Texas Rangers,4,118,Kansas City Royals,6,7,Kauffman Stadium,9
+776651,2025-08-21T18:20:00Z,2025-08-21,1,R,F,Final,158,Milwaukee Brewers,4,112,Chicago Cubs,1,17,Wrigley Field,9
+776644,2025-08-21T19:10:00Z,2025-08-21,1,R,F,Final,119,Los Angeles Dodgers,9,115,Colorado Rockies,5,19,Coors Field,9
+776650,2025-08-21T20:05:00Z,2025-08-21,1,R,F,Final,121,New York Mets,3,120,Washington Nationals,9,3309,Nationals Park,9
+776642,2025-08-21T20:10:00Z,2025-08-21,1,R,F,Final,137,San Francisco Giants,4,135,San Diego Padres,8,2680,Petco Park,9
+776655,2025-08-21T23:15:00Z,2025-08-21,1,R,F,Final,117,Houston Astros,7,110,Baltimore Orioles,2,2,Oriole Park at Camden Yards,9
+776654,2025-08-21T23:15:00Z,2025-08-21,1,R,F,Final,111,Boston Red Sox,6,147,New York Yankees,3,3313,Yankee Stadium,9
+776631,2025-08-21T23:35:00Z,2025-08-21,1,R,F,Final,138,St. Louis Cardinals,7,139,Tampa Bay Rays,4,2523,George M. Steinbrenner Field,9

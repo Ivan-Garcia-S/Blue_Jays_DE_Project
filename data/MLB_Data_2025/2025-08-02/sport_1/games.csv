@@ -1,0 +1,16 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+776901,2025-08-02T17:10:00Z,2025-08-02,1,R,F,Final,119,Los Angeles Dodgers,0,139,Tampa Bay Rays,4,2523,George M. Steinbrenner Field,9
+776902,2025-08-02T18:20:00Z,2025-08-02,1,R,F,Final,110,Baltimore Orioles,4,112,Chicago Cubs,3,17,Wrigley Field,9
+776900,2025-08-02T19:07:00Z,2025-08-02,1,R,F,Final,118,Kansas City Royals,2,141,Toronto Blue Jays,4,14,Rogers Centre,9
+776904,2025-08-02T19:10:00Z,2025-08-02,1,R,F,Final,134,Pittsburgh Pirates,5,115,Colorado Rockies,8,19,Coors Field,9
+776912,2025-08-02T20:05:00Z,2025-08-02,1,R,F,Final,116,Detroit Tigers,7,143,Philadelphia Phillies,5,2681,Citizens Bank Park,9
+776903,2025-08-02T20:05:00Z,2025-08-02,1,R,F,Final,158,Milwaukee Brewers,8,120,Washington Nationals,2,3309,Nationals Park,9
+776909,2025-08-02T20:10:00Z,2025-08-02,1,R,F,Final,117,Houston Astros,3,111,Boston Red Sox,7,3,Fenway Park,9
+776911,2025-08-02T20:10:00Z,2025-08-02,1,R,F,Final,137,San Francisco Giants,6,121,New York Mets,12,3289,Citi Field,9
+776897,2025-08-02T20:10:00Z,2025-08-02,1,R,F,Final,140,Texas Rangers,6,136,Seattle Mariners,4,680,T-Mobile Park,9
+776905,2025-08-02T20:10:00Z,2025-08-02,1,R,F,Final,142,Minnesota Twins,4,114,Cleveland Guardians,5,5,Progressive Field,9
+776910,2025-08-02T20:10:00Z,2025-08-02,1,R,F,Final,147,New York Yankees,0,146,Miami Marlins,2,4169,loanDepot park,9
+776907,2025-08-02T23:15:00Z,2025-08-02,1,R,F,Final,144,Atlanta Braves,4,113,Cincinnati Reds,2,6130,Bristol Motor Speedway,9
+776899,2025-08-03T02:05:00Z,2025-08-02,1,R,F,Final,109,Arizona Diamondbacks,7,133,Athletics,2,2529,Sutter Health Park,9
+776898,2025-08-03T02:07:00Z,2025-08-02,1,R,F,Final,145,Chicago White Sox,1,108,Los Angeles Angels,0,1,Angel Stadium,9
+776896,2025-08-03T02:10:00Z,2025-08-02,1,R,F,Final,138,St. Louis Cardinals,8,135,San Diego Padres,5,2680,Petco Park,9

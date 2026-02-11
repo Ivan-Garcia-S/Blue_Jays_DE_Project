@@ -1,0 +1,10 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+777818,2025-05-22T16:35:00Z,2025-05-22,1,R,F,Final,140,Texas Rangers,0,147,New York Yankees,1,3313,Yankee Stadium,9
+777816,2025-05-22T17:07:00Z,2025-05-22,1,R,F,Final,135,San Diego Padres,6,141,Toronto Blue Jays,7,14,Rogers Centre,9
+777817,2025-05-22T19:10:00Z,2025-05-22,1,R,F,Final,143,Philadelphia Phillies,2,115,Colorado Rockies,0,19,Coors Field,9
+777812,2025-05-22T19:35:00Z,2025-05-22,1,R,F,Final,108,Los Angeles Angels,10,133,Athletics,5,2529,Sutter Health Park,9
+777821,2025-05-22T22:40:00Z,2025-05-22,1,R,F,Final,114,Cleveland Guardians,7,116,Detroit Tigers,0,2394,Comerica Park,9
+777814,2025-05-22T22:40:00Z,2025-05-22,1,R,F,Final,158,Milwaukee Brewers,8,134,Pittsburgh Pirates,5,31,PNC Park,9
+777820,2025-05-22T22:45:00Z,2025-05-22,1,R,F,Final,144,Atlanta Braves,7,120,Washington Nationals,8,3309,Nationals Park,9
+777822,2025-05-23T00:10:00Z,2025-05-22,1,R,F,Final,136,Seattle Mariners,2,117,Houston Astros,9,2392,Daikin Park,9
+777815,2025-05-22T22:45:00Z,2025-05-23,1,R,D,Postponed,110,Baltimore Orioles,,111,Boston Red Sox,,3,Fenway Park,9

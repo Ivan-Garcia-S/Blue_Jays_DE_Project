@@ -1,0 +1,2 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+778566,2025-07-16T00:00:00Z,2025-07-15,1,A,F,"Final: Tie, decision by tiebreaker",159,American League All-Stars,6,160,National League All-Stars,7,4705,Truist Park,9

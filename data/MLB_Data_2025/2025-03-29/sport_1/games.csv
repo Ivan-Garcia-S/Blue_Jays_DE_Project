@@ -1,0 +1,16 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+778538,2025-03-29T17:05:00Z,2025-03-29,1,R,F,Final,158,Milwaukee Brewers,9,147,New York Yankees,20,3313,Yankee Stadium,9
+778534,2025-03-29T18:10:00Z,2025-03-29,1,R,F,Final,108,Los Angeles Angels,1,145,Chicago White Sox,0,4,Rate Field,9
+778528,2025-03-29T18:15:00Z,2025-03-29,1,R,F,Final,142,Minnesota Twins,1,138,St. Louis Cardinals,5,2889,Busch Stadium,9
+778536,2025-03-29T19:07:00Z,2025-03-29,1,R,F,Final,110,Baltimore Orioles,9,141,Toronto Blue Jays,5,14,Rogers Centre,9
+778535,2025-03-29T20:05:00Z,2025-03-29,1,R,F,Final,143,Philadelphia Phillies,11,120,Washington Nationals,6,3309,Nationals Park,9
+778529,2025-03-29T20:10:00Z,2025-03-29,1,R,F,Final,114,Cleveland Guardians,3,118,Kansas City Royals,4,7,Kauffman Stadium,9
+778540,2025-03-29T20:10:00Z,2025-03-29,1,R,F,Final,137,San Francisco Giants,2,113,Cincinnati Reds,3,2602,Great American Ball Park,9
+778537,2025-03-29T20:10:00Z,2025-03-29,1,R,F,Final,115,Colorado Rockies,2,139,Tampa Bay Rays,1,2523,George M. Steinbrenner Field,9
+778539,2025-03-29T20:10:00Z,2025-03-29,1,R,F,Final,134,Pittsburgh Pirates,4,146,Miami Marlins,5,4169,loanDepot park,9
+778531,2025-03-29T23:05:00Z,2025-03-29,1,R,F,Final,111,Boston Red Sox,3,140,Texas Rangers,4,5325,Globe Life Field,9
+778530,2025-03-29T23:15:00Z,2025-03-29,1,R,F,Final,121,New York Mets,1,117,Houston Astros,2,2392,Daikin Park,9
+778520,2025-03-29T23:15:00Z,2025-03-29,1,R,F,Final,144,Atlanta Braves,0,135,San Diego Padres,1,2680,Petco Park,9
+778532,2025-03-30T00:10:00Z,2025-03-29,1,R,F,Final,112,Chicago Cubs,4,109,Arizona Diamondbacks,3,15,Chase Field,9
+778533,2025-03-30T01:10:00Z,2025-03-29,1,R,F,Final,116,Detroit Tigers,3,119,Los Angeles Dodgers,7,22,Dodger Stadium,9
+778521,2025-03-30T01:40:00Z,2025-03-29,1,R,F,Final,133,Athletics,4,136,Seattle Mariners,2,680,T-Mobile Park,9

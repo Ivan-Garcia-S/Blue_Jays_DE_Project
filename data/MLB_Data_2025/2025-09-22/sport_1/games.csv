@@ -1,0 +1,4 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+776221,2025-09-22T23:15:00Z,2025-09-22,1,R,F,Final,120,Washington Nationals,5,144,Atlanta Braves,11,4705,Truist Park,9
+776222,2025-09-23T01:40:00Z,2025-09-22,1,R,F,Final,158,Milwaukee Brewers,4,135,San Diego Padres,5,2680,Petco Park,9
+776220,2025-09-23T01:45:00Z,2025-09-22,1,R,F,Final,138,St. Louis Cardinals,6,137,San Francisco Giants,5,2395,Oracle Park,9

@@ -1,0 +1,3 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+813039,2025-10-17T22:08:00Z,2025-10-17,1,L,F,Final,141,Toronto Blue Jays,2,136,Seattle Mariners,6,680,T-Mobile Park,9
+813031,2025-10-18T00:38:00Z,2025-10-17,1,L,F,Final,158,Milwaukee Brewers,1,119,Los Angeles Dodgers,5,22,Dodger Stadium,9

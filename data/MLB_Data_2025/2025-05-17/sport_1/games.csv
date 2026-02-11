@@ -1,0 +1,16 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+777888,2025-05-17T17:05:00Z,2025-05-17,1,R,F,Final,121,New York Mets,3,147,New York Yankees,2,3313,Yankee Stadium,9
+777881,2025-05-17T18:20:00Z,2025-05-17,1,R,F,Final,145,Chicago White Sox,3,112,Chicago Cubs,7,17,Wrigley Field,9
+777886,2025-05-17T19:07:00Z,2025-05-17,1,R,F,Final,116,Detroit Tigers,1,141,Toronto Blue Jays,2,14,Rogers Centre,9
+777890,2025-05-17T20:05:00Z,2025-05-17,1,R,F,Final,120,Washington Nationals,10,110,Baltimore Orioles,6,2,Oriole Park at Camden Yards,9
+777889,2025-05-17T20:10:00Z,2025-05-17,1,R,F,Final,139,Tampa Bay Rays,4,146,Miami Marlins,0,4169,loanDepot park,9
+777894,2025-05-17T22:05:00Z,2025-05-17,1,R,F,Final,134,Pittsburgh Pirates,2,143,Philadelphia Phillies,5,2681,Citizens Bank Park,9
+777892,2025-05-17T22:40:00Z,2025-05-17,1,R,F,Final,114,Cleveland Guardians,1,113,Cincinnati Reds,4,2602,Great American Ball Park,9
+777882,2025-05-17T23:05:00Z,2025-05-17,1,R,F,Final,117,Houston Astros,1,140,Texas Rangers,5,5325,Globe Life Field,9
+777885,2025-05-17T23:10:00Z,2025-05-17,1,R,F,Final,138,St. Louis Cardinals,1,118,Kansas City Royals,0,7,Kauffman Stadium,9
+777893,2025-05-17T23:15:00Z,2025-05-17,1,R,F,Final,144,Atlanta Braves,6,111,Boston Red Sox,7,3,Fenway Park,9
+777883,2025-05-17T23:15:00Z,2025-05-17,1,R,F,Final,142,Minnesota Twins,7,158,Milwaukee Brewers,0,32,American Family Field,9
+777887,2025-05-18T00:10:00Z,2025-05-17,1,R,F,Final,115,Colorado Rockies,14,109,Arizona Diamondbacks,12,15,Chase Field,9
+777875,2025-05-18T00:40:00Z,2025-05-17,1,R,F,Final,136,Seattle Mariners,4,135,San Diego Padres,1,2680,Petco Park,9
+777879,2025-05-18T01:05:00Z,2025-05-17,1,R,F,Final,133,Athletics,0,137,San Francisco Giants,1,2395,Oracle Park,9
+777884,2025-05-18T01:10:00Z,2025-05-17,1,R,F,Final,108,Los Angeles Angels,11,119,Los Angeles Dodgers,9,22,Dodger Stadium,9

@@ -1,0 +1,16 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+777481,2025-06-17T22:10:00Z,2025-06-17,1,R,F,Final,143,Philadelphia Phillies,3,146,Miami Marlins,8,4169,loanDepot park,9
+777475,2025-06-17T22:40:00Z,2025-06-17,1,R,F,Final,134,Pittsburgh Pirates,3,116,Detroit Tigers,7,2394,Comerica Park,9
+777480,2025-06-17T22:45:00Z,2025-06-17,1,R,F,Final,115,Colorado Rockies,10,120,Washington Nationals,6,3309,Nationals Park,9
+777476,2025-06-17T23:05:00Z,2025-06-17,1,R,F,Final,108,Los Angeles Angels,4,147,New York Yankees,0,3313,Yankee Stadium,9
+777479,2025-06-17T23:07:00Z,2025-06-17,1,R,F,Final,109,Arizona Diamondbacks,4,141,Toronto Blue Jays,5,14,Rogers Centre,9
+777478,2025-06-17T23:10:00Z,2025-06-17,1,R,F,Final,142,Minnesota Twins,5,113,Cincinnati Reds,6,2602,Great American Ball Park,9
+777489,2025-06-17T23:15:00Z,2025-06-17,1,R,F,Final,121,New York Mets,4,144,Atlanta Braves,5,4705,Truist Park,9
+777477,2025-06-17T23:35:00Z,2025-06-17,1,R,F,Final,110,Baltimore Orioles,5,139,Tampa Bay Rays,1,2523,George M. Steinbrenner Field,9
+777467,2025-06-17T23:40:00Z,2025-06-17,1,R,F,Final,138,St. Louis Cardinals,12,145,Chicago White Sox,2,4,Rate Field,9
+777468,2025-06-18T00:05:00Z,2025-06-17,1,R,F,Final,118,Kansas City Royals,6,140,Texas Rangers,1,5325,Globe Life Field,9
+777482,2025-06-18T00:05:00Z,2025-06-17,1,R,F,Final,158,Milwaukee Brewers,3,112,Chicago Cubs,5,17,Wrigley Field,9
+777473,2025-06-18T01:40:00Z,2025-06-17,1,R,F,Final,111,Boston Red Sox,0,136,Seattle Mariners,8,680,T-Mobile Park,9
+777472,2025-06-18T01:45:00Z,2025-06-17,1,R,F,Final,114,Cleveland Guardians,3,137,San Francisco Giants,2,2395,Oracle Park,9
+777469,2025-06-18T02:05:00Z,2025-06-17,1,R,F,Final,117,Houston Astros,13,133,Athletics,3,2529,Sutter Health Park,9
+777471,2025-06-18T02:10:00Z,2025-06-17,1,R,F,Final,135,San Diego Padres,6,119,Los Angeles Dodgers,8,22,Dodger Stadium,9

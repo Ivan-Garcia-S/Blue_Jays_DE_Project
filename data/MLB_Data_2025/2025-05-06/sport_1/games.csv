@@ -1,0 +1,17 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+778026,2025-05-06T19:35:00Z,2025-05-06,1,R,F,Final,114,Cleveland Guardians,9,120,Washington Nationals,10,3309,Nationals Park,9
+778046,2025-05-06T19:40:00Z,2025-05-06,1,R,F,Final,114,Cleveland Guardians,9,120,Washington Nationals,1,3309,Nationals Park,9
+778035,2025-05-06T22:40:00Z,2025-05-06,1,R,F,Final,119,Los Angeles Dodgers,4,146,Miami Marlins,5,4169,loanDepot park,9
+778037,2025-05-06T22:45:00Z,2025-05-06,1,R,F,Final,140,Texas Rangers,6,111,Boston Red Sox,1,3,Fenway Park,9
+778040,2025-05-06T23:05:00Z,2025-05-06,1,R,F,Final,143,Philadelphia Phillies,8,139,Tampa Bay Rays,4,2523,George M. Steinbrenner Field,9
+778041,2025-05-06T23:05:00Z,2025-05-06,1,R,F,Final,135,San Diego Padres,3,147,New York Yankees,12,3313,Yankee Stadium,9
+778034,2025-05-06T23:15:00Z,2025-05-06,1,R,F,Final,113,Cincinnati Reds,1,144,Atlanta Braves,2,4705,Truist Park,9
+778027,2025-05-06T23:40:00Z,2025-05-06,1,R,F,Final,137,San Francisco Giants,14,112,Chicago Cubs,5,17,Wrigley Field,9
+778028,2025-05-06T23:40:00Z,2025-05-06,1,R,F,Final,110,Baltimore Orioles,1,142,Minnesota Twins,9,3312,Target Field,9
+778033,2025-05-06T23:40:00Z,2025-05-06,1,R,F,Final,145,Chicago White Sox,3,118,Kansas City Royals,4,7,Kauffman Stadium,9
+778031,2025-05-06T23:40:00Z,2025-05-06,1,R,F,Final,117,Houston Astros,3,158,Milwaukee Brewers,4,32,American Family Field,9
+778030,2025-05-06T23:45:00Z,2025-05-06,1,R,F,Final,134,Pittsburgh Pirates,1,138,St. Louis Cardinals,2,2889,Busch Stadium,9
+778025,2025-05-07T01:38:00Z,2025-05-06,1,R,F,Final,141,Toronto Blue Jays,3,108,Los Angeles Angels,8,1,Angel Stadium,9
+778032,2025-05-07T01:40:00Z,2025-05-06,1,R,F,Final,121,New York Mets,1,109,Arizona Diamondbacks,5,15,Chase Field,9
+778024,2025-05-07T02:05:00Z,2025-05-06,1,R,F,Final,136,Seattle Mariners,5,133,Athletics,3,2529,Sutter Health Park,9
+778029,2025-05-07T00:40:00Z,2025-05-08,1,R,D,Postponed,116,Detroit Tigers,,115,Colorado Rockies,,19,Coors Field,9

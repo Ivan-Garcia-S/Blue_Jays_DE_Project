@@ -1,0 +1,16 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+778480,2025-04-02T16:40:00Z,2025-04-02,1,R,F,Final,140,Texas Rangers,1,113,Cincinnati Reds,0,2602,Great American Ball Park,9
+778479,2025-04-02T17:10:00Z,2025-04-02,1,R,F,Final,134,Pittsburgh Pirates,4,139,Tampa Bay Rays,2,2523,George M. Steinbrenner Field,9
+778477,2025-04-02T17:10:00Z,2025-04-02,1,R,F,Final,118,Kansas City Royals,2,158,Milwaukee Brewers,3,32,American Family Field,9
+778473,2025-04-02T17:15:00Z,2025-04-02,1,R,F,Final,108,Los Angeles Angels,5,138,St. Louis Cardinals,12,2889,Busch Stadium,9
+778474,2025-04-02T18:10:00Z,2025-04-02,1,R,F,Final,142,Minnesota Twins,6,145,Chicago White Sox,1,4,Rate Field,9
+778478,2025-04-02T19:07:00Z,2025-04-02,1,R,F,Final,120,Washington Nationals,2,141,Toronto Blue Jays,4,14,Rogers Centre,9
+778471,2025-04-02T19:35:00Z,2025-04-02,1,R,F,Final,112,Chicago Cubs,10,133,Athletics,2,2529,Sutter Health Park,9
+778476,2025-04-02T20:10:00Z,2025-04-02,1,R,F,Final,114,Cleveland Guardians,2,135,San Diego Padres,5,2680,Petco Park,9
+778469,2025-04-02T20:10:00Z,2025-04-02,1,R,F,Final,116,Detroit Tigers,2,136,Seattle Mariners,3,680,T-Mobile Park,9
+778475,2025-04-02T20:10:00Z,2025-04-02,1,R,F,Final,137,San Francisco Giants,6,117,Houston Astros,3,2392,Daikin Park,9
+778481,2025-04-02T20:40:00Z,2025-04-02,1,R,F,Final,121,New York Mets,6,146,Miami Marlins,5,4169,loanDepot park,9
+778483,2025-04-02T22:35:00Z,2025-04-02,1,R,F,Final,111,Boston Red Sox,3,110,Baltimore Orioles,0,2,Oriole Park at Camden Yards,9
+778482,2025-04-02T22:45:00Z,2025-04-02,1,R,F,Final,115,Colorado Rockies,1,143,Philadelphia Phillies,5,2681,Citizens Bank Park,9
+778484,2025-04-02T23:05:00Z,2025-04-02,1,R,F,Final,109,Arizona Diamondbacks,4,147,New York Yankees,3,3313,Yankee Stadium,9
+778472,2025-04-03T00:38:00Z,2025-04-02,1,R,F,Final,144,Atlanta Braves,5,119,Los Angeles Dodgers,6,22,Dodger Stadium,9

@@ -1,0 +1,16 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+778297,2025-04-16T17:07:00Z,2025-04-16,1,R,F,Final,144,Atlanta Braves,1,141,Toronto Blue Jays,3,14,Rogers Centre,9
+778299,2025-04-16T17:10:00Z,2025-04-16,1,R,F,Final,121,New York Mets,3,142,Minnesota Twins,4,3312,Target Field,9
+778295,2025-04-16T17:10:00Z,2025-04-16,1,R,F,Final,116,Detroit Tigers,1,158,Milwaukee Brewers,5,32,American Family Field,9
+778290,2025-04-16T17:15:00Z,2025-04-16,1,R,F,Final,117,Houston Astros,1,138,St. Louis Cardinals,4,2889,Busch Stadium,9
+778288,2025-04-16T20:10:00Z,2025-04-16,1,R,F,Final,112,Chicago Cubs,2,135,San Diego Padres,4,2680,Petco Park,9
+778301,2025-04-16T22:35:00Z,2025-04-16,1,R,F,Final,114,Cleveland Guardians,1,110,Baltimore Orioles,9,2,Oriole Park at Camden Yards,9
+778293,2025-04-16T22:40:00Z,2025-04-16,1,R,F,Final,120,Washington Nationals,1,134,Pittsburgh Pirates,6,31,PNC Park,9
+778304,2025-04-16T22:40:00Z,2025-04-16,1,R,F,Final,136,Seattle Mariners,5,113,Cincinnati Reds,3,2602,Great American Ball Park,9
+778303,2025-04-16T22:40:00Z,2025-04-16,1,R,F,Final,109,Arizona Diamondbacks,6,146,Miami Marlins,2,4169,loanDepot park,9
+778296,2025-04-16T22:45:00Z,2025-04-16,1,R,F,Final,137,San Francisco Giants,11,143,Philadelphia Phillies,4,2681,Citizens Bank Park,9
+778298,2025-04-16T23:05:00Z,2025-04-16,1,R,F,Final,111,Boston Red Sox,1,139,Tampa Bay Rays,0,2523,George M. Steinbrenner Field,9
+778300,2025-04-16T23:05:00Z,2025-04-16,1,R,F,Final,118,Kansas City Royals,3,147,New York Yankees,4,3313,Yankee Stadium,9
+778294,2025-04-16T23:40:00Z,2025-04-16,1,R,F,Final,133,Athletics,3,145,Chicago White Sox,1,4,Rate Field,9
+778289,2025-04-17T00:05:00Z,2025-04-16,1,R,F,Final,108,Los Angeles Angels,1,140,Texas Rangers,3,5325,Globe Life Field,9
+778287,2025-04-17T02:10:00Z,2025-04-16,1,R,F,Final,115,Colorado Rockies,7,119,Los Angeles Dodgers,8,22,Dodger Stadium,9

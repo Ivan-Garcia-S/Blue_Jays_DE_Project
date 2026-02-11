@@ -1,0 +1,2 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+778869,2025-02-20T20:05:00Z,2025-02-20,1,S,F,Final,112,Chicago Cubs,12,119,Los Angeles Dodgers,4,3809,Camelback Ranch,9

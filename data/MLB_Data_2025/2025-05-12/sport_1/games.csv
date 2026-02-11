@@ -1,0 +1,12 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+777960,2025-05-12T22:10:00Z,2025-05-12,1,R,F,Final,158,Milwaukee Brewers,0,114,Cleveland Guardians,5,5,Progressive Field,9
+777951,2025-05-12T22:40:00Z,2025-05-12,1,R,F,Final,111,Boston Red Sox,2,116,Detroit Tigers,14,2394,Comerica Park,9
+777953,2025-05-12T22:45:00Z,2025-05-12,1,R,F,Final,138,St. Louis Cardinals,3,143,Philadelphia Phillies,2,2681,Citizens Bank Park,9
+777950,2025-05-12T23:10:00Z,2025-05-12,1,R,F,Final,134,Pittsburgh Pirates,3,121,New York Mets,4,3289,Citi Field,9
+777959,2025-05-12T23:15:00Z,2025-05-12,1,R,F,Final,120,Washington Nationals,3,144,Atlanta Braves,4,4705,Truist Park,9
+777952,2025-05-12T23:40:00Z,2025-05-12,1,R,F,Final,146,Miami Marlins,2,112,Chicago Cubs,5,17,Wrigley Field,9
+777949,2025-05-13T00:05:00Z,2025-05-12,1,R,F,Final,115,Colorado Rockies,1,140,Texas Rangers,2,5325,Globe Life Field,9
+777948,2025-05-13T00:10:00Z,2025-05-12,1,R,F,Final,118,Kansas City Royals,7,117,Houston Astros,5,2392,Daikin Park,9
+777947,2025-05-13T01:40:00Z,2025-05-12,1,R,F,Final,108,Los Angeles Angels,9,135,San Diego Padres,5,2680,Petco Park,9
+777941,2025-05-13T01:40:00Z,2025-05-12,1,R,F,Final,147,New York Yankees,11,136,Seattle Mariners,5,680,T-Mobile Park,9
+777939,2025-05-13T01:45:00Z,2025-05-12,1,R,F,Final,109,Arizona Diamondbacks,2,137,San Francisco Giants,1,2395,Oracle Park,9

@@ -1,0 +1,15 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+776661,2025-08-20T16:35:00Z,2025-08-20,1,R,F,Final,141,Toronto Blue Jays,1,134,Pittsburgh Pirates,2,31,PNC Park,9
+776662,2025-08-20T17:05:00Z,2025-08-20,1,R,F,Final,136,Seattle Mariners,2,143,Philadelphia Phillies,11,2681,Citizens Bank Park,9
+776673,2025-08-20T17:10:00Z,2025-08-20,1,R,F,Final,117,Houston Astros,2,116,Detroit Tigers,7,2394,Comerica Park,9
+776658,2025-08-20T19:40:00Z,2025-08-20,1,R,F,Final,114,Cleveland Guardians,2,109,Arizona Diamondbacks,3,15,Chase Field,9
+776670,2025-08-20T22:40:00Z,2025-08-20,1,R,F,Final,138,St. Louis Cardinals,2,146,Miami Marlins,6,4169,loanDepot park,9
+776659,2025-08-20T22:45:00Z,2025-08-20,1,R,F,Final,121,New York Mets,4,120,Washington Nationals,5,3309,Nationals Park,9
+776669,2025-08-20T23:15:00Z,2025-08-20,1,R,F,Final,145,Chicago White Sox,0,144,Atlanta Braves,1,4705,Truist Park,9
+776664,2025-08-20T23:35:00Z,2025-08-20,1,R,F,Final,147,New York Yankees,6,139,Tampa Bay Rays,4,2523,George M. Steinbrenner Field,9
+776666,2025-08-20T23:40:00Z,2025-08-20,1,R,F,Final,140,Texas Rangers,6,118,Kansas City Royals,3,7,Kauffman Stadium,9
+776665,2025-08-20T23:40:00Z,2025-08-20,1,R,F,Final,133,Athletics,4,142,Minnesota Twins,2,3312,Target Field,9
+776663,2025-08-21T00:05:00Z,2025-08-20,1,R,F,Final,158,Milwaukee Brewers,3,112,Chicago Cubs,4,17,Wrigley Field,9
+776660,2025-08-21T00:40:00Z,2025-08-20,1,R,F,Final,119,Los Angeles Dodgers,3,115,Colorado Rockies,8,19,Coors Field,9
+776652,2025-08-21T01:38:00Z,2025-08-20,1,R,F,Final,113,Cincinnati Reds,1,108,Los Angeles Angels,2,1,Angel Stadium,9
+776656,2025-08-21T01:40:00Z,2025-08-20,1,R,F,Final,137,San Francisco Giants,1,135,San Diego Padres,8,2680,Petco Park,9

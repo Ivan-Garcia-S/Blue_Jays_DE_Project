@@ -1,0 +1,16 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+777380,2025-06-24T22:35:00Z,2025-06-24,1,R,F,Final,140,Texas Rangers,6,110,Baltimore Orioles,5,2,Oriole Park at Camden Yards,9
+777386,2025-06-24T22:40:00Z,2025-06-24,1,R,F,Final,133,Athletics,4,116,Detroit Tigers,11,2394,Comerica Park,9
+777384,2025-06-24T22:40:00Z,2025-06-24,1,R,F,Final,141,Toronto Blue Jays,10,114,Cleveland Guardians,6,5,Progressive Field,9
+777387,2025-06-24T23:10:00Z,2025-06-24,1,R,F,Final,144,Atlanta Braves,7,121,New York Mets,4,3289,Citi Field,9
+777385,2025-06-24T23:10:00Z,2025-06-24,1,R,F,Final,147,New York Yankees,4,113,Cincinnati Reds,5,2602,Great American Ball Park,9
+777378,2025-06-24T23:40:00Z,2025-06-24,1,R,F,Final,139,Tampa Bay Rays,5,118,Kansas City Royals,1,7,Kauffman Stadium,9
+777375,2025-06-24T23:40:00Z,2025-06-24,1,R,F,Final,136,Seattle Mariners,6,142,Minnesota Twins,5,3312,Target Field,9
+777383,2025-06-24T23:40:00Z,2025-06-24,1,R,F,Final,109,Arizona Diamondbacks,4,145,Chicago White Sox,1,4,Rate Field,9
+777374,2025-06-24T23:40:00Z,2025-06-24,1,R,F,Final,134,Pittsburgh Pirates,3,158,Milwaukee Brewers,9,32,American Family Field,9
+777373,2025-06-24T23:45:00Z,2025-06-24,1,R,F,Final,112,Chicago Cubs,7,138,St. Louis Cardinals,8,2889,Busch Stadium,9
+777377,2025-06-25T00:10:00Z,2025-06-24,1,R,F,Final,143,Philadelphia Phillies,0,117,Houston Astros,1,2392,Daikin Park,9
+777379,2025-06-25T00:40:00Z,2025-06-24,1,R,F,Final,119,Los Angeles Dodgers,9,115,Colorado Rockies,7,19,Coors Field,9
+777376,2025-06-25T01:38:00Z,2025-06-24,1,R,F,Final,111,Boston Red Sox,2,108,Los Angeles Angels,3,1,Angel Stadium,9
+777372,2025-06-25T01:40:00Z,2025-06-24,1,R,F,Final,120,Washington Nationals,3,135,San Diego Padres,4,2680,Petco Park,9
+777364,2025-06-25T01:45:00Z,2025-06-24,1,R,F,Final,146,Miami Marlins,4,137,San Francisco Giants,2,2395,Oracle Park,9

@@ -1,0 +1,14 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+778526,2025-03-30T17:35:00Z,2025-03-30,1,R,F,Final,143,Philadelphia Phillies,1,120,Washington Nationals,5,3309,Nationals Park,9
+778523,2025-03-30T17:35:00Z,2025-03-30,1,R,F,Final,158,Milwaukee Brewers,3,147,New York Yankees,12,3313,Yankee Stadium,9
+778525,2025-03-30T17:37:00Z,2025-03-30,1,R,F,Final,110,Baltimore Orioles,1,141,Toronto Blue Jays,3,14,Rogers Centre,9
+778522,2025-03-30T17:40:00Z,2025-03-30,1,R,F,Final,137,San Francisco Giants,6,113,Cincinnati Reds,3,2602,Great American Ball Park,9
+778524,2025-03-30T17:40:00Z,2025-03-30,1,R,F,Final,115,Colorado Rockies,4,139,Tampa Bay Rays,6,2523,George M. Steinbrenner Field,9
+778519,2025-03-30T17:40:00Z,2025-03-30,1,R,F,Final,134,Pittsburgh Pirates,2,146,Miami Marlins,3,4169,loanDepot park,9
+778510,2025-03-30T18:10:00Z,2025-03-30,1,R,F,Final,114,Cleveland Guardians,6,118,Kansas City Royals,2,7,Kauffman Stadium,9
+778527,2025-03-30T18:10:00Z,2025-03-30,1,R,F,Final,108,Los Angeles Angels,3,145,Chicago White Sox,2,4,Rate Field,9
+778517,2025-03-30T18:15:00Z,2025-03-30,1,R,F,Final,142,Minnesota Twins,2,138,St. Louis Cardinals,9,2889,Busch Stadium,9
+778516,2025-03-30T18:35:00Z,2025-03-30,1,R,F,Final,111,Boston Red Sox,2,140,Texas Rangers,3,5325,Globe Life Field,9
+778515,2025-03-30T20:10:00Z,2025-03-30,1,R,F,Final,112,Chicago Cubs,6,109,Arizona Diamondbacks,10,15,Chase Field,9
+778513,2025-03-30T20:10:00Z,2025-03-30,1,R,F,Final,133,Athletics,1,136,Seattle Mariners,2,680,T-Mobile Park,9
+778514,2025-03-30T23:10:00Z,2025-03-30,1,R,F,Final,144,Atlanta Braves,0,135,San Diego Padres,5,2680,Petco Park,9

@@ -1,0 +1,17 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+778742,2025-02-23T18:05:00Z,2025-02-23,1,S,F,Final,121,New York Mets,6,120,Washington Nationals,11,5000,CACTI Park of the Palm Beaches,9
+779085,2025-02-23T18:05:00Z,2025-02-23,1,S,F,Final,117,Houston Astros,11,138,St. Louis Cardinals,6,2520,Roger Dean Chevrolet Stadium,9
+778778,2025-02-23T18:05:00Z,2025-02-23,1,S,F,Final,141,Toronto Blue Jays,8,111,Boston Red Sox,7,4309,JetBlue Park,9
+779039,2025-02-23T18:05:00Z,2025-02-23,1,S,F,Final,142,Minnesota Twins,1,134,Pittsburgh Pirates,5,2526,LECOM Park,9
+778915,2025-02-23T18:05:00Z,2025-02-23,1,S,F,Final,110,Baltimore Orioles,7,143,Philadelphia Phillies,3,2700,BayCare Ballpark,9
+778705,2025-02-23T18:05:00Z,2025-02-23,1,S,F,Final,139,Tampa Bay Rays,4,144,Atlanta Braves,2,5380,CoolToday Park,9
+779054,2025-02-23T18:05:00Z,2025-02-23,1,S,F,Final,116,Detroit Tigers,4,147,New York Yankees,0,2523,George M. Steinbrenner Field,9
+778897,2025-02-23T18:10:00Z,2025-02-23,1,S,F,Final: Tied,146,Miami Marlins,1,121,New York Mets,1,2856,Clover Park,9
+778842,2025-02-23T20:05:00Z,2025-02-23,1,S,F,Final,108,Los Angeles Angels,2,114,Cleveland Guardians,14,3834,Goodyear Ballpark,9
+779143,2025-02-23T20:05:00Z,2025-02-23,1,S,F,Final,115,Colorado Rockies,0,133,Athletics,4,2507,Hohokam Stadium,9
+778864,2025-02-23T20:05:00Z,2025-02-23,1,S,F,Final,135,San Diego Padres,3,119,Los Angeles Dodgers,8,3809,Camelback Ranch,9
+778993,2025-02-23T20:05:00Z,2025-02-23,1,S,F,Final,113,Cincinnati Reds,2,137,San Francisco Giants,5,2532,Scottsdale Stadium,9
+778755,2025-02-23T20:05:00Z,2025-02-23,1,S,F,Final,140,Texas Rangers,5,112,Chicago Cubs,6,4629,Sloan Park,9
+778941,2025-02-23T20:05:00Z,2025-02-23,1,S,F,Final,145,Chicago White Sox,3,118,Kansas City Royals,4,2603,Surprise Stadium,9
+779020,2025-02-23T20:10:00Z,2025-02-23,1,S,F,Final,109,Arizona Diamondbacks,5,136,Seattle Mariners,11,2530,Peoria Stadium,9
+778807,2025-02-23T20:10:00Z,2025-02-23,1,S,F,Final,158,Milwaukee Brewers,1,115,Colorado Rockies,6,4249,Salt River Fields at Talking Stick,9

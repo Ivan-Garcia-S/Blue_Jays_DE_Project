@@ -1,0 +1,12 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+778424,2025-04-07T19:10:00Z,2025-04-07,1,R,F,Final,147,New York Yankees,2,116,Detroit Tigers,6,2394,Comerica Park,9
+778415,2025-04-07T22:40:00Z,2025-04-07,1,R,F,Final,138,St. Louis Cardinals,4,134,Pittsburgh Pirates,8,31,PNC Park,9
+778418,2025-04-07T22:45:00Z,2025-04-07,1,R,F,Final,119,Los Angeles Dodgers,4,120,Washington Nationals,6,3309,Nationals Park,9
+778426,2025-04-07T22:45:00Z,2025-04-07,1,R,F,Final,141,Toronto Blue Jays,6,111,Boston Red Sox,2,3,Fenway Park,9
+778416,2025-04-07T23:10:00Z,2025-04-07,1,R,F,Final,146,Miami Marlins,0,121,New York Mets,2,3289,Citi Field,9
+778411,2025-04-07T23:40:00Z,2025-04-07,1,R,F,Final,140,Texas Rangers,0,112,Chicago Cubs,7,17,Wrigley Field,9
+778412,2025-04-07T23:40:00Z,2025-04-07,1,R,F,Final,142,Minnesota Twins,2,118,Kansas City Royals,4,7,Kauffman Stadium,9
+778413,2025-04-08T01:40:00Z,2025-04-07,1,R,F,Final,110,Baltimore Orioles,5,109,Arizona Diamondbacks,1,15,Chase Field,9
+778405,2025-04-08T01:40:00Z,2025-04-07,1,R,F,Final,117,Houston Astros,3,136,Seattle Mariners,4,680,T-Mobile Park,9
+778410,2025-04-08T01:45:00Z,2025-04-07,1,R,F,Final,113,Cincinnati Reds,2,137,San Francisco Giants,0,2395,Oracle Park,9
+778414,2025-04-08T02:05:00Z,2025-04-07,1,R,F,Final,135,San Diego Padres,5,133,Athletics,4,2529,Sutter Health Park,9

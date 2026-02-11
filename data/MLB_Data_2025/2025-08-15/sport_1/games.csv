@@ -1,0 +1,16 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+776737,2025-08-15T18:20:00Z,2025-08-15,1,R,F,Final,134,Pittsburgh Pirates,3,112,Chicago Cubs,2,17,Wrigley Field,9
+776740,2025-08-15T22:40:00Z,2025-08-15,1,R,F,Final,158,Milwaukee Brewers,10,113,Cincinnati Reds,8,2602,Great American Ball Park,9
+776739,2025-08-15T22:45:00Z,2025-08-15,1,R,F,Final,143,Philadelphia Phillies,6,120,Washington Nationals,2,3309,Nationals Park,9
+776735,2025-08-15T23:07:00Z,2025-08-15,1,R,F,Final,140,Texas Rangers,5,141,Toronto Blue Jays,6,14,Rogers Centre,9
+776736,2025-08-15T23:10:00Z,2025-08-15,1,R,F,Final,136,Seattle Mariners,11,121,New York Mets,9,3289,Citi Field,9
+776738,2025-08-15T23:10:00Z,2025-08-15,1,R,F,Final,144,Atlanta Braves,2,114,Cleveland Guardians,0,5,Progressive Field,9
+776741,2025-08-15T23:10:00Z,2025-08-15,1,R,F,Final,146,Miami Marlins,1,111,Boston Red Sox,2,3,Fenway Park,9
+776733,2025-08-16T00:10:00Z,2025-08-15,1,R,F,Final,110,Baltimore Orioles,7,117,Houston Astros,0,2392,Daikin Park,9
+776732,2025-08-16T00:10:00Z,2025-08-15,1,R,F,Final,116,Detroit Tigers,7,142,Minnesota Twins,0,3312,Target Field,9
+776728,2025-08-16T00:10:00Z,2025-08-15,1,R,F,Final,145,Chicago White Sox,1,118,Kansas City Royals,3,7,Kauffman Stadium,9
+776731,2025-08-16T00:15:00Z,2025-08-15,1,R,F,Final,147,New York Yankees,4,138,St. Louis Cardinals,3,2889,Busch Stadium,9
+776730,2025-08-16T00:40:00Z,2025-08-15,1,R,F,Final,109,Arizona Diamondbacks,3,115,Colorado Rockies,4,19,Coors Field,9
+776734,2025-08-16T02:05:00Z,2025-08-15,1,R,F,Final,108,Los Angeles Angels,3,133,Athletics,10,2529,Sutter Health Park,9
+776727,2025-08-16T02:10:00Z,2025-08-15,1,R,F,Final,135,San Diego Padres,2,119,Los Angeles Dodgers,3,22,Dodger Stadium,9
+776729,2025-08-16T02:15:00Z,2025-08-15,1,R,F,Final,139,Tampa Bay Rays,7,137,San Francisco Giants,6,2395,Oracle Park,9

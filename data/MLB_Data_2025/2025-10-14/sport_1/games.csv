@@ -1,0 +1,2 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+813034,2025-10-15T00:08:00Z,2025-10-14,1,L,F,Final,119,Los Angeles Dodgers,5,158,Milwaukee Brewers,1,32,American Family Field,9

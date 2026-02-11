@@ -1,0 +1,14 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+778564,2025-03-19T10:10:00Z,2025-03-19,1,R,F,Final,119,Los Angeles Dodgers,6,112,Chicago Cubs,3,2397,Tokyo Dome,9
+778768,2025-03-19T17:05:00Z,2025-03-19,1,S,F,Final,116,Detroit Tigers,4,111,Boston Red Sox,6,4309,JetBlue Park,9
+779058,2025-03-19T17:05:00Z,2025-03-19,1,S,F,Final,120,Washington Nationals,1,138,St. Louis Cardinals,7,2520,Roger Dean Chevrolet Stadium,9
+778964,2025-03-19T17:05:00Z,2025-03-19,1,S,F,Final,134,Pittsburgh Pirates,2,139,Tampa Bay Rays,5,2534,Charlotte Sports Park,9
+778900,2025-03-19T17:05:00Z,2025-03-19,1,S,F,Final,147,New York Yankees,9,143,Philadelphia Phillies,7,2700,BayCare Ballpark,9
+778813,2025-03-19T20:05:00Z,2025-03-19,1,S,F,Final,133,Athletics,8,114,Cleveland Guardians,3,3834,Goodyear Ballpark,9
+779150,2025-03-19T20:10:00Z,2025-03-19,1,S,F,Final,114,Cleveland Guardians,3,108,Los Angeles Angels,6,2500,Tempe Diablo Stadium,9
+778782,2025-03-19T20:10:00Z,2025-03-19,1,S,F,Final,115,Colorado Rockies,0,109,Arizona Diamondbacks,1,4249,Salt River Fields at Talking Stick,9
+779002,2025-03-19T20:10:00Z,2025-03-19,1,S,F,Final,140,Texas Rangers,2,136,Seattle Mariners,3,2530,Peoria Stadium,9
+779088,2025-03-19T20:10:00Z,2025-03-19,1,S,F,Final,145,Chicago White Sox,4,158,Milwaukee Brewers,5,2518,American Family Fields of Phoenix,9
+778715,2025-03-19T22:05:00Z,2025-03-19,1,S,F,Final,121,New York Mets,8,117,Houston Astros,2,5000,CACTI Park of the Palm Beaches,9
+779042,2025-03-19T22:35:00Z,2025-03-19,1,S,F,Final,144,Atlanta Braves,4,147,New York Yankees,0,2523,George M. Steinbrenner Field,9
+778917,2025-03-20T01:05:00Z,2025-03-19,1,S,F,Final,137,San Francisco Giants,3,118,Kansas City Royals,1,2603,Surprise Stadium,9

@@ -1,0 +1,16 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+776428,2025-09-07T16:05:00Z,2025-09-07,1,R,F,Final,136,Seattle Mariners,18,144,Atlanta Braves,2,4705,Truist Park,9
+776421,2025-09-07T16:10:00Z,2025-09-07,1,R,F,Final,114,Cleveland Guardians,2,139,Tampa Bay Rays,1,2523,George M. Steinbrenner Field,9
+776427,2025-09-07T17:35:00Z,2025-09-07,1,R,F,Final,119,Los Angeles Dodgers,5,110,Baltimore Orioles,2,2,Oriole Park at Camden Yards,9
+776423,2025-09-07T17:35:00Z,2025-09-07,1,R,F,Final,141,Toronto Blue Jays,3,147,New York Yankees,4,3313,Yankee Stadium,9
+776419,2025-09-07T17:35:00Z,2025-09-07,1,R,F,Final,158,Milwaukee Brewers,10,134,Pittsburgh Pirates,2,31,PNC Park,9
+776429,2025-09-07T17:40:00Z,2025-09-07,1,R,F,Final,121,New York Mets,2,113,Cincinnati Reds,3,2602,Great American Ball Park,9
+776425,2025-09-07T17:40:00Z,2025-09-07,1,R,F,Final,145,Chicago White Sox,6,116,Detroit Tigers,4,2394,Comerica Park,9
+776426,2025-09-07T17:40:00Z,2025-09-07,1,R,F,Final,143,Philadelphia Phillies,4,146,Miami Marlins,5,4169,loanDepot park,9
+776422,2025-09-07T18:10:00Z,2025-09-07,1,R,F,Final,142,Minnesota Twins,5,118,Kansas City Royals,1,7,Kauffman Stadium,9
+776416,2025-09-07T18:15:00Z,2025-09-07,1,R,F,Final,137,San Francisco Giants,3,138,St. Louis Cardinals,4,2889,Busch Stadium,9
+776420,2025-09-07T18:20:00Z,2025-09-07,1,R,F,Final,120,Washington Nationals,6,112,Chicago Cubs,3,17,Wrigley Field,9
+776418,2025-09-07T18:35:00Z,2025-09-07,1,R,F,Final,117,Houston Astros,2,140,Texas Rangers,4,5325,Globe Life Field,9
+776417,2025-09-07T19:10:00Z,2025-09-07,1,R,F,Final,135,San Diego Padres,8,115,Colorado Rockies,1,19,Coors Field,9
+776414,2025-09-07T20:07:00Z,2025-09-07,1,R,F,Final,133,Athletics,3,108,Los Angeles Angels,4,1,Angel Stadium,9
+776415,2025-09-07T20:10:00Z,2025-09-07,1,R,F,Final,111,Boston Red Sox,7,109,Arizona Diamondbacks,4,15,Chase Field,9

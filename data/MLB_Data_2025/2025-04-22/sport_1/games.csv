@@ -1,0 +1,16 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+778218,2025-04-22T22:10:00Z,2025-04-22,1,R,F,Final,147,New York Yankees,2,114,Cleveland Guardians,3,5,Progressive Field,9
+778221,2025-04-22T22:40:00Z,2025-04-22,1,R,F,Final,135,San Diego Padres,2,116,Detroit Tigers,0,2394,Comerica Park,9
+778219,2025-04-22T22:40:00Z,2025-04-22,1,R,F,Final,113,Cincinnati Reds,3,146,Miami Marlins,4,4169,loanDepot park,9
+778222,2025-04-22T22:45:00Z,2025-04-22,1,R,F,Final,110,Baltimore Orioles,0,120,Washington Nationals,7,3309,Nationals Park,9
+778224,2025-04-22T22:45:00Z,2025-04-22,1,R,F,Final,136,Seattle Mariners,3,111,Boston Red Sox,8,3,Fenway Park,9
+778223,2025-04-22T23:10:00Z,2025-04-22,1,R,F,Final,143,Philadelphia Phillies,1,121,New York Mets,5,3289,Citi Field,9
+778229,2025-04-22T23:15:00Z,2025-04-22,1,R,F,Final,138,St. Louis Cardinals,10,144,Atlanta Braves,4,4705,Truist Park,9
+778215,2025-04-22T23:40:00Z,2025-04-22,1,R,F,Final,115,Colorado Rockies,3,118,Kansas City Royals,4,7,Kauffman Stadium,9
+778220,2025-04-22T23:40:00Z,2025-04-22,1,R,F,Final,119,Los Angeles Dodgers,10,112,Chicago Cubs,11,17,Wrigley Field,9
+778216,2025-04-22T23:40:00Z,2025-04-22,1,R,F,Final,145,Chicago White Sox,2,142,Minnesota Twins,4,3312,Target Field,9
+778217,2025-04-23T00:10:00Z,2025-04-22,1,R,F,Final,141,Toronto Blue Jays,1,117,Houston Astros,5,2392,Daikin Park,9
+778211,2025-04-23T01:38:00Z,2025-04-22,1,R,F,Final,134,Pittsburgh Pirates,9,108,Los Angeles Angels,3,1,Angel Stadium,9
+778212,2025-04-23T01:40:00Z,2025-04-22,1,R,F,Final,139,Tampa Bay Rays,1,109,Arizona Diamondbacks,5,15,Chase Field,9
+778210,2025-04-23T01:45:00Z,2025-04-22,1,R,F,Final,158,Milwaukee Brewers,11,137,San Francisco Giants,3,2395,Oracle Park,9
+778213,2025-04-23T02:05:00Z,2025-04-22,1,R,F,Final,140,Texas Rangers,8,133,Athletics,5,2529,Sutter Health Park,9

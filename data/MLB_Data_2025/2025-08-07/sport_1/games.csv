@@ -1,0 +1,5 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+776837,2025-08-07T16:05:00Z,2025-08-07,1,R,F,Final,133,Athletics,6,120,Washington Nationals,0,3309,Nationals Park,9
+776830,2025-08-07T20:10:00Z,2025-08-07,1,R,F,Final,145,Chicago White Sox,3,136,Seattle Mariners,4,680,T-Mobile Park,9
+776840,2025-08-07T22:40:00Z,2025-08-07,1,R,F,Final,113,Cincinnati Reds,0,134,Pittsburgh Pirates,7,31,PNC Park,9
+776842,2025-08-07T23:15:00Z,2025-08-07,1,R,F,Final,146,Miami Marlins,6,144,Atlanta Braves,8,4705,Truist Park,9

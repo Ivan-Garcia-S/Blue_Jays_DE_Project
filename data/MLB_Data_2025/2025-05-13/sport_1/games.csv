@@ -1,0 +1,16 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+777944,2025-05-13T22:10:00Z,2025-05-13,1,R,F,Final,158,Milwaukee Brewers,0,114,Cleveland Guardians,2,5,Progressive Field,9
+777940,2025-05-13T22:40:00Z,2025-05-13,1,R,F,Final,111,Boston Red Sox,9,116,Detroit Tigers,10,2394,Comerica Park,9
+777945,2025-05-13T22:40:00Z,2025-05-13,1,R,F,Final,145,Chicago White Sox,5,113,Cincinnati Reds,1,2602,Great American Ball Park,9
+777935,2025-05-13T23:07:00Z,2025-05-13,1,R,F,Final,139,Tampa Bay Rays,11,141,Toronto Blue Jays,9,14,Rogers Centre,9
+777943,2025-05-13T23:10:00Z,2025-05-13,1,R,F,Final,134,Pittsburgh Pirates,1,121,New York Mets,2,3289,Citi Field,9
+777942,2025-05-13T23:15:00Z,2025-05-13,1,R,F,Final,120,Washington Nationals,2,144,Atlanta Braves,5,4705,Truist Park,9
+777936,2025-05-13T23:40:00Z,2025-05-13,1,R,F,Final,146,Miami Marlins,4,112,Chicago Cubs,5,17,Wrigley Field,9
+777934,2025-05-14T00:05:00Z,2025-05-13,1,R,F,Final,115,Colorado Rockies,1,140,Texas Rangers,4,5325,Globe Life Field,9
+777931,2025-05-14T00:10:00Z,2025-05-13,1,R,F,Final,118,Kansas City Royals,1,117,Houston Astros,2,2392,Daikin Park,9
+777932,2025-05-14T01:40:00Z,2025-05-13,1,R,F,Final,108,Los Angeles Angels,4,135,San Diego Padres,6,2680,Petco Park,9
+777926,2025-05-14T01:40:00Z,2025-05-13,1,R,F,Final,147,New York Yankees,1,136,Seattle Mariners,2,680,T-Mobile Park,9
+777930,2025-05-14T01:45:00Z,2025-05-13,1,R,F,Final,109,Arizona Diamondbacks,6,137,San Francisco Giants,10,2395,Oracle Park,9
+777937,2025-05-14T02:10:00Z,2025-05-13,1,R,F,Final,133,Athletics,11,119,Los Angeles Dodgers,1,22,Dodger Stadium,9
+777938,2025-05-13T22:35:00Z,2025-05-14,1,R,D,Postponed,142,Minnesota Twins,,110,Baltimore Orioles,,2,Oriole Park at Camden Yards,9
+777933,2025-05-13T22:45:00Z,2025-05-14,1,R,D,Postponed,138,St. Louis Cardinals,,143,Philadelphia Phillies,,2681,Citizens Bank Park,9

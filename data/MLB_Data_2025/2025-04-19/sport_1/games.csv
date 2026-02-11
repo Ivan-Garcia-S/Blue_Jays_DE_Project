@@ -1,0 +1,16 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+778252,2025-04-19T17:05:00Z,2025-04-19,1,R,F,Final,146,Miami Marlins,10,143,Philadelphia Phillies,11,2681,Citizens Bank Park,9
+778265,2025-04-19T17:10:00Z,2025-04-19,1,R,F,Final,118,Kansas City Royals,1,116,Detroit Tigers,3,2394,Comerica Park,9
+778257,2025-04-19T18:20:00Z,2025-04-19,1,R,F,Final,109,Arizona Diamondbacks,2,112,Chicago Cubs,6,17,Wrigley Field,9
+778258,2025-04-19T19:07:00Z,2025-04-19,1,R,F,Final,136,Seattle Mariners,8,141,Toronto Blue Jays,4,14,Rogers Centre,9
+778262,2025-04-19T20:05:00Z,2025-04-19,1,R,F,Final,113,Cincinnati Reds,5,110,Baltimore Orioles,9,2,Oriole Park at Camden Yards,9
+778254,2025-04-19T20:05:00Z,2025-04-19,1,R,F,Final,114,Cleveland Guardians,3,134,Pittsburgh Pirates,0,31,PNC Park,9
+778256,2025-04-19T20:05:00Z,2025-04-19,1,R,F,Final,138,St. Louis Cardinals,0,121,New York Mets,3,3289,Citi Field,9
+778251,2025-04-19T20:05:00Z,2025-04-19,1,R,F,Final,119,Los Angeles Dodgers,3,140,Texas Rangers,4,5325,Globe Life Field,9
+778247,2025-04-19T20:10:00Z,2025-04-19,1,R,F,Final,120,Washington Nationals,12,115,Colorado Rockies,11,19,Coors Field,9
+778264,2025-04-19T20:10:00Z,2025-04-19,1,R,F,Final,145,Chicago White Sox,3,111,Boston Red Sox,4,3,Fenway Park,9
+778255,2025-04-19T20:10:00Z,2025-04-19,1,R,F,Final,147,New York Yankees,8,139,Tampa Bay Rays,10,2523,George M. Steinbrenner Field,9
+778259,2025-04-19T23:10:00Z,2025-04-19,1,R,F,Final,135,San Diego Padres,2,117,Houston Astros,3,2392,Daikin Park,9
+778253,2025-04-19T23:10:00Z,2025-04-19,1,R,F,Final,133,Athletics,3,158,Milwaukee Brewers,1,32,American Family Field,9
+778267,2025-04-19T23:15:00Z,2025-04-19,1,R,F,Final,142,Minnesota Twins,3,144,Atlanta Braves,4,4705,Truist Park,9
+778243,2025-04-20T01:38:00Z,2025-04-19,1,R,F,Final,137,San Francisco Giants,3,108,Los Angeles Angels,2,1,Angel Stadium,9

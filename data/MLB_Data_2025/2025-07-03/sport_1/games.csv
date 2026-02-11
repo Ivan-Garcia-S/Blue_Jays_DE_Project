@@ -1,0 +1,11 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+777263,2025-07-03T16:10:00Z,2025-07-03,1,R,F,Final,142,Minnesota Twins,1,146,Miami Marlins,4,4169,loanDepot park,9
+777264,2025-07-03T19:10:00Z,2025-07-03,1,R,F,Final,117,Houston Astros,6,115,Colorado Rockies,7,19,Coors Field,9
+777258,2025-07-03T22:45:00Z,2025-07-03,1,R,F,Final,116,Detroit Tigers,7,120,Washington Nationals,11,3309,Nationals Park,9
+777260,2025-07-03T23:07:00Z,2025-07-03,1,R,F,Final,147,New York Yankees,5,141,Toronto Blue Jays,8,14,Rogers Centre,9
+777257,2025-07-03T23:10:00Z,2025-07-03,1,R,F,Final,158,Milwaukee Brewers,2,121,New York Mets,3,3289,Citi Field,9
+777261,2025-07-03T23:15:00Z,2025-07-03,1,R,F,Final,108,Los Angeles Angels,5,144,Atlanta Braves,1,4705,Truist Park,9
+777259,2025-07-04T00:05:00Z,2025-07-03,1,R,F,Final,114,Cleveland Guardians,0,112,Chicago Cubs,1,17,Wrigley Field,9
+777256,2025-07-04T01:40:00Z,2025-07-03,1,R,F,Final,137,San Francisco Giants,7,109,Arizona Diamondbacks,2,15,Chase Field,9
+777251,2025-07-04T02:10:00Z,2025-07-03,1,R,F,Final,118,Kansas City Royals,3,136,Seattle Mariners,2,680,T-Mobile Park,9
+777253,2025-07-04T02:10:00Z,2025-07-03,1,R,F,Final,145,Chicago White Sox,2,119,Los Angeles Dodgers,6,22,Dodger Stadium,9

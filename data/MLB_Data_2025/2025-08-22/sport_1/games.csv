@@ -1,0 +1,16 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+776637,2025-08-22T22:40:00Z,2025-08-22,1,R,F,Final,115,Colorado Rockies,0,134,Pittsburgh Pirates,9,31,PNC Park,9
+776648,2025-08-22T22:45:00Z,2025-08-22,1,R,F,Final,120,Washington Nationals,5,143,Philadelphia Phillies,4,2681,Citizens Bank Park,9
+776643,2025-08-22T23:05:00Z,2025-08-22,1,R,F,Final,117,Houston Astros,10,110,Baltimore Orioles,7,2,Oriole Park at Camden Yards,9
+776647,2025-08-22T23:05:00Z,2025-08-22,1,R,F,Final,111,Boston Red Sox,1,147,New York Yankees,0,3313,Yankee Stadium,9
+776649,2025-08-22T23:10:00Z,2025-08-22,1,R,F,Final,118,Kansas City Royals,5,116,Detroit Tigers,7,2394,Comerica Park,9
+776646,2025-08-22T23:10:00Z,2025-08-22,1,R,F,Final,141,Toronto Blue Jays,5,146,Miami Marlins,2,4169,loanDepot park,9
+776645,2025-08-22T23:15:00Z,2025-08-22,1,R,F,Final,121,New York Mets,12,144,Atlanta Braves,7,4705,Truist Park,9
+776633,2025-08-22T23:35:00Z,2025-08-22,1,R,F,Final,138,St. Louis Cardinals,6,139,Tampa Bay Rays,10,2523,George M. Steinbrenner Field,9
+776639,2025-08-22T23:40:00Z,2025-08-22,1,R,F,Final,142,Minnesota Twins,9,145,Chicago White Sox,7,4,Rate Field,9
+776641,2025-08-23T00:05:00Z,2025-08-22,1,R,F,Final,114,Cleveland Guardians,3,140,Texas Rangers,4,5325,Globe Life Field,9
+776634,2025-08-23T00:10:00Z,2025-08-22,1,R,F,Final,137,San Francisco Giants,4,158,Milwaukee Brewers,5,32,American Family Field,9
+776640,2025-08-23T01:38:00Z,2025-08-22,1,R,F,Final,112,Chicago Cubs,3,108,Los Angeles Angels,2,1,Angel Stadium,9
+776635,2025-08-23T01:40:00Z,2025-08-22,1,R,F,Final,113,Cincinnati Reds,5,109,Arizona Diamondbacks,6,15,Chase Field,9
+776636,2025-08-23T01:40:00Z,2025-08-22,1,R,F,Final,119,Los Angeles Dodgers,1,135,San Diego Padres,2,2680,Petco Park,9
+776638,2025-08-23T02:10:00Z,2025-08-22,1,R,F,Final,133,Athletics,2,136,Seattle Mariners,3,680,T-Mobile Park,9

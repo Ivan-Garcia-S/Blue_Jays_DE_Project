@@ -1,0 +1,17 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+777609,2025-06-07T17:10:00Z,2025-06-07,1,R,F,Final,112,Chicago Cubs,6,116,Detroit Tigers,1,2394,Comerica Park,9
+777623,2025-06-07T18:10:00Z,2025-06-06,1,R,F,Final,109,Arizona Diamondbacks,3,113,Cincinnati Reds,4,2602,Great American Ball Park,9
+777600,2025-06-07T18:10:00Z,2025-06-07,1,R,F,Final,141,Toronto Blue Jays,5,142,Minnesota Twins,4,3312,Target Field,9
+777601,2025-06-07T18:15:00Z,2025-06-07,1,R,F,Final,119,Los Angeles Dodgers,1,138,St. Louis Cardinals,2,2889,Busch Stadium,9
+777610,2025-06-07T20:05:00Z,2025-06-07,1,R,F,Final,140,Texas Rangers,5,120,Washington Nationals,0,3309,Nationals Park,9
+777607,2025-06-07T20:05:00Z,2025-06-07,1,R,F,Final,143,Philadelphia Phillies,1,134,Pittsburgh Pirates,2,31,PNC Park,9
+777598,2025-06-07T20:05:00Z,2025-06-07,1,R,F,Final,144,Atlanta Braves,2,137,San Francisco Giants,3,2395,Oracle Park,9
+777612,2025-06-07T20:10:00Z,2025-06-07,1,R,F,Final,109,Arizona Diamondbacks,1,113,Cincinnati Reds,13,2602,Great American Ball Park,9
+777608,2025-06-07T20:10:00Z,2025-06-07,1,R,F,Final,117,Houston Astros,5,114,Cleveland Guardians,3,5,Progressive Field,9
+777606,2025-06-07T20:10:00Z,2025-06-07,1,R,F,Final,118,Kansas City Royals,1,145,Chicago White Sox,4,4,Rate Field,9
+777611,2025-06-07T20:10:00Z,2025-06-07,1,R,F,Final,146,Miami Marlins,11,139,Tampa Bay Rays,10,2523,George M. Steinbrenner Field,9
+777605,2025-06-07T23:35:00Z,2025-06-07,1,R,F,Final,111,Boston Red Sox,10,147,New York Yankees,7,3313,Yankee Stadium,9
+777597,2025-06-07T23:35:00Z,2025-06-07,1,R,F,Final,135,San Diego Padres,3,158,Milwaukee Brewers,4,32,American Family Field,9
+777603,2025-06-08T01:38:00Z,2025-06-07,1,R,F,Final,136,Seattle Mariners,6,108,Los Angeles Angels,8,1,Angel Stadium,9
+777604,2025-06-08T01:40:00Z,2025-06-07,1,R,F,Final,121,New York Mets,8,115,Colorado Rockies,1,19,Coors Field,9
+777599,2025-06-08T02:05:00Z,2025-06-07,1,R,F,Final,110,Baltimore Orioles,7,133,Athletics,4,2529,Sutter Health Park,9

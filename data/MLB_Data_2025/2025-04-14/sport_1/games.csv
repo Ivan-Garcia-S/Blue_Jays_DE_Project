@@ -1,0 +1,11 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+778321,2025-04-14T22:40:00Z,2025-04-14,1,R,F,Final,120,Washington Nationals,3,134,Pittsburgh Pirates,10,31,PNC Park,9
+778320,2025-04-14T22:45:00Z,2025-04-14,1,R,F,Final,137,San Francisco Giants,10,143,Philadelphia Phillies,4,2681,Citizens Bank Park,9
+778328,2025-04-14T23:05:00Z,2025-04-14,1,R,F,Final,111,Boston Red Sox,1,139,Tampa Bay Rays,16,2523,George M. Steinbrenner Field,9
+778327,2025-04-14T23:05:00Z,2025-04-14,1,R,F,Final,118,Kansas City Royals,1,147,New York Yankees,4,3313,Yankee Stadium,9
+778322,2025-04-14T23:07:00Z,2025-04-14,1,R,F,Final,144,Atlanta Braves,8,141,Toronto Blue Jays,4,14,Rogers Centre,9
+778324,2025-04-14T23:40:00Z,2025-04-14,1,R,F,Final,121,New York Mets,5,142,Minnesota Twins,1,3312,Target Field,9
+778323,2025-04-14T23:40:00Z,2025-04-14,1,R,F,Final,116,Detroit Tigers,9,158,Milwaukee Brewers,1,32,American Family Field,9
+778325,2025-04-14T23:45:00Z,2025-04-14,1,R,F,Final,117,Houston Astros,3,138,St. Louis Cardinals,8,2889,Busch Stadium,9
+778315,2025-04-15T01:40:00Z,2025-04-14,1,R,F,Final,112,Chicago Cubs,4,135,San Diego Padres,10,2680,Petco Park,9
+778326,2025-04-15T02:10:00Z,2025-04-14,1,R,F,Final,115,Colorado Rockies,3,119,Los Angeles Dodgers,5,22,Dodger Stadium,9

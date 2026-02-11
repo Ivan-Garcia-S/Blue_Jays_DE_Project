@@ -1,0 +1,14 @@
+gamePk,gameDate,officialDate,sportId,gameType,codedGameState,detailedState,awayteamid,awayteamname,awayteamscore,hometeamid,hometeamname,hometeamscore,venueid,venuename,scheduledInnings
+776879,2025-08-04T22:40:00Z,2025-08-04,1,R,F,Final,137,San Francisco Giants,4,134,Pittsburgh Pirates,5,31,PNC Park,9
+776874,2025-08-04T22:40:00Z,2025-08-04,1,R,F,Final,142,Minnesota Twins,3,116,Detroit Tigers,6,2394,Comerica Park,9
+776875,2025-08-04T22:40:00Z,2025-08-04,1,R,F,Final,117,Houston Astros,8,146,Miami Marlins,2,4169,loanDepot park,9
+776877,2025-08-04T22:45:00Z,2025-08-04,1,R,F,Final,110,Baltimore Orioles,3,143,Philadelphia Phillies,13,2681,Citizens Bank Park,9
+776880,2025-08-04T23:10:00Z,2025-08-04,1,R,F,Final,118,Kansas City Royals,5,111,Boston Red Sox,8,3,Fenway Park,9
+776876,2025-08-04T23:10:00Z,2025-08-04,1,R,F,Final,114,Cleveland Guardians,7,121,New York Mets,6,3289,Citi Field,9
+776882,2025-08-04T23:15:00Z,2025-08-04,1,R,F,Final,158,Milwaukee Brewers,3,144,Atlanta Braves,1,4705,Truist Park,9
+776878,2025-08-05T00:05:00Z,2025-08-04,1,R,F,Final,113,Cincinnati Reds,3,112,Chicago Cubs,2,17,Wrigley Field,9
+776871,2025-08-05T00:05:00Z,2025-08-04,1,R,F,Final,147,New York Yankees,5,140,Texas Rangers,8,5325,Globe Life Field,9
+776872,2025-08-05T00:40:00Z,2025-08-04,1,R,F,Final,141,Toronto Blue Jays,15,115,Colorado Rockies,1,19,Coors Field,9
+776867,2025-08-05T01:38:00Z,2025-08-04,1,R,F,Final,139,Tampa Bay Rays,1,108,Los Angeles Angels,5,1,Angel Stadium,9
+776873,2025-08-05T01:40:00Z,2025-08-04,1,R,F,Final,135,San Diego Padres,2,109,Arizona Diamondbacks,6,15,Chase Field,9
+776870,2025-08-05T02:10:00Z,2025-08-04,1,R,F,Final,138,St. Louis Cardinals,3,119,Los Angeles Dodgers,2,22,Dodger Stadium,9
